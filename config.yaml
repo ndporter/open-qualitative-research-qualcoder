@@ -14,7 +14,7 @@ carpentry: 'incubator'
 title: 'Open Qualitative Research'
 
 # Date the lesson was created (YYYY-MM-DD, this is empty by default)
-created: 2023-08-17
+created: '2023-08-17'
 
 # Comma-separated list of keywords for the lesson
 keywords: 'software, data, lesson, The Carpentries, qualitative, library, open'
@@ -23,7 +23,7 @@ keywords: 'software, data, lesson, The Carpentries, qualitative, library, open'
 # possible values: pre-alpha, alpha, beta, stable
 life_cycle: 'pre-alpha'
 
-# License of the lesson
+# License of the lesson materials (recommended CC-BY 4.0)
 license: 'CC-BY 4.0'
 
 # Link to the source repository for this lesson
@@ -60,6 +60,7 @@ contact: 'ndporter@vt.edu'
 # Order of episodes in your lesson
 episodes:
 - introduction.md
+- 01-open-practices-for-qualitative-research.md
 
 # Information for Learners
 learners:
