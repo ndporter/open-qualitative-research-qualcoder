@@ -60,7 +60,7 @@ contact: 'ndporter@vt.edu'
 # Order of episodes in your lesson
 episodes:
 - introduction.md
-- 01-open-practices-for-qualitative-research.mdß
+- 01-open-practices-for-qualitative-research.md
 
 # Information for Learners
 learners:
