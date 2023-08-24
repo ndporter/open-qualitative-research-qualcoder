@@ -2,8 +2,19 @@
 site: sandpaper::sandpaper_site
 ---
 
-This is a new lesson built with [The Carpentries Workbench][workbench]. 
+This lesson familiarizes learners with the application of open science principles to qualitative research, with a focus on documents or transcribed text in a variety of data formats. Learners will practice working with secondary qualitative data from the Qualitative Data Repository (QDR) in the free software Taguette and discuss the options and limitations for open research with proprietary qualitative analysis packages, including options for sharing both source data and coded analysis projects.
 
+::: prereq 
 
-[workbench]: https://carpentries.github.io/sandpaper-docs
+## Prerequisites
+
+It is helpful, but not required, to be familiar with basic principles and practices in qualitative research, such as open and thematic coding. No experience with qualitative software or QDR is necessary.
+
+::: 
+
+We will annotate, analyze, and prepare to archive interview transcripts from a qualitative study of abortion reporting, focused on how participants decide whether to allow sharing data they provide on sensitive topics. Neither the original study nor this lesson proposes to draw conclusions on the political, legal, or moral aspects of abortion.
+
+The [original study](https://doi.org/10.1177/10497323211054058) concluded that not all participants fully understood the concept of data sharing and thus may not be able to give fully informed consent.
+
+In the lesson, we will use the data to explore to what extent concerns identified about "fully informed consent" are also relevant to research on less sensitive topics. To do so, we will reanalyze a portion of the data, compare our coding to the original study's coding, and use both traditional and data analytic methods to draw a tentative conclusion before packaging our own work to archive and share for other researchers.
 
