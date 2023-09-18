@@ -6,17 +6,16 @@ exercises: 5
 
 :::::::::::::::::::::::::::::::::::::: questions 
 
+- What are common elements of qualitative research projects?
 - Why share or reuse qualitative data?
-- What special challenges and risks can open qualitative research present?
 - How can open science principles be applied to qualitative research?
 
 ::::::::::::::::::::::::::::::::::::::::::::::::
 
 ::::::::::::::::::::::::::::::::::::: objectives
 
+- Compare common elements of quantitative and qualitative research projects
 - Articulate benefits of open qualitative research in terms of transparency, sharing, and inclusivity
-- Appreciate `something something participants` and `situated epistemological something`
-- Discuss ideas to integrate open science in qualitative research that `represent, protect, some better word` the subjectivity of participants
 
 ::::::::::::::::::::::::::::::::::::::::::::::::
 
