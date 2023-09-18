@@ -2,53 +2,45 @@
 title: Setup
 ---
 
-FIXME: Setup instructions live in this document. Please specify the tools and
-the data sets the Learner needs to have installed.
+In this workshop, we will practice reusing qualitative data with the software
+Taguette and a collection of interviews about data reuse published online.
+Please follow the steps below before the workshop to set up your computer.
 
 ## Data Sets
 
-<!--
-FIXME: place any data you want learners to use in `episodes/data` and then use
-       a relative link ( [data zip file](data/lesson-data.zip) ) to provide a
-       link to it, replacing the example.com link.
--->
-Download the [data zip file](https://example.com/FIXME) and unzip it to your Desktop
+The data we will use is available from the [Qualitative Data Repository][qdr] 
+(QDR) and requires creating a free QDR account.
+You are welcome to create an account before the workshops, but we will walk 
+through the process of setting up an account and downloading the data during 
+the workshop.
 
 ## Software Setup
 
-::::::::::::::::::::::::::::::::::::::: discussion
+We will use the free Coding and Qualitative Data Analysis software Taguette
+throughout the workshop.
+When possible, Taguette should be set up to run on your computer by following 
+the latest [Windows, Mac, or Linux instructions][taguette_install].
 
-### Details
+When running Taguette, initially a command line window will open. 
+This is a window, usually with a black background. 
+As Taguette runs, lines of text will appear in the command line window. 
+Then the Taguette interface will open in your default web browser. 
+You do not need to interact with the command line window. 
+Leave it open in the background, and work on projects in your web browser.
 
-Setup for different systems can be presented in dropdown menus via a `solution`
-tag. They will join to this discussion block, so you can give a general overview
-of the software used in this lesson here and fill out the individual operating
-systems (and potentially add more, e.g. online setup) in the solutions blocks.
+If you are unable to install Taguette on your own computer, 
+a [free cloud version][taguette_cloud] is also available from the developers,
+after creating a login.
 
-:::::::::::::::::::::::::::::::::::::::::::::::::::
-
-:::::::::::::::: solution
-
-### Windows
-
-Use PuTTY
-
-:::::::::::::::::::::::::
-
-:::::::::::::::: solution
-
-### MacOS
-
-Use Terminal.app
-
-:::::::::::::::::::::::::
+We will demonstrate using a local version of Taguette, 
+but the cloud interface looks and functions identically except for the addition
+of an "Account" menu at the top right, the lack of offline functionality, 
+and the ability to share collaborative projects with others without 
+[self-hosting][taguette_server].
 
 
-:::::::::::::::: solution
 
-### Linux
-
-Use Terminal
-
-:::::::::::::::::::::::::
-
+[qdr](https://qdr.syr.edu/)
+[taguette_install](https://www.taguette.org/install.html)
+[taguette_cloud](https://app.taguette.org/)
+[taguette_server](https://www.taguette.org/self-host.html)
