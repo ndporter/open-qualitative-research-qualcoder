@@ -8,7 +8,11 @@ This lesson familiarizes learners with the application of open science principle
 
 ## Prerequisites
 
-It is helpful, but not required, to be familiar with basic principles and practices in qualitative research, such as open and thematic coding. No experience with qualitative software or QDR is necessary.
+Learners should understand some basic principles of open science prior to starting the workshop. A good place to start is this [overview][os_lightning_talk] from Jonny Coates, part of a [series of lightning talks][osper_playlist] for those interested in learning more about specific open science topics.
+
+It is helpful, but not required, to be familiar with basic principles and practices in qualitative research, such as open and thematic coding.
+
+No experience with qualitative software or QDR is necessary.
 
 ::: 
 
@@ -18,3 +22,5 @@ The [original study](https://doi.org/10.1177/10497323211054058) concluded that n
 
 In the lesson, we will use the data to explore to what extent concerns identified about "fully informed consent" are also relevant to research on less sensitive topics. To do so, we will reanalyze a portion of the data, compare our coding to the original study's coding, and use both traditional and data analytic methods to draw a tentative conclusion before packaging our own work to archive and share for other researchers.
 
+[os_lightning_talk](https://youtu.be/QyFrR77UwyA?si=3TcKTPm9ZrDKZ_Mu)
+[osper_playlist](https://www.youtube.com/playlist?list=PLChfyH8TVDGl5JUEUxM5ehg6WdkEN-Lxd)
