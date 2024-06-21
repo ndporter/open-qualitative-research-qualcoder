@@ -118,11 +118,11 @@
   Open Qualitative Research
 </div>
 
-<aside class="col-md-12 lesson-progress"><div style="width: 20%" class="percentage">
-    20%
+<aside class="col-md-12 lesson-progress"><div style="width: 23%" class="percentage">
+    23%
   </div>
   <div class="progress incubator">
-    <div class="progress-bar incubator" role="progressbar" style="width: 20%" aria-valuenow="20" aria-label="Lesson Progress" aria-valuemin="0" aria-valuemax="100">
+    <div class="progress-bar incubator" role="progressbar" style="width: 23%" aria-valuenow="23" aria-label="Lesson Progress" aria-valuemin="0" aria-valuemax="100">
     </div>
   </div>
 </aside><div class="container">
@@ -338,7 +338,8 @@
 <div class="card-body">
 <div class="inner">
 <h3 class="card-title">Questions</h3>
-<ul><li>TBD</li>
+<ul><li>How are projects organized in Taguette?</li>
+<li>What limitations are there on documents in Taguette?</li>
 </ul></div>
 </div>
 </div>
@@ -347,8 +348,7 @@
 <div class="inner bordered">
 <h3 class="card-title">Objectives</h3>
 <ul><li>Create a Taguette project and import documents</li>
-<li>Appreciate differences between local and cloud versions of
-Taguette</li>
+<li>Apply consistent naming conventions to project documents</li>
 </ul></div>
 </div>
 </div>
@@ -361,10 +361,7 @@ data.</p>
 <div id="accordionSpoiler1" class="accordion spoiler-accordion accordion-flush">
 <div class="accordion-item">
 <button class="accordion-button spoiler-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseSpoiler1" aria-expanded="false" aria-controls="collapseSpoiler1">
-  <h3 class="accordion-header" id="headingSpoiler1">
-  <div class="note-square"><i aria-hidden="true" class="callout-icon" data-feather="eye"></i></div>
-  Qualitative software
-  </h3>
+  <h3 class="accordion-header" id="headingSpoiler1">  <div class="note-square"><i aria-hidden="true" class="callout-icon" data-feather="eye"></i></div> Qualitative software </h3>
 </button>
 <div id="collapseSpoiler1" class="accordion-collapse collapse" data-bs-parent="#accordionSpoiler1" aria-labelledby="headingSpoiler1">
 <div class="accordion-body">
@@ -416,7 +413,92 @@ highlights.</p>
 <figure><img src="fig/taguette-project-page.png" alt="Image of project page for a new project in Taguette with the Documents tab selected but no documents displayed" class="figure mx-auto d-block"><div class="figcaption">Taguette project page</div>
 </figure></section><section id="importing-and-navigating-documents"><h2 class="section-heading">Importing and navigating documents<a class="anchor" aria-label="anchor" href="#importing-and-navigating-documents"></a>
 </h2>
-<hr class="half-width"><div id="keypoints1" class="callout keypoints">
+<hr class="half-width"><p>Documents can be imported one at a time with the
+<code>Add a document</code> button in the <code>Documents</code> tab of
+the left pane. The first document you may want to add is the interview
+guide.</p>
+<figure><img src="fig/taguette-add-document.png" alt="Image of Add a document dialog in Taguette with a sample file selected" class="figure mx-auto d-block"><div class="figcaption">Taguette add document dialog</div>
+</figure><p>Once the document is imported, open it by clicking its title on the
+left.</p>
+<p>Semi-structured interview guides often include both main questions
+like <strong>Did you publish any of the data from your example?</strong>
+and planned follow-up probes meant for when the participant doesn’t
+volunteer as much information as the interviewer is seeking. For the
+question above, there are three probes to learn more about data
+publication (about 2/3 of the way down the document):</p>
+<ol style="list-style-type: decimal"><li>Is the data published in a repository? Which one?</li>
+<li>What are your plans for storing, retaining, and deleting data in the
+future?</li>
+<li>Who has access to the data?</li>
+</ol><div id="format-limitations" class="callout">
+<div class="callout-square">
+<i class="callout-icon" data-feather="bell"></i>
+</div>
+<div id="format-limitations" class="callout-inner">
+<h3 class="callout-title">Format limitations<a class="anchor" aria-label="anchor" href="#format-limitations"></a>
+</h3>
+<div class="callout-content">
+<p>Taguette can only import a limited number of the most common types of
+text documents, including <code>.pdf</code>, <code>.docx</code>,
+<code>.txt</code>, <code>.odt</code>, <code>.md</code>, and
+<code>.html</code> files. Images and most formatting will also be
+stripped when documents are imported.</p>
+<p>Scrolling through the interview guide for example, it looks like
+outline levels and section headers were flattened and a
+<code>Document Outline</code> based on formatting in the original
+<code>pdf</code> was added.</p>
+</div>
+</div>
+</div>
+<div id="adding-more-documents" class="callout challenge">
+<div class="callout-square">
+<i class="callout-icon" data-feather="zap"></i>
+</div>
+<div id="adding-more-documents" class="callout-inner">
+<h3 class="callout-title">Adding more documents<a class="anchor" aria-label="anchor" href="#adding-more-documents"></a>
+</h3>
+<div class="callout-content">
+<p>On your own, find and add each of the
+<code>Big Social Research</code> interview transcripts from the
+Mannheimer project. Make sure to use short, clear, consistently
+structured names to make it easy to navigate between documents.</p>
+</div>
+</div>
+</div>
+<div id="accordionHint1" class="accordion challenge-accordion accordion-flush">
+<div class="accordion-item">
+<button class="accordion-button hint-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseHint1" aria-expanded="false" aria-controls="collapseHint1">
+  <h4 class="accordion-header" id="headingHint1"> Give me a hint </h4>
+</button>
+<div id="collapseHint1" class="accordion-collapse collapse" data-bs-parent="#accordionHint1" aria-labelledby="headingHint1">
+<div class="accordion-body">
+<p>This project already uses a sequence of numbers to distinguish
+respondents without using names. One simple naming convention is
+<code>BSR_##</code>, where number is the respondent number
+(i.e. <code>BSR_01</code>). Some interview numbers may be missing; the
+readme file states why: “Two participants declined to have their data
+shared.”</p>
+</div>
+</div>
+</div>
+</div>
+<div id="adding-more-documents" class="callout discussion">
+<div class="callout-square">
+<i class="callout-icon" data-feather="message-circle"></i>
+</div>
+<div id="adding-more-documents" class="callout-inner">
+<h3 class="callout-title">Adding more documents<em>
+(continued)</em><a class="anchor" aria-label="anchor" href="#adding-more-documents"></a>
+</h3>
+<div class="callout-content">
+<p>Documents cannot be created or edited in Taguette. Any changes,
+including the removal <a href="https://en.wikipedia.org/wiki/Personal_data" class="external-link">personally
+identifiable information</a> from data that will be shared, must take
+place before they are added to the project.</p>
+</div>
+</div>
+</div>
+<div id="keypoints1" class="callout keypoints">
 <div class="callout-square">
 <i class="callout-icon" data-feather="key"></i>
 </div>
@@ -424,8 +506,13 @@ highlights.</p>
 <h3 class="callout-title">Key Points<a class="anchor" aria-label="anchor" href="#keypoints1"></a>
 </h3>
 <div class="callout-content">
-<p>TBA</p>
-</div>
+<ul><li>Taguette’s interface has two main sections, a left pane for
+navigating, and a right pane for viewing</li>
+<li>Documents should be cleaned and anonymized, if needed, before adding
+to a Taguette project</li>
+<li>Consistent document naming conventions make projects easier to
+navigate</li>
+</ul></div>
 </div>
 </div>
 <!-- 
