@@ -19,7 +19,9 @@ exercises: 30
 
 Once we have a general sense of the data we'll be using and what format it needs to be in, the next step is generally to create a project in a qualitative software package and import the de-identified raw data.
 
-::: callout
+::: spoiler
+
+## Qualitative software
 
 Qualitative software is sometimes called **CAQDAS**, an acronym for *Coding and Qualitative Data Analysis Software* to recognize the two essential functions of qualitative research software:
 
@@ -42,6 +44,8 @@ When you first open Taguette, there may be a short delay and you may see a text 
 
 ::: instructor
 
+## Taguette versions
+
 [Taguette Cloud][taguette_cloud] users will need to create an account and login and may also notice some differences in the launch page. Instead of `localhost:####` their address bar will read `app.taguette.org`. Additionally, where `Single-user mode` is highlighted on the local version, there will be an `Account` dropdown menu at the top right and the welcome will show their username.
 
 Users may also notice banners on one or both versions, and, if they have already created projects, those will appear as a list in the table.
@@ -63,6 +67,8 @@ Clicking `Create` takes us to the project page, where all our interactions with 
 ![Taguette project page](fig/taguette-project-page.png){alt="Image of project page for a new project in Taguette with the Documents tab selected but no documents displayed"}
 
 ## Importing and navigating documents
+
+
 
 ::: keypoints
 

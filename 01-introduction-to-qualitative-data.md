@@ -44,6 +44,8 @@ In the next step, we'll download some real qualitative data and explore how each
 
 ::: callout
 
+## Types of data
+
 Throughout this lesson, we'll be using semi-structured interviews, one of the most common types of qualitative data, in our examples and discussion. Content analysis generally involves similar concerns and processes, but uses other kinds of secondary data, such as published print or audio-visual materials. Other qualitative methods, such as participant observation and focus groups, may be somewhat less suited to these tools and approaches and may require adaptation beyond what is discussed here.
 
 Part of the power of qualitative research is its recognition that no method can be truly universal and that all analysis is contextual. We encourage you to treat the discussion and tools here as starting points, rather than templates.
@@ -78,6 +80,8 @@ The description, once expanded with the `Read full description` button summarize
 
 ::: discussion
 
+## Assessing usefulness
+
 Spend a few minutes reading the description and discuss with a partner how helpful you think this data might be for the social media privacy project and why.
 
 :::
@@ -92,7 +96,7 @@ This project contains a wide variety of information, including:
 
 Both the topic and the range of data available seem promising, and the QDR Standard Access license agreement allows any registered user to download the data, so let's download it and see what we find!
 
-::: callout
+::: spoiler
 
 ## Create a QDR Account
 
@@ -105,6 +109,8 @@ Once you have a QDR account, log in with the button on the top right and return 
 ![Screenshot highlighting the "Download Data Project" context menu for a QDR project](fig/qdr-data-download.png)
 
 ::: challenge
+
+## File types
 
 Open the folder using `Finder` (Mac) or `Explorer` (Windows) and inspect the file *extensions* (the part after the `.` in the filename). What types of files are included and what software would typically be used to open them?
 
@@ -132,9 +138,9 @@ In this project, the `txt` files provide *metadata*, or information about the pr
 
 Maybe you noticed something interesting about the interview topics in the description when we first looked at the data on QDR. Let's look again, either on the [project page](https://doi.org/10.5064/F6GWMU4O) or by opening the `README_Mannheimer.txt` in a text editor.
 
-::: callout
+::: spoiler
 
-### README Files
+## README Files
 
 In collections of data or other multi-file downloads, there is often a file named `readme.txt` or something similar. These are meant to provide an overview of the collection and how to go about using them.
 
@@ -148,7 +154,7 @@ This short paragraph packs a great deal of information about the interview topic
 
 ::: challenge
 
-### Reviewing study materials
+## Reviewing study materials
 
 Study materials from previous studies, like interview schedules or participant observation memos, provide a window into what might work for other related studies, including both what to ask and how to approach asking. Moreover, if the research dealt with a similar study population and the final product addressed topics of interest in your study as well, it also provides some evidence that a similar study design can be effective not just in theory but in practice.
 
@@ -161,6 +167,8 @@ Use the information in `README_Mannheimer.txt` to locate the 3 interview guides 
 :::
 
 ::: instructor
+
+## Challenge tips
 
 The activity above is most effective when participants are able to debrief for about 5 minutes either with small groups of 3-5 learners or as a larger group. When used independently, the learner may want to write down some notes instead.
 
@@ -200,11 +208,15 @@ The respondent may not have read all the questions but did identify a project th
 
 ::: callout
 
+## Critical incident technique
+
 Framing a qualitative interview around one specific event or project is a technique known as a [Critical Incident Interview](https://en.wikipedia.org/wiki/Critical_incident_technique) and often elicits a wider variety of reflection than abstract questions alone.
 
 :::
 
 ::: challenge
+
+## Reading interviews
 
 Read the following excerpt from `BSR01`s interview and consider the questions below:
 
@@ -232,6 +244,8 @@ Your study, again, is focused on the decisions individual social media users mak
 :::
 
 ::: instructor
+
+## Challenge tips
 
 The activity above is most effective when participants are able to debrief for about 3 minutes either with small groups of 2-3 learners or as a larger group. When used independently, the learner may want to write down some notes instead.
 
