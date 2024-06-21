@@ -40,7 +40,7 @@ and the ability to share collaborative projects with others without
 
 
 
-[qdr](https://qdr.syr.edu/)
-[taguette_install](https://www.taguette.org/install.html)
-[taguette_cloud](https://app.taguette.org/)
-[taguette_server](https://www.taguette.org/self-host.html)
+[qdr]: https://qdr.syr.edu/
+[taguette_install]: https://www.taguette.org/install.html
+[taguette_cloud]: https://app.taguette.org/
+[taguette_server]: https://www.taguette.org/self-host.html
