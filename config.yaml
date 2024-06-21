@@ -58,21 +58,22 @@ contact: 'ndporter@vt.edu'
 # - another-learner.md
 
 # Order of episodes in your lesson
-episodes: 
-- 01-open-practices-for-qualitative-research.md
-- 02-finding-and-using-textual-qualitative-data.md
-- 03-qualitative-coding-in-caqdas.md
-- 04-archiving-and-sharing-qualitative-data-and-analysis.md
-- 05-subject-autonomy-privacy-and-equity-in-open-qualitative-research.md
+episodes:
+- 01-introduction-to-qualitative-data.md
+- 02-setting-up-a-taguette-project.md
+- 03-best-practices-for-qualitative-coding.md
+- 04-qualitative-data-analysis.md
+- 05-saving-and-sharing-qualitative-data.md
 
 # Information for Learners
-learners: 
+learners:
+- alternative-software-options.md
 
 # Information for Instructors
-instructors: 
+instructors:
 
 # Learner Profiles
-profiles: 
+profiles:
 
 # Customisation ---------------------------------------------
 #
