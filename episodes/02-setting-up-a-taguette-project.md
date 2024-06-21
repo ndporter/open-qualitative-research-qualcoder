@@ -5,12 +5,16 @@ exercises: 30
 ---
 
 ::: questions
+
 -   TBD
+
 :::
 
 ::: objectives
+
 -   Create a Taguette project and import documents
 -   Appreciate differences between local and cloud versions of Taguette
+
 :::
 
 TBA
