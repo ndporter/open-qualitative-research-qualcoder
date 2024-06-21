@@ -5,14 +5,18 @@ exercises: 30
 ---
 
 ::: questions
+
 -   What can we learn from existing qualitative data?
 -   How is qualitative interview data typically structured?
+
 :::
 
 ::: objectives
+
 -   Appreciate the goals and approach of this lesson
 -   Identify opportunities and barriers for qualitative data reuse
 -   Practice finding and downloading data from a qualitative data repository
+
 :::
 
 For decades, a movement has been building among quantitative researchers to share data and analysis as completely as possible. In part, this is meant to improve scientific transparency, so findings can be checked and verified, but it also serves to provide a basis for future studies.

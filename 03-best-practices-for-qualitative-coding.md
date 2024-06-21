@@ -5,11 +5,15 @@ exercises: 30
 ---
 
 ::: questions
+
 -   TBD
+
 :::
 
 ::: objectives
+
 -   TBD
+
 :::
 
 TBA
