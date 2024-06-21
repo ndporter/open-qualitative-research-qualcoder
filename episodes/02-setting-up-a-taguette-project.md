@@ -41,7 +41,7 @@ If you haven't already installed Taguette, please follow the instructions in [Su
 
 When you first open Taguette, there may be a short delay and you may see a text window open (you can ignore this for now) then a new tab will open in your default browser that looks something like the image below.
 
-![Taguette launch screen](fig/taguette-launch-screen.png){alt="Image of the launch screen for Taguette in a browser window"}
+![](fig/taguette-launch-screen.png){alt="Image of the launch screen for Taguette in a browser window"}
 
 ::: instructor
 
@@ -61,17 +61,17 @@ In the future, callouts with persistent tab selection may be used to allow lesso
 
 Work in Taguette is organized in projects, each of which contain their own sets of *documents*, *tags*, and *highlights*. Click `Create a new project` and give it a clear name like `Social media privacy project planning`. Descriptions are not required but can be invaluable in finding the right project and documenting sources. Because we're re-using archival data, document the data source in the `Description` field.
 
-![Taguette New project screen](fig/taguette-new-project.png){alt="Image of New project screen in Taguette for a project named Social media privacy project planning. The description includes a citation to the data at QDR."}
+![](fig/taguette-new-project.png){alt="Image of New project screen in Taguette for a project named Social media privacy project planning. The description includes a citation to the data at QDR."}
 
 Clicking `Create` takes us to the project page, where all our interactions with the project will take place from now on. The left pane contains tabs to view or edit `Project info`, import or navigate `Documents`, and create or view `Highlights`. The right pane will display documents and highlights.
 
-![Taguette project page](fig/taguette-project-page.png){alt="Image of project page for a new project in Taguette with the Documents tab selected but no documents displayed"}
+![](fig/taguette-project-page.png){alt="Image of project page for a new project in Taguette with the Documents tab selected but no documents displayed"}
 
 ## Importing and navigating documents
 
 Documents can be imported one at a time with the `Add a document` button in the `Documents` tab of the left pane. The first document you may want to add is the interview guide.
 
-![Taguette add document dialog](fig/taguette-add-document.png){alt="Image of Add a document dialog in Taguette with a sample file selected"}
+![](fig/taguette-add-document.png){alt="Image of Add a document dialog in Taguette with a sample file selected"}
 
 Once the document is imported, open it by clicking its title on the left.
 
@@ -103,9 +103,10 @@ This project already uses a sequence of numbers to distinguish respondents witho
 
 :::
 
+:::
+
 Documents cannot be created or edited in Taguette. Any changes, including the removal [personally identifiable information](https://en.wikipedia.org/wiki/Personal_data) from data that will be shared, must take place before they are added to the project.
 
-:::
 
 ::: keypoints
 
