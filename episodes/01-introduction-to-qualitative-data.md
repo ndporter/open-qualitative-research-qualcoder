@@ -43,9 +43,11 @@ The first step to reuse is to understand what elements might be reused and why. 
 In the next step, we'll download some real qualitative data and explore how each of these products might be useful to another researcher.
 
 ::: callout
+
 Throughout this lesson, we'll be using semi-structured interviews, one of the most common types of qualitative data, in our examples and discussion. Content analysis generally involves similar concerns and processes, but uses other kinds of secondary data, such as published print or audio-visual materials. Other qualitative methods, such as participant observation and focus groups, may be somewhat less suited to these tools and approaches and may require adaptation beyond what is discussed here.
 
 Part of the power of qualitative research is its recognition that no method can be truly universal and that all analysis is contextual. We encourage you to treat the discussion and tools here as starting points, rather than templates.
+
 :::
 
 ### Finding and Downloading QDR Data
@@ -75,7 +77,9 @@ Before going to the trouble of registering, let's take a look at what is actuall
 The description, once expanded with the `Read full description` button summarizes the project, research questions, data collection process, and what is included in the collection here.
 
 ::: discussion
+
 Spend a few minutes reading the description and discuss with a partner how helpful you think this data might be for the social media privacy project and why.
+
 :::
 
 This project contains a wide variety of information, including:
@@ -89,9 +93,11 @@ This project contains a wide variety of information, including:
 Both the topic and the range of data available seem promising, and the QDR Standard Access license agreement allows any registered user to download the data, so let's download it and see what we find!
 
 ::: callout
+
 ## Create a QDR Account
 
 If you don't already have one, you'll need to create an account at QDR for the next step. To do so, click [Register](https://qdr.syr.edu/user/register). in the top right of the summary page. Fill out the registration form and click `Create new account`, performing any necessary verification before proceeding.
+
 :::
 
 Once you have a QDR account, log in with the button on the top right and return to the [summary page][mannheimer-qdr]. Click `Download Data Project` (see image below), download the ZIP file to your desktop, and extract the files into a folder on your desktop.
@@ -99,13 +105,17 @@ Once you have a QDR account, log in with the button on the top right and return 
 ![Screenshot highlighting the "Download Data Project" context menu for a QDR project](fig/qdr-data-download.png)
 
 ::: challenge
+
 Open the folder using `Finder` (Mac) or `Explorer` (Windows) and inspect the file *extensions* (the part after the `.` in the filename). What types of files are included and what software would typically be used to open them?
 
 ::: hint
+
 Don't worry if you don't recognize all of the file types. Just identify what you know. If you have time during the exercise, you can use a web search like `open pdf file`) to search for information.
+
 :::
 
 ::: solution
+
 The project includes the following four types of files:
 
 -   `txt` files are plain text and can be opened in any notepad or document software
@@ -114,6 +124,7 @@ The project includes the following four types of files:
 -   `qdpx` files are the REFI-QDA qualitative interchange format and can be opened in a variety of qualitative software
 
 In this project, the `txt` files provide *metadata*, or information about the project, while all other files are part of the data itself. Taguette can't read `nvpx` or `qdpx` files, so the most important files to us will be the `pdf` interview transcripts.
+
 :::
 :::
 
@@ -122,9 +133,11 @@ In this project, the `txt` files provide *metadata*, or information about the pr
 Maybe you noticed something interesting about the interview topics in the description when we first looked at the data on QDR. Let's look again, either on the [project page](https://doi.org/10.5064/F6GWMU4O) or by opening the `README_Mannheimer.txt` in a text editor.
 
 ::: callout
+
 ### README Files
 
 In collections of data or other multi-file downloads, there is often a file named `readme.txt` or something similar. These are meant to provide an overview of the collection and how to go about using them.
+
 :::
 
 Let's zero in on the first paragraph under `Data Description and Collection Overview`:
@@ -134,6 +147,7 @@ Let's zero in on the first paragraph under `Data Description and Collection Over
 This short paragraph packs a great deal of information about the interview topics and questions. Our topic of social media privacy may share a good deal with some of the issues the original interviews focused on. Let's look a little deeper into what we can learn to help in our own study.
 
 ::: challenge
+
 ### Reviewing study materials
 
 Study materials from previous studies, like interview schedules or participant observation memos, provide a window into what might work for other related studies, including both what to ask and how to approach asking. Moreover, if the research dealt with a similar study population and the final product addressed topics of interest in your study as well, it also provides some evidence that a similar study design can be effective not just in theory but in practice.
@@ -143,12 +157,15 @@ Use the information in `README_Mannheimer.txt` to locate the 3 interview guides 
 1.  Which of the six issues the researchers identified seem most relevant to planning your study? Why?
 2.  Is one of the original study populations more relevant to understanding shared issues with your study? Which one and why?
 3.  Read through the questions in the interview guide for the most relevant population you identified above. Are there questions that might be adapted or borrowed for your own interviews about social media privacy decisions?
+
 :::
 
 ::: instructor
+
 The activity above is most effective when participants are able to debrief for about 5 minutes either with small groups of 3-5 learners or as a larger group. When used independently, the learner may want to write down some notes instead.
 
 Alternatively, this activity may be moved to after the Taguette project is created, in which case learners can import the files into their project and annotate them using linked memos.
+
 :::
 
 For now, we're going to focus on the Big Social Research group, because the type of data they were interviewed about their work with is the most similar to what our participants may be sharing. You may have drawn a different conclusion, and likewise, each group might provide unique insights.
@@ -182,10 +199,13 @@ Reading even this first section in the image, we can get some insight into decis
 The respondent may not have read all the questions but did identify a project that the rest of the interview will revolve around.
 
 ::: callout
+
 Framing a qualitative interview around one specific event or project is a technique known as a [Critical Incident Interview](https://en.wikipedia.org/wiki/Critical_incident_technique) and often elicits a wider variety of reflection than abstract questions alone.
+
 :::
 
 ::: challenge
+
 Read the following excerpt from `BSR01`s interview and consider the questions below:
 
 > **Sara Mannheimer**
@@ -208,12 +228,15 @@ Your study, again, is focused on the decisions individual social media users mak
 
 1.  What direct discussion, if any, is there of user privacy decision processes here?
 2.  How might the example of name matching processes used by `BRS01` inform how your team asks about privacy concerns with your study participants?
+
 :::
 
 ::: instructor
+
 The activity above is most effective when participants are able to debrief for about 3 minutes either with small groups of 2-3 learners or as a larger group. When used independently, the learner may want to write down some notes instead.
 
 Alternatively, this activity may be moved to after the Taguette project is created, in which case learners can view the transcript directly in their project and use linked memos to annotate any notes relevant to their project.
+
 :::
 
 ::: keypoints

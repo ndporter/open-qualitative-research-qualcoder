@@ -2,4 +2,4 @@
 title: 'Alternative Software Options'
 ---
 
-TBA
+This page will feature an overview of other CAQDAS and potentially links to related lessons on them.
