@@ -74,7 +74,7 @@ Essentially, QDR is a place for researchers to share qualitative and mixed metho
 
 Before going to the trouble of registering, let's take a look at what is actually available in this data collection.
 
-![QDR project summary page](fig/qdr-project-page.png){alt="Screenshot of a webpage titled \"Interviews regarding data curation for qualitative data reuse and big social research\" within QDR"}.
+![](fig/qdr-project-page.png){alt="Screenshot of a webpage titled \"Interviews regarding data curation for qualitative data reuse and big social research\" within QDR"}
 
 The description, once expanded with the `Read full description` button summarizes the project, research questions, data collection process, and what is included in the collection here.
 
@@ -106,7 +106,7 @@ If you don't already have one, you'll need to create an account at QDR for the n
 
 Once you have a QDR account, log in with the button on the top right and return to the [summary page][mannheimer-qdr]. Click `Download Data Project` (see image below), download the ZIP file to your desktop, and extract the files into a folder on your desktop.
 
-![Screenshot highlighting the "Download Data Project" context menu for a QDR project](fig/qdr-data-download.png)
+![](fig/qdr-data-download.png){alt="Screenshot highlighting the Download Data Project context menu for a QDR project"}
 
 ::: challenge
 
@@ -190,7 +190,7 @@ One of the most commonly-analyzed types of raw qualitative data is interview tra
 
 Let's open one of the Big Social transcripts, `Mannheimer_BSR01_Transcript.pdf`, in your default `pdf` reader and look at how transcripts are structured in this project.
 
-![Upper portion of the first page of an interview transcript](fig/big-social-transcript-image.png)
+![](fig/big-social-transcript-image.png){alt="Upper portion of the first page of an interview transcript"}
 
 `PDF` files appear as page images, but most modern PDFs allow you to select text and other elements. In this transcript, we see a few header elements:
 
