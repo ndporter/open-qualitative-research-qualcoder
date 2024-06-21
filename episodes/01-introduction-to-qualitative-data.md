@@ -44,7 +44,7 @@ In the next step, we'll download some real qualitative data and explore how each
 
 ::: callout
 
-## Types of data
+### Types of data
 
 Throughout this lesson, we'll be using semi-structured interviews, one of the most common types of qualitative data, in our examples and discussion. Content analysis generally involves similar concerns and processes, but uses other kinds of secondary data, such as published print or audio-visual materials. Other qualitative methods, such as participant observation and focus groups, may be somewhat less suited to these tools and approaches and may require adaptation beyond what is discussed here.
 
@@ -52,7 +52,7 @@ Part of the power of qualitative research is its recognition that no method can 
 
 :::
 
-### Finding and Downloading QDR Data
+## Finding and Downloading QDR Data
 
 Discussing data reuse in the abstract can only get you so far. Instead, we will imagine we face the following scenario and working together to discover how we can take advantage of others hard work to improve our research:
 
@@ -80,7 +80,7 @@ The description, once expanded with the `Read full description` button summarize
 
 ::: discussion
 
-## Assessing usefulness
+### Assessing usefulness
 
 Spend a few minutes reading the description and discuss with a partner how helpful you think this data might be for the social media privacy project and why.
 
@@ -98,7 +98,7 @@ Both the topic and the range of data available seem promising, and the QDR Stand
 
 ::: spoiler
 
-## Create a QDR Account
+### Create a QDR Account
 
 If you don't already have one, you'll need to create an account at QDR for the next step. To do so, click [Register](https://qdr.syr.edu/user/register). in the top right of the summary page. Fill out the registration form and click `Create new account`, performing any necessary verification before proceeding.
 
@@ -110,7 +110,7 @@ Once you have a QDR account, log in with the button on the top right and return 
 
 ::: challenge
 
-## File types
+### File types
 
 Open the folder using `Finder` (Mac) or `Explorer` (Windows) and inspect the file *extensions* (the part after the `.` in the filename). What types of files are included and what software would typically be used to open them?
 
@@ -134,13 +134,13 @@ In this project, the `txt` files provide *metadata*, or information about the pr
 :::
 :::
 
-### Methodologies and Instruments
+## Methodologies and Instruments
 
 Maybe you noticed something interesting about the interview topics in the description when we first looked at the data on QDR. Let's look again, either on the [project page](https://doi.org/10.5064/F6GWMU4O) or by opening the `README_Mannheimer.txt` in a text editor.
 
 ::: spoiler
 
-## README Files
+### README Files
 
 In collections of data or other multi-file downloads, there is often a file named `readme.txt` or something similar. These are meant to provide an overview of the collection and how to go about using them.
 
@@ -154,7 +154,7 @@ This short paragraph packs a great deal of information about the interview topic
 
 ::: challenge
 
-## Reviewing study materials
+### Reviewing study materials
 
 Study materials from previous studies, like interview schedules or participant observation memos, provide a window into what might work for other related studies, including both what to ask and how to approach asking. Moreover, if the research dealt with a similar study population and the final product addressed topics of interest in your study as well, it also provides some evidence that a similar study design can be effective not just in theory but in practice.
 
@@ -168,7 +168,7 @@ Use the information in `README_Mannheimer.txt` to locate the 3 interview guides 
 
 ::: instructor
 
-## Challenge tips
+### Challenge tips
 
 The activity above is most effective when participants are able to debrief for about 5 minutes either with small groups of 3-5 learners or as a larger group. When used independently, the learner may want to write down some notes instead.
 
@@ -180,7 +180,7 @@ For now, we're going to focus on the Big Social Research group, because the type
 
 If we can adapt questions and anticipate concerns and challenges relevant to our data collection, we may be able to improve the quality of our study and interview design, without repeating all the background research from the previous study.
 
-### Raw Data
+## Raw Data
 
 Interview schedules and study plans provide insight into **the research team's** expectations and approaches. The power of raw data, such as interview transcripts, is that it shows (much more directly) how **the study participants** construct their own views of the study topics and respond to the questions. Context and constructivism are core concerns of most qualitative researchers, leading the raw data to be possibly the most critical aspect of data for faithful and effective reuse.
 
@@ -208,7 +208,7 @@ The respondent may not have read all the questions but did identify a project th
 
 ::: callout
 
-## Critical incident technique
+### Critical incident technique
 
 Framing a qualitative interview around one specific event or project is a technique known as a [Critical Incident Interview](https://en.wikipedia.org/wiki/Critical_incident_technique) and often elicits a wider variety of reflection than abstract questions alone.
 
@@ -216,7 +216,7 @@ Framing a qualitative interview around one specific event or project is a techni
 
 ::: challenge
 
-## Reading interviews
+### Reading interviews
 
 Read the following excerpt from `BSR01`s interview and consider the questions below:
 
@@ -245,7 +245,7 @@ Your study, again, is focused on the decisions individual social media users mak
 
 ::: instructor
 
-## Challenge tips
+### Challenge tips
 
 The activity above is most effective when participants are able to debrief for about 3 minutes either with small groups of 2-3 learners or as a larger group. When used independently, the learner may want to write down some notes instead.
 
