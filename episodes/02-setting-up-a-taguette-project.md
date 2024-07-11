@@ -95,7 +95,7 @@ Scrolling through the interview guide for example, it looks like outline levels 
 
 ### Adding more documents
 
-On your own, find and add each of the `Big Social Research` interview transcripts from the Mannheimer project. Make sure to use short, clear, consistently structured names to make it easy to navigate between documents.
+On your own, find and add each of the `Big Social Research` interview transcripts from the Mannheimer project. Make sure to use short, clear, consistently structured names to make it easy to navigate between documents. Also add the BSR Interview Guide as a reference, though we won't add highlights because it only contains the questions.
 
 ::: hint
 
