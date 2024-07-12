@@ -471,7 +471,7 @@ privacy researcher, might apply to part or all of the excerpt above.</p>
 <button class="accordion-button hint-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseHint1" aria-expanded="false" aria-controls="collapseHint1">
   <h4 class="accordion-header" id="headingHint1"> Give me a hint </h4>
 </button>
-<div id="collapseHint1" class="accordion-collapse collapse" data-bs-parent="#accordionHint1" aria-labelledby="headingHint1">
+<div id="collapseHint1" class="accordion-collapse collapse" aria-labelledby="headingHint1" data-bs-parent="#accordionHint1">
 <div class="accordion-body">
 <p>Open codes can range from very specific to more general, but
 theoretically fruitful codes are often somewhere in the middle - general
@@ -486,7 +486,7 @@ excerpts have something more in common.</p>
 <button class="accordion-button solution-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseSolution1" aria-expanded="false" aria-controls="collapseSolution1">
   <h4 class="accordion-header" id="headingSolution1"> Show me the solution </h4>
 </button>
-<div id="collapseSolution1" class="accordion-collapse collapse" data-bs-parent="#accordionSolution1" aria-labelledby="headingSolution1">
+<div id="collapseSolution1" class="accordion-collapse collapse" aria-labelledby="headingSolution1" data-bs-parent="#accordionSolution1">
 <div class="accordion-body">
 <p>There are multiple words or phrases that might capture some of this
 excerpt’s relevance for our research. Taguette allows applying multiple
@@ -519,11 +519,7 @@ case.</p>
 the highlight and create additional tags. Names should be short and
 clear. Adding descriptions can help clarify the difference between
 similar tags, especially if working collaboratively with others.</p>
-<p><img src="fig/taguette-privacy-highlight.png" class="figure">{alt=“Image of
-Taguette New Tag dialog for tag named privacy with description sharing
-or protection of personal information, including both web (social media,
-etc) and research}</p>
-<p>The “Highlights” tab at the left allows us to see all the tags we’ve
+<figure><img src="fig/taguette-privacy-highlight.png" alt="Image of Taguette New Tag dialog for tag named privacy with description sharing or protection of personal information, including both web (social media, etc) and research" class="figure mx-auto d-block"></figure><p>The “Highlights” tab at the left allows us to see all the tags we’ve
 created and to how many highlights each has been applied. I created tags
 for both “privacy” and “identity protection” but later realized they
 overlap so much conceptually they don’t need to be separated.</p>
@@ -543,7 +539,7 @@ removed.</p>
 <blockquote>
 <p>“Measure twice and cut once.” -<a href="https://en.wiktionary.org/wiki/measure_twice_and_cut_once" class="external-link">English
 proverb</a> meaning one should plan and prepare in a careful, thorough
-manner before taking action. and act once precisely and properly.</p>
+manner before taking action and act once precisely and properly.</p>
 </blockquote>
 <p>Taguette has no undo or history functions. Merged or deleted tags
 cannot be retrieved. Even if you export a copy of a project before
@@ -558,31 +554,95 @@ to its previous state within Taguette.</p>
 <p>An alternative approach to inductive coding, <em>in vivo coding</em>,
 tries to further reduce researcher bias effects by creating initial code
 labels only from the language used in the interviews themselves.</p>
-<p>[ADD IN VIVO EXAMPLE IN BSR TRANSCRIPT - CREATE IN VIVO CODES WITH
-INVIVO LABEL]</p>
-<p>NOTES ON MORE?</p>
+<p>Let’s look at a passage slightly earlier in the paragraph we’ve been
+working with.</p>
+<blockquote>
+<p>And we ended up using that data for a project on looking at how
+people disclosed early in the hashtag campaign, and how that may have
+produced stigma around kind of disclosing for other women to disclose
+experiencing sexual violence. So it was kind of a sensitive data
+set.</p>
+</blockquote>
+<p>The person being interviewed used a number of words and phrases that
+may be relevant to data privacy protection in these sentences including
+disclosed, stigma, disclosing, disclose, experience, sexual violence,
+and sensitive data. Rather than categorizing themes at this stage, in
+vivo coding retains language used by the participants.</p>
+<p>Let’s highlight “disclosed” and apply a new tag called “disclose” to
+it. The same tag can be applied to “disclosing” and “disclose;” although
+they are different words, they have the same root word and express the
+same idea.</p>
+<figure><img src="fig/taguette-in-vivo.png" alt="Image of Taguette document view with the words disclosed, disclosing, and disclose highlighted with the tag disclose" class="figure mx-auto d-block"></figure><div id="coding-trees" class="callout challenge">
+<div class="callout-square">
+<i class="callout-icon" data-feather="zap"></i>
+</div>
+<div id="coding-trees" class="callout-inner">
+<h3 class="callout-title">Coding trees<a class="anchor" aria-label="anchor" href="#coding-trees"></a>
+</h3>
+<div class="callout-content">
+<p>*Our project now combines thematic and in vivo coding in one document
+with no easy way to separate the types. Coding trees can help clarify
+and sort code groups.</p>
+<p>Like the plants, code trees have branches, which may be types of
+codes or broad themes. Leaves, or specific codes or subcategories, each
+“grow” from one larger branch.*</p>
+<p>Edit each tag you have created (e.g., not “interesting”) and add
+either <code>in vivo:</code> or <code>open:</code> to create a code tree
+where codes are sorted by coding method.</p>
+</div>
+</div>
+</div>
+<div id="accordionSolution2" class="accordion challenge-accordion accordion-flush">
+<div class="accordion-item">
+<button class="accordion-button solution-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseSolution2" aria-expanded="false" aria-controls="collapseSolution2">
+  <h4 class="accordion-header" id="headingSolution2"> Show me the solution </h4>
+</button>
+<div id="collapseSolution2" class="accordion-collapse collapse" aria-labelledby="headingSolution2" data-bs-parent="#accordionSolution2">
+<div class="accordion-body">
+<p>After editing tags, your project should look something like this:</p>
+<figure><img src="fig/taguette-code-tree.png" alt="Image of Taguette showing highlights tab with tags including 'in vivo: disclose' and 'open: privacy'" class="figure mx-auto d-block"></figure><p>Some other qualitative software also implements dynamic code trees
+that allow multiple levels of nesting and automate viewing all subcodes
+(leaves) of a single code (branch), but embedding branches in code names
+is the only option currently available in Taguette.</p>
+</div>
+</div>
+</div>
+</div>
+<p>Once applied, in vivo codes can be analyzed individually or later
+aggregated during the axial coding process, introduced in a later
+section.</p>
 </div>
 </section><section><h2 class="section-heading" id="deductive-coding">Deductive coding<a class="anchor" aria-label="anchor" href="#deductive-coding"></a>
 <a class="anchor" aria-label="anchor" href="#deductive-coding"></a></h2>
-<hr class="half-width"><p>Deductive codes are applied in much the same way as inductive codes,
-but their development typically takes place earlier in the process,
-ideally even before data collection, because the tags and themes reflect
-the theory and hypotheses the study is designed to test.</p>
-<p>MORE</p>
-<p>As with inductive and deductive reasoning, the separation between
-inductive and deductive coding is rarely complete. Inductive researchers
-often informally develop concepts and theories based on early data and
-test and refine them as more data is collected or read. Deductive
-researchers frequently add codes for ideas that arise in interviews but
-not anticipated by theory, sometimes even using them to create
-alternative or revised versions of the existing theories.</p>
-<p>As a researcher, how closely you adhere to a single reasoning or
-coding model will likely depend on personal research questions and
-values, as well as norms in the fields where the research will be
-shared.</p>
+<hr class="half-width"><p>Deductive codes are applied much the same way as open codes, but
+development takes place earlier, ideally before data collection, because
+tags and themes reflect theories and hypotheses the study is designed to
+test.</p>
+<p>FIND A THEORETICAL FRAMEWORK IN MANNHEIMER FROM BEFORE MANNHEIMER AND
+APPLY</p>
+<p>Like inductive and deductive reasoning, the separation between
+inductive and deductive coding is rarely complete. As a researcher, how
+closely you adhere to a single reasoning or coding model will likely
+depend on personal research questions and values, as well as norms in
+the fields where the research will be shared.</p>
 </section><section><h2 class="section-heading" id="axial-coding">Axial coding<a class="anchor" aria-label="anchor" href="#axial-coding"></a>
 <a class="anchor" aria-label="anchor" href="#axial-coding"></a></h2>
-<hr class="half-width"><p>[include coding trees]</p>
+<hr class="half-width"><p>Most qualitative projects require more than one round of coding for a
+few reasons:</p>
+<ol style="list-style-type: decimal"><li>The first documents rarely highlight every relevant theme. Themes
+and language important in later interviews may still be reflected in
+early interviews but less obvious before the theme was brought to the
+researcher’s attention. Revisiting early interviews supports consistent
+code application.</li>
+<li>Multiple coders may use tags in slightly different ways, which
+eventually need to be adjusted to a consistent scheme.</li>
+<li>Key relationships between codes may only become obvious once initial
+codes are considered, leading to consolidation or the development of new
+tags as researchers become more familiar with the documents and
+themes.</li>
+<li>When coding in vivo, people may use language differently and
+multiple phrases may represent a single idea.</li>
+</ol><p>MORE</p>
 <div id="keypoints1" class="callout keypoints">
 <div class="callout-square">
 <i class="callout-icon" data-feather="key"></i>
@@ -591,8 +651,15 @@ shared.</p>
 <h3 class="callout-title">Key Points<a class="anchor" aria-label="anchor" href="#keypoints1"></a>
 </h3>
 <div class="callout-content">
-<p>TBA</p>
-</div>
+<ul><li>Qualitative code protocols are developed based on research goals and
+philosophies</li>
+<li>Inductive research focuses on discovering or exploring themes and
+often uses open or in vivo coding</li>
+<li>Deductive research focuses on testing hypotheses and typically
+applies a predefined coding scheme based on theory</li>
+<li>In Taguette, tags are labelled codes applied to highlighted excerpts
+of text</li>
+</ul></div>
 </div>
 </div>
 <!--
