@@ -104,7 +104,7 @@ Taguette supports multiple tags per highlight but does not allow overlapping hig
 
 Let's create some of the tags we defined in our discussion. Click on the highlight and create additional tags. Names should be short and clear. Adding descriptions can help clarify the difference between similar tags, especially if working collaboratively with others.
 
-![](fig/taguette-privacy-highlight.png){alt="Image of Taguette New Tag dialog for tag named privacy with description sharing or protection of personal information, including both web (social media, etc) and research}
+![](fig/taguette-privacy-highlight.png){alt="Image of Taguette New Tag dialog for tag named privacy with description sharing or protection of personal information, including both web (social media, etc) and research"}
 
 The "Highlights" tab at the left allows us to see all the tags we've created and to how many highlights each has been applied. I created tags for both "privacy" and "identity protection" but later realized they overlap so much conceptually they don't need to be separated.
 
@@ -114,7 +114,7 @@ To merge two tags click "Edit" next to the tag you want to remove and click "Mer
 
 ### Plan twice; click once
 
-> "Measure twice and cut once." -[English proverb](https://en.wiktionary.org/wiki/measure_twice_and_cut_once) meaning one should plan and prepare in a careful, thorough manner before taking action. and act once precisely and properly.
+> "Measure twice and cut once." -[English proverb](https://en.wiktionary.org/wiki/measure_twice_and_cut_once) meaning one should plan and prepare in a careful, thorough manner before taking action and act once precisely and properly.
 
 Taguette has no undo or history functions. Merged or deleted tags cannot be retrieved. Even if you export a copy of a project before making changes, there is no import functionality to restore the project to its previous state within Taguette.
 
@@ -124,27 +124,65 @@ Taguette has no undo or history functions. Merged or deleted tags cannot be retr
 
 An alternative approach to inductive coding, *in vivo coding*, tries to further reduce researcher bias effects by creating initial code labels only from the language used in the interviews themselves.
 
-[ADD IN VIVO EXAMPLE IN BSR TRANSCRIPT - CREATE IN VIVO CODES WITH INVIVO LABEL]
+Let's look at a passage slightly earlier in the paragraph we've been working with.
 
-NOTES ON MORE?
+> And we ended up using that data for a project on looking at how people disclosed early in the hashtag campaign, and how that may have produced stigma around kind of disclosing for other women to disclose experiencing sexual violence. So it was kind of a sensitive data set.
+
+The person being interviewed used a number of words and phrases that may be relevant to data privacy protection in these sentences including disclosed, stigma, disclosing, disclose, experience, sexual violence, and sensitive data. Rather than categorizing themes at this stage, in vivo coding retains language used by the participants.
+
+Let's highlight "disclosed" and apply a new tag called "disclose" to it. The same tag can be applied to "disclosing" and "disclose;" although they are different words, they have the same root word and express the same idea.
+
+![](fig/taguette-in-vivo.png){alt="Image of Taguette document view with the words disclosed, disclosing, and disclose highlighted with the tag disclose"}
+
+::: challenge
+
+### Coding trees
+
+*Our project now combines thematic and in vivo coding in one document with no easy way to separate the types. Coding trees can help clarify and sort code groups.
+
+Like the plants, code trees have branches, which may be types of codes or broad themes. Leaves, or specific codes or subcategories, each "grow" from one larger branch.*
+
+Edit each tag you have created (e.g., not "interesting") and add either `in vivo: ` or `open: ` to create a code tree where codes are sorted by coding method.
+
+::: solution
+
+After editing tags, your project should look something like this:
+
+![](fig/taguette-code-tree.png){alt="Image of Taguette showing highlights tab with tags including 'in vivo: disclose' and 'open: privacy'"}
+
+Some other qualitative software also implements dynamic code trees that allow multiple levels of nesting and automate viewing all subcodes (leaves) of a single code (branch), but embedding branches in code names is the only option currently available in Taguette.
+
+:::
+
+:::
+
+Once applied, in vivo codes can be analyzed individually or later aggregated during the axial coding process, introduced in a later section.
 
 ## Deductive coding
 
-Deductive codes are applied in much the same way as inductive codes, but their development typically takes place earlier in the process, ideally even before data collection, because the tags and themes reflect the theory and hypotheses the study is designed to test.
+Deductive codes are applied much the same way as open codes, but development takes place earlier, ideally before data collection, because tags and themes reflect theories and hypotheses the study is designed to test.
 
-MORE
+FIND A THEORETICAL FRAMEWORK IN MANNHEIMER FROM BEFORE MANNHEIMER AND APPLY
 
-As with inductive and deductive reasoning, the separation between inductive and deductive coding is rarely complete. Inductive researchers often informally develop concepts and theories based on early data and test and refine them as more data is collected or read. Deductive researchers frequently add codes for ideas that arise in interviews but not anticipated by theory, sometimes even using them to create alternative or revised versions of the existing theories.
-
-As a researcher, how closely you adhere to a single reasoning or coding model will likely depend on personal research questions and values, as well as norms in the fields where the research will be shared.
+Like inductive and deductive reasoning, the separation between inductive and deductive coding is rarely complete. As a researcher, how closely you adhere to a single reasoning or coding model will likely depend on personal research questions and values, as well as norms in the fields where the research will be shared.
 
 ## Axial coding
 
-[include coding trees]
+Most qualitative projects require more than one round of coding for a few reasons:
+
+1. The first documents rarely highlight every relevant theme. Themes and language important in later interviews may still be reflected in early interviews but less obvious before the theme was brought to the researcher's attention. Revisiting early interviews supports consistent code application.
+2. Multiple coders may use tags in slightly different ways, which eventually need to be adjusted to a consistent scheme.
+3. Key relationships between codes may only become obvious once initial codes are considered, leading to consolidation or the development of new tags as researchers become more familiar with the documents and themes.
+4. When coding in vivo, people may use language differently and multiple phrases may represent a single idea.
+
+MORE
 
 
 ::: keypoints
 
-TBA
+- Qualitative code protocols are developed based on research goals and philosophies
+- Inductive research focuses on discovering or exploring themes and often uses open or in vivo coding
+- Deductive research focuses on testing hypotheses and typically applies a predefined coding scheme based on theory
+- In Taguette, tags are labelled codes applied to highlighted excerpts of text
 
 :::
