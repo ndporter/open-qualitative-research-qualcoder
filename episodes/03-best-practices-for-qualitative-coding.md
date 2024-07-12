@@ -46,27 +46,101 @@ Even though deductive and inductive reasoning are both part of nearly every stud
 
 ## Inductive coding
 
-In 1967, US sociologists Glaser and Strauss formalized **grounded theory**, one method for conducting structured qualitative research without presupposing a hypothesis or theory. They recognized that how people experience the world (i.e., the economy) can be at least as important as traditional measures (i.e., personal income or gross domestic product).
+In 1967, US sociologists Glaser and Strauss formalized (*grounded theory*)[https://en.wikipedia.org/wiki/Grounded_theory], one method for conducting structured qualitative research without presupposing a hypothesis or theory. They recognized that how people experience the world (i.e., the economy) can be at least as important as traditional measures (i.e., personal income or gross domestic product).
 
 In grounded theory and other inductive coding methods, qualitative data like interview transcripts are read carefully and initial codes are applied that match the language and interpretation proposed by study participants themselves as closely as possible.
 
+Often, researchers label codes in this *open coding* phase by using their judgment and experience to discern underlying themes in the experiences expressed across interviews. 
 
+In our scenario, the goal of this analysis is to prepare for collecting and analyzing new data related to social media privacy and confidentiality. `BSR_05` is with a PhD student studying political communication.
+
+We can open `BSR_05` in Taguette from the `Documents` tab. The text of the interview should appear on the right. In the body of the interview, speaker names and the time they started speaking in the recording appear on one line, followed by what they said. `Sara Mannheimer` is the interviewer and `BSR05` replaces the name of the student for privacy protection.
+
+![](fig/taguette-document-view.png){alt="Image of Taguette with document BSR_05 open to timestamp 03:49"}
+
+Scrolling 3 minutes and 49 seconds into the interview, we learn this person was using a large dataset of Twitter posts from the #MeToo movement with some significant privacy risks, for example:
+
+> And a big part of our paper was we came up with a way of identifying which tweets were disclosures which were not, and we have to describe the method in the paper. And more or less, that's a method to identify survivors of sexual violence in our in our data set.
+
+### Open coding
+
+Tags (labelled codes) are applied to highlights (text excerpts). Select the two sentences above in Taguette and click "new highlight" then check "interesting" and "Save and Close." The text should now be highlighted in yellow.
+
+::: instructor
+
+### Exercise notes
+
+The next challenge is flexible and can be done as a class or as a think-pair-share, where individuals spend 1-2 minutes brainstorming alone, then share with a partner and discuss, then with the class.
+
+:::
+
+::: challenge
+
+### Creating open codes
+
+Discuss as a class what kinds of labels you, as a social media privacy researcher, might apply to part or all of the excerpt above.
+
+::: hint
+
+Open codes can range from very specific to more general, but theoretically fruitful codes are often somewhere in the middle - general enough to apply in multiple situations but specific enough those excerpts have something more in common.
+
+:::
+
+::: solution
+
+There are multiple words or phrases that might capture some of this excerpt's relevance for our research. Taguette allows applying multiple tags to one highlight. Doing so makes it easier to consider overlapping concepts, like "privacy" and "identity protection," as well as other aspects of the context, such as "sexual violence" or "crime victimization". 
+
+:::
+
+:::
+
+::: callout
+
+### How much to highlight?
+
+Taguette supports multiple tags per highlight but does not allow overlapping highlights, making decisions about how large of excerpts to use more important. Highlights generally should be only long enough to provide context and understand meaning. Some researchers always code full sentences or even paragraphs, while others make decisions case by case.
+
+:::
+
+Let's create some of the tags we defined in our discussion. Click on the highlight and create additional tags. Names should be short and clear. Adding descriptions can help clarify the difference between similar tags, especially if working collaboratively with others.
+
+![](fig/taguette-privacy-highlight.png){alt="Image of Taguette New Tag dialog for tag named privacy with description sharing or protection of personal information, including both web (social media, etc) and research}
+
+The "Highlights" tab at the left allows us to see all the tags we've created and to how many highlights each has been applied. I created tags for both "privacy" and "identity protection" but later realized they overlap so much conceptually they don't need to be separated.
+
+To merge two tags click "Edit" next to the tag you want to remove and click "Merge." Select the other tag in the "into" box, then "Merge tags." After merging, any highlights tagged with one or both original tag will have the name of the "into" tag and the other will be removed.
+
+::: callout
+
+### Plan twice; click once
+
+> "Measure twice and cut once." -[English proverb](https://en.wiktionary.org/wiki/measure_twice_and_cut_once) meaning one should plan and prepare in a careful, thorough manner before taking action. and act once precisely and properly.
+
+Taguette has no undo or history functions. Merged or deleted tags cannot be retrieved. Even if you export a copy of a project before making changes, there is no import functionality to restore the project to its previous state within Taguette.
+
+:::
+
+### In vivo coding
+
+An alternative approach to inductive coding, *in vivo coding*, tries to further reduce researcher bias effects by creating initial code labels only from the language used in the interviews themselves.
+
+[ADD IN VIVO EXAMPLE IN BSR TRANSCRIPT - CREATE IN VIVO CODES WITH INVIVO LABEL]
+
+NOTES ON MORE?
 
 ## Deductive coding
 
+Deductive codes are applied in much the same way as inductive codes, but their development typically takes place earlier in the process, ideally even before data collection, because the tags and themes reflect the theory and hypotheses the study is designed to test.
 
+MORE
 
-## Code trees
+As with inductive and deductive reasoning, the separation between inductive and deductive coding is rarely complete. Inductive researchers often informally develop concepts and theories based on early data and test and refine them as more data is collected or read. Deductive researchers frequently add codes for ideas that arise in interviews but not anticipated by theory, sometimes even using them to create alternative or revised versions of the existing theories.
 
+As a researcher, how closely you adhere to a single reasoning or coding model will likely depend on personal research questions and values, as well as norms in the fields where the research will be shared.
 
+## Axial coding
 
-## Applying codes
-
-
-
-## Viewing coded text
-
-
+[include coding trees]
 
 
 ::: keypoints
