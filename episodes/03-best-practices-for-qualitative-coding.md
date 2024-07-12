@@ -104,7 +104,7 @@ Taguette supports multiple tags per highlight but does not allow overlapping hig
 
 Let's create some of the tags we defined in our discussion. Click on the highlight and create additional tags. Names should be short and clear. Adding descriptions can help clarify the difference between similar tags, especially if working collaboratively with others.
 
-![](fig/taguette-privacy-highlight.png){alt="Image of Taguette New Tag dialog for tag named privacy with description sharing or protection of personal information, including both web (social media, etc) and research}
+![](fig/taguette-privacy-highlight.png){alt="Image of Taguette New Tag dialog for tag named privacy with description sharing or protection of personal information, including both web (social media, etc) and research"}
 
 The "Highlights" tab at the left allows us to see all the tags we've created and to how many highlights each has been applied. I created tags for both "privacy" and "identity protection" but later realized they overlap so much conceptually they don't need to be separated.
 
@@ -132,7 +132,7 @@ The person being interviewed used a number of words and phrases that may be rele
 
 Let's highlight "disclosed" and apply a new tag called "disclose" to it. The same tag can be applied to "disclosing" and "disclose;" although they are different words, they have the same root word and express the same idea.
 
-![](fig/taguette-in-vivo.png){alt="Image of Taguette document view with the words disclosed, disclosing, and disclose highlighted with the tag "disclose"}
+![](fig/taguette-in-vivo.png){alt="Image of Taguette document view with the words disclosed, disclosing, and disclose highlighted with the tag disclose"}
 
 ::: challenge
 
