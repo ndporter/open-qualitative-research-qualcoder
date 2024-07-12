@@ -210,8 +210,13 @@ Most qualitative projects require more than one round of coding for a few reason
 3. Key relationships between codes may only become obvious once initial codes are considered, leading to consolidation or the development of new tags as researchers become more familiar with the documents and themes.
 4. When coding in vivo, people may use language differently and multiple phrases may represent a single idea.
 
-MORE
+**Axial coding** primarily addresses numbers 3 and 4, as it is involves relating or further breaking down primary themes or codes.
 
+For example, the passage in `BSR_05` coded to `in vivo: disclosure` concerned self-disclosure of personal information during the #MeToo movement with the hope of reducing stigma and producing a positive outcome. But Twitter users in `BSR_02` may have been subject to disclosure of personal information without consent. Axial coding might involve distinguishing disclosure based on whether it was voluntary or self-directed.
+
+Axial coding takes many other forms, depending on the research topic and methods. Deductive research may revise and further specify existing theory based on new data in their study. In vivo codes or open codes that seemed distinct may turn out to be conceptually indistinguishable. Participants may be provided summaries of initial findings and asked if they reflect their personal experience. In all cases, axial coding is a tool to clarify analysis and theory.
+
+Qualitative studies typically have one or more rounds of initial coding, followed by any amount of axial coding necessary to represent key concepts intelligibly to both researchers and study participants. 
 
 ::: keypoints
 
