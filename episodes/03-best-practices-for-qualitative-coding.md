@@ -146,7 +146,7 @@ Edit each tag you have created (e.g., not "interesting") and add either `in vivo
 
 ::: solution
 
-After editing tags, your project should look something like this:
+After editing tags, your project will look something like this:
 
 ![](fig/taguette-code-tree.png){alt="Image of Taguette showing highlights tab with tags including 'in vivo: disclose' and 'open: privacy'"}
 
@@ -162,7 +162,42 @@ Once applied, in vivo codes can be analyzed individually or later aggregated dur
 
 Deductive codes are applied much the same way as open codes, but development takes place earlier, ideally before data collection, because tags and themes reflect theories and hypotheses the study is designed to test.
 
-FIND A THEORETICAL FRAMEWORK IN MANNHEIMER FROM BEFORE MANNHEIMER AND APPLY
+::: challenge
+
+### Code deductively
+
+> Our research team has adapted 3 key themes from Sarikakis and Winter's [2017 review](
+https://doi.org/10.1177/2056305117695325) of social media user's consciousness of data privacy:
+
+> 1. Autonomy: users desire control over when and to whom their data is disclosed
+> 2. Compromise: users recognize privacy's importance but also circumvent protections when seeking information
+> 3. Stake: concern derives from being personally affected by privacy or sharing
+
+Create the 3 themes above as tags, prefixed by `deductive: `, and add descriptions based on the background given above.
+
+In `BSR_02`, read and highlight the text block quoted below (from the section starting at `1:44`).
+
+> I've done some work on on Twitter on how like social people who are users of Twitter, I've done, did a project on on people who have been harassed on Twitter and the subject of kind of coordinated harassment campaigns, and how kind of their experiences.
+
+In groups of 2-3 people, discuss whether each theme is relevant and why, then apply relevant tags to the highlight.
+
+::: hint
+
+Don't focus on finding key words or synonyms in deciding whether to apply a code. Look for sections that suggest a relationship to themes of interest.
+
+:::
+
+::: solution
+
+**Autonomy** might apply depending on whether the harassment people experienced on Twitter included [doxxing](https://en.wiktionary.org/wiki/doxx#English) or otherwise involved personal information. Without access to the original interviewee, it's probably not reliable enough to use in drawing conclusions.
+
+**Compromise** does not seem relevant here, as the presence of online harassment suggests the advantage of *stricter* protections, if anything.
+
+**Stake** clearly applies. The Twitter users are described as experiencing *coordinated* harassment campaigns on Twitter, meaning not only is the platform used to harass, but to encourage others to do the same.
+
+:::
+
+:::
 
 Like inductive and deductive reasoning, the separation between inductive and deductive coding is rarely complete. As a researcher, how closely you adhere to a single reasoning or coding model will likely depend on personal research questions and values, as well as norms in the fields where the research will be shared.
 
