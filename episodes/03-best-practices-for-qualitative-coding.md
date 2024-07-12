@@ -124,9 +124,39 @@ Taguette has no undo or history functions. Merged or deleted tags cannot be retr
 
 An alternative approach to inductive coding, *in vivo coding*, tries to further reduce researcher bias effects by creating initial code labels only from the language used in the interviews themselves.
 
-[ADD IN VIVO EXAMPLE IN BSR TRANSCRIPT - CREATE IN VIVO CODES WITH INVIVO LABEL]
+Let's look at a passage slightly earlier in the paragraph we've been working with.
 
-NOTES ON MORE?
+> And we ended up using that data for a project on looking at how people disclosed early in the hashtag campaign, and how that may have produced stigma around kind of disclosing for other women to disclose experiencing sexual violence. So it was kind of a sensitive data set.
+
+The person being interviewed used a number of words and phrases that may be relevant to data privacy protection in these sentences including disclosed, stigma, disclosing, disclose, experience, sexual violence, and sensitive data. Rather than categorizing themes at this stage, in vivo coding retains language used by the participants.
+
+Let's highlight "disclosed" and apply a new tag called "disclose" to it. The same tag can be applied to "disclosing" and "disclose;" although they are different words, they have the same root word and express the same idea.
+
+![](fig/taguette-in-vivo.png){alt="Image of Taguette document view with the words disclosed, disclosing, and disclose highlighted with the tag "disclose"}
+
+::: challenge
+
+### Coding trees
+
+*Our project now combines thematic and in vivo coding in one document with no easy way to separate the types. Coding trees can help clarify and sort code groups.
+
+Like the plants, code trees have branches, which may be types of codes or broad themes. Leaves, or specific codes or subcategories, each "grow" from one larger branch.*
+
+Edit each tag you have created (e.g., not "interesting") and add either `in vivo: ` or `thematic: ` to create a code tree where codes are sorted by coding method.
+
+::: solution
+
+After editing tags, your project should look something like this:
+
+![](fig/taguette-code-tree.png){alt="Image of Taguette showing highlights tab with tags including 'in vivo: disclose' and 'thematic: privacy'"}
+
+Some other qualitative software also implements dynamic code trees that allow multiple levels of nesting and automate viewing all subcodes (leaves) of a single code (branch), but embedding branches in code names is the only option currently available in Taguette.
+
+:::
+
+:::
+
+Once applied, in vivo codes can be analyzed individually or later aggregated during the axial coding process, introduced in a later section.
 
 ## Deductive coding
 
@@ -134,17 +164,18 @@ Deductive codes are applied in much the same way as inductive codes, but their d
 
 MORE
 
-As with inductive and deductive reasoning, the separation between inductive and deductive coding is rarely complete. Inductive researchers often informally develop concepts and theories based on early data and test and refine them as more data is collected or read. Deductive researchers frequently add codes for ideas that arise in interviews but not anticipated by theory, sometimes even using them to create alternative or revised versions of the existing theories.
-
-As a researcher, how closely you adhere to a single reasoning or coding model will likely depend on personal research questions and values, as well as norms in the fields where the research will be shared.
+Like inductive and deductive reasoning, the separation between inductive and deductive coding is rarely complete. As a researcher, how closely you adhere to a single reasoning or coding model will likely depend on personal research questions and values, as well as norms in the fields where the research will be shared.
 
 ## Axial coding
 
-[include coding trees]
+
 
 
 ::: keypoints
 
-TBA
+- Qualitative code protocols are developed based on research goals and philosophies
+- Inductive research focuses on discovering or exploring themes and often uses open or in vivo coding
+- Deductive research focuses on testing hypotheses and typically applies a predefined coding scheme based on theory
+- In Taguette, tags are labelled codes applied to highlighted excerpts of text
 
 :::
