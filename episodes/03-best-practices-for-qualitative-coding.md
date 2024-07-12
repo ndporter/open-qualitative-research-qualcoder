@@ -114,7 +114,7 @@ To merge two tags click "Edit" next to the tag you want to remove and click "Mer
 
 ### Plan twice; click once
 
-> "Measure twice and cut once." -[English proverb](https://en.wiktionary.org/wiki/measure_twice_and_cut_once) meaning one should plan and prepare in a careful, thorough manner before taking action. and act once precisely and properly.
+> "Measure twice and cut once." -[English proverb](https://en.wiktionary.org/wiki/measure_twice_and_cut_once) meaning one should plan and prepare in a careful, thorough manner before taking action and act once precisely and properly.
 
 Taguette has no undo or history functions. Merged or deleted tags cannot be retrieved. Even if you export a copy of a project before making changes, there is no import functionality to restore the project to its previous state within Taguette.
 
@@ -142,13 +142,13 @@ Let's highlight "disclosed" and apply a new tag called "disclose" to it. The sam
 
 Like the plants, code trees have branches, which may be types of codes or broad themes. Leaves, or specific codes or subcategories, each "grow" from one larger branch.*
 
-Edit each tag you have created (e.g., not "interesting") and add either `in vivo: ` or `thematic: ` to create a code tree where codes are sorted by coding method.
+Edit each tag you have created (e.g., not "interesting") and add either `in vivo: ` or `open: ` to create a code tree where codes are sorted by coding method.
 
 ::: solution
 
 After editing tags, your project should look something like this:
 
-![](fig/taguette-code-tree.png){alt="Image of Taguette showing highlights tab with tags including 'in vivo: disclose' and 'thematic: privacy'"}
+![](fig/taguette-code-tree.png){alt="Image of Taguette showing highlights tab with tags including 'in vivo: disclose' and 'open: privacy'"}
 
 Some other qualitative software also implements dynamic code trees that allow multiple levels of nesting and automate viewing all subcodes (leaves) of a single code (branch), but embedding branches in code names is the only option currently available in Taguette.
 
@@ -160,15 +160,22 @@ Once applied, in vivo codes can be analyzed individually or later aggregated dur
 
 ## Deductive coding
 
-Deductive codes are applied in much the same way as inductive codes, but their development typically takes place earlier in the process, ideally even before data collection, because the tags and themes reflect the theory and hypotheses the study is designed to test.
+Deductive codes are applied much the same way as open codes, but development takes place earlier, ideally before data collection, because tags and themes reflect theories and hypotheses the study is designed to test.
 
-MORE
+FIND A THEORETICAL FRAMEWORK IN MANNHEIMER FROM BEFORE MANNHEIMER AND APPLY
 
 Like inductive and deductive reasoning, the separation between inductive and deductive coding is rarely complete. As a researcher, how closely you adhere to a single reasoning or coding model will likely depend on personal research questions and values, as well as norms in the fields where the research will be shared.
 
 ## Axial coding
 
+Most qualitative projects require more than one round of coding for a few reasons:
 
+1. The first documents rarely highlight every relevant theme. Themes and language important in later interviews may still be reflected in early interviews but less obvious before the theme was brought to the researcher's attention. Revisiting early interviews supports consistent code application.
+2. Multiple coders may use tags in slightly different ways, which eventually need to be adjusted to a consistent scheme.
+3. Key relationships between codes may only become obvious once initial codes are considered, leading to consolidation or the development of new tags as researchers become more familiar with the documents and themes.
+4. When coding in vivo, people may use language differently and multiple phrases may represent a single idea.
+
+MORE
 
 
 ::: keypoints
