@@ -28,7 +28,7 @@ The first step is typically to choose a coding philosophy, that is, to decide *h
 
 Deductive reasoning begins from assumptions and hypotheses. It seeks to determine, using logic or data, whether the hypotheses can be shown to be false (or true).
 
-Experimental methods in many disciples follow this pattern. First, a hypothesis or prediction about the effect of some CAUSE is developed based on past research and observation. An experiment is conducted to isolate that CAUSE from other potential causes, and conclusions are drawn based on the presence (or lack) of difference made by the difference.
+Experimental methods in many disciples follow this pattern. First, a hypothesis or prediction about the effect of some cause is developed based on past research and observation. An experiment is conducted to isolate that specific potential cause, and conclusions are drawn based on the presence (or lack) of difference made by the difference.
 
 A medicine trial is a classic example of a deductive approach. Scientists predict that a medicine will help people in a specific way (for example, by reducing the length of an infection). They recruit participants (patients with the infection) who are randomly assigned so that some receive the medicine and others receive a placebo with no medicine. If the length of the infection is statistically shorter in the patients who received the medicine, that is taken as evidence that the medicine likely produced the desired result.
 
