@@ -194,16 +194,35 @@ matrix might look like, using the coding undertaken in the last episode:
 
 Much of the work of analysis and theory-building is part of creating a framework matrix, and so, by the time you finish, you'll likely already be much closer to answering research questions. That said, there are also advantages to working with a framework matrix during the analytic process, as well as their utility as a summary tool for others.
 
-Reading across columns, within a line, on a framework matrix allows for analyzing cases. Reading down rows, within a column, allow for thematic analysis. And having both summarized together opens up intersectional possibilities to consider how clusters of cases may share similar approaches to themes.
+Reading across columns, within a line, on a framework matrix allows for analyzing cases. Reading down rows, within a column, allow for thematic analysis. And having both summarized together opens up options to study how clusters of cases may share similar approaches to themes. This kind of intersectional analysis can be done informally, or can be used to create formal case classifications or thematic typologies to stimulate further theory-building and research.
 
-## Classifications and typologies
+::: callout
 
-TEXT
+### Sentiment and degree
 
-## Degrees
+Sometimes, particularly when considering deductive hypotheses, it is not enough to code only for the presence or absence of a theme. In such situations, semi-quantitative coding may be applied in one of at least two ways.
 
-TEXT
+Sentiment codes indicate whether the feeling or attitude expressed in an excerpt of text is positive, neutral, negative, or mixed in relation to a theme. Neutral and mixed can be hard to distinguish. Neutral sentiment is generally unbothered about good or bad in relation to something, while a mixed sentiment includes both positive and negative feelings, often toward different aspects or implications.
+
+In the excerpt below from `BSR_02`, certain Wikipedia contributors are attributed a negative sentiment toward contribution disclosures, which might also be framed as a positive sentiment toward privacy.
+
+> Some of them like hold ideological views that are against like the counting of contributions. And they're just like, "I don't believe that that's something we should be doing. And so I want to remove myself from this list."
+
+Sentiment codes can be applied in the same way as other codes, for example with a tag for `sentiment: positive.` They work best when applied to the same highlight as a single thematic code, so there is no ambiguity as to which theme is associated with the sentiment.
+
+An alternative way to integrate degrees of valuation into qualitative coding is to code on a scale. For example, the amount of stake that a sexual assault survivor has in protecting their identity from disclosure is higher than that of a Wikipedia contributor who wishes to remain anonymous to avoid attention. Scales typically are numeric with a relatively small number of rating points, such as a three-point `Low`, `Medium`, `High` scale.
+
+Occasionally, qualitative data also asks about specific quantitative measures that may have more natural units, such as a study of childhood reading experiences that asks about how many minutes a day each parent reads to their child.
+
+Taguette provides no option to attach a numeric rating to a tag. It is again possible to create a separate set of codes to capture ratings, as described above for sentiment, but many full-featured paid CAQDAS packages provide native ratings functionality.
+
+:::
 
 ::: keypoints
-TBA
+
+- Case analysis focuses on the unique situation of each person or group
+- Theme analysis focuses on how the study population perceives or discusses themes or ideas
+- Framework matrices are a formal method to combine case and theme analysis using a visual organizer
+- Information on sentiment, degree, or quantity can also be encoded for qualitative analysis
+
 :::
