@@ -314,7 +314,9 @@ anything.
 experiencing *coordinated* harassment campaigns on Twitter, meaning not
 only is the platform used to harass, but to encourage others to do the
 same.
+
 :::
+
 :::
 
 Like inductive and deductive reasoning, the separation between inductive
