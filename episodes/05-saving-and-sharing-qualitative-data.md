@@ -8,13 +8,14 @@ exercises: 30
 
 -   How can Taguette projects be shared or archived in common data formats?
 -   What are the advantages of sharing qualitative data?
--   How can the risks of data sharing be assessed and reduced?
+-   What can I do to continue learning?
 
 :::
 
 ::: objectives
 
--   TBD
+-   Recognize reasons to consider archiving or sharing qualitative data
+-   Practice import/export of various parts of Taguette projects
 
 :::
 
@@ -60,9 +61,7 @@ Finally, a codebook can be automatically generated from the `Project info` tab t
 
 Certain scientific disciplines have called for research transparency, including sharing data and analytic procedures, with momentum growing in many social sciences. Until recently, that effort was primarily applied to quantitative data, such as surveys, experiments, and "big data" gathered from the internet.
 
-A small number of projects are working to change that perception and promote the thoughtful, informed, careful sharing of qualitative and mixed methods data as well, led in part by [the Qualitative Data Repository][qdr] and enabled by improvements in sharing like the `REFI-QDA` standard.
-
-MORE COMING (including value of transparency and reuse, what QDR does, annotation model, and something I just forgot)
+A small number of projects are working to change that perception and promote the thoughtful, informed, careful sharing of qualitative and mixed methods data as well, led in part by the [Qualitative Data Repository][qdr] and enabled by improvements in sharing like the `REFI-QDA` standard.
 
 ## Helping future you
 
@@ -70,14 +69,20 @@ If the arguments above don't convince you that it's good and worth the effort to
 
 Archiving your data in an open and interchangeable format that is backed up in multiple locations can help future you. If your only copy of your project is on your laptop and it is lost or destroyed before analysis and review are complete, or if you decide you want to do additional analysis later, there isn't much that can be done short of repeating a large amount of work.
 
-Taguette's single-user mode only stores data on your computer, and Taguette Cloud only saves it to the Taguette servers, which could go down at any time. Whether or not you plan to share or reuse your data, consider exporting your project from Taguette at key points, such as after you've completed coding.
+Taguette's single-user mode only stores data on your computer, and Taguette Cloud only saves it to the Taguette servers, which could go down at any time. Whether or not you plan to share or reuse your data, consider exporting your project from Taguette at key points, such as after you've completed initial or axial coding.
 
+## Next steps
 
+This lesson has covered basic principles of qualitative research, as well as how to use Taguette for qualitative coding and data analysis. With that foundation, the next step is to find or collect your own data and try it for yourself.
+
+In addition to the Qualitative Data Repository (used and discussed here), some other social science data archives such as ICPSR have qualitative sections. For qualitative content analysis, there are thousands of open-access archives of documents, research, education resources, and even entire books.
 
 :::
 
 ::: keypoints
 
-TBA
+- Archiving and sharing qualitative data can help you, your collaborators, and other researchers
+- Taguette's import and export options can help you share key components of your work
+- There are many resources available to continue learning about qualitative research and finding, reusing and sharing qualitative data
 
 :::
