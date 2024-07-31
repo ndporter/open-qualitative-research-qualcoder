@@ -26,8 +26,6 @@ How you can analyze your data depends on multiple decisions, including
 your software, the type of data you have, and how you structured your
 codes. But the choice of methods also depend on your research questions.
 
-MORE OVERVIEW TO FILL IN ONCE BELOW IS WRITTEN
-
 ## Cases
 
 In qualitative analysis, cases most often represent individual people,
@@ -46,6 +44,7 @@ how different themes and personal characteristics seem related in that
 individual's view of the world.
 
 ::: callout
+
 ### Groups
 
 A case is not always a person. It can also be a document, an
