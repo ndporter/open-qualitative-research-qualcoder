@@ -1,16 +1,17 @@
-# Open Qualitative Research
+# Open Qualitative Research with QualCoder
 
 ## Description
 
-Curriculum for an interactive Carpentries-style introduction to principles and practices of open qualitative research transparency and data sharing,with a focus on text or transcribed data, to be delivered as a 3-hour in-person or synchronous hybrid workshop. Paid qualitative software will be discussed, but is not part of the workshop. More details in [lesson introduction](https://ucla-imls-open-sci.info/open-qualitative-research/)
+Curriculum for an interactive Carpentries-style introduction to principles and practices of open qualitative research transparency and data sharing,with a focus on text or transcribed data, to be delivered as a 3-hour in-person or synchronous hybrid workshop. Paid qualitative software will be discussed, but is not part of the workshop.
 
 ## Authors
 
 - Nathaniel D. Porter: @ndporter
+- Sebastian Karcher: @adam3smith
 
 ## Acknowledgements
 
-Pilot work for this project was supported by a grant from the IMLS in collaboration with the UCLA Libraries and Virginia Tech University Libraries. LINKS TO BE ADDED LATER
+Pilot work for this project was supported by grants from the IMLS in collaboration with the UCLA Libraries, Qualitative Data Repository and Virginia Tech University Libraries. 
 
 ## Contributing
 
