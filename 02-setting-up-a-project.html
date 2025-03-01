@@ -228,6 +228,7 @@
         <ul><li><a href="#starting-qualcoder">Starting QualCoder</a></li>
 <li><a href="#creating-a-project">Creating a project</a></li>
 <li><a href="#importing-and-navigating-documents">Importing and navigating documents</a></li>
+<li><a href="#importing-refi-qda-projects">Importing REFI-QDA Projects</a></li>
         </ul></div><!--/div.accordion-body-->
     </div><!--/div.accordion-collapse-->
 
@@ -370,7 +371,7 @@ tools for both qualitative and mixed methods analysis.</p>
 <button class="accordion-button spoiler-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseSpoiler1" aria-expanded="false" aria-controls="collapseSpoiler1">
   <h3 class="accordion-header" id="headingSpoiler1">  <div class="note-square"><i aria-hidden="true" class="callout-icon" data-feather="eye"></i></div> Qualitative software </h3>
 </button>
-<div id="collapseSpoiler1" class="accordion-collapse collapse" data-bs-parent="#accordionSpoiler1" aria-labelledby="headingSpoiler1">
+<div id="collapseSpoiler1" class="accordion-collapse collapse" aria-labelledby="headingSpoiler1" data-bs-parent="#accordionSpoiler1">
 <div class="accordion-body">
 <p>Qualitative software is sometimes called <strong>CAQDAS</strong>, an
 acronym for <em>Coding and Qualitative Data Analysis Software</em> to
@@ -421,7 +422,7 @@ double-clicking its name.</p>
 <button class="accordion-button spoiler-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseSpoiler2" aria-expanded="false" aria-controls="collapseSpoiler2">
   <h3 class="accordion-header" id="headingSpoiler2">  <div class="note-square"><i aria-hidden="true" class="callout-icon" data-feather="eye"></i></div> PDFs in QualCoder </h3>
 </button>
-<div id="collapseSpoiler2" class="accordion-collapse collapse" data-bs-parent="#accordionSpoiler2" aria-labelledby="headingSpoiler2">
+<div id="collapseSpoiler2" class="accordion-collapse collapse" aria-labelledby="headingSpoiler2" data-bs-parent="#accordionSpoiler2">
 <div class="accordion-body">
 <p>QualCoder converts all text and PDF documents to plain text when
 importing, which removes formatting and visual elements. The <a href="https://github.com/ccbogel/QualCoder/wiki/3.2.-Files" class="external-link">QualCoder</a>
@@ -473,7 +474,7 @@ again.</li>
 <button class="accordion-button hint-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseHint1" aria-expanded="false" aria-controls="collapseHint1">
   <h4 class="accordion-header" id="headingHint1"> Give me a hint </h4>
 </button>
-<div id="collapseHint1" class="accordion-collapse collapse" data-bs-parent="#accordionHint1" aria-labelledby="headingHint1">
+<div id="collapseHint1" class="accordion-collapse collapse" aria-labelledby="headingHint1" data-bs-parent="#accordionHint1">
 <div class="accordion-body">
 <p>This project already uses a sequence of numbers to distinguish
 respondents without using names. One simple naming convention is
@@ -490,7 +491,7 @@ shared.”</p>
 <button class="accordion-button hint-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseHint2" aria-expanded="false" aria-controls="collapseHint2">
   <h4 class="accordion-header" id="headingHint2"> Give me a hint </h4>
 </button>
-<div id="collapseHint2" class="accordion-collapse collapse" data-bs-parent="#accordionHint2" aria-labelledby="headingHint2">
+<div id="collapseHint2" class="accordion-collapse collapse" aria-labelledby="headingHint2" data-bs-parent="#accordionHint2">
 <div class="accordion-body">
 <p>Filtering and unfiltering rows can be performed from the right-click
 context menu on a selected column.</p>
@@ -503,6 +504,76 @@ interface is not optimized for significant edits. In general, any
 changes, including the removal of <a href="https://en.wikipedia.org/wiki/Personal_data" class="external-link">personally
 identifiable information</a> from data that will be shared, should take
 place before they are added to the project.</p>
+</section><section><h2 class="section-heading" id="importing-refi-qda-projects">Importing REFI-QDA Projects<a class="anchor" aria-label="anchor" href="#importing-refi-qda-projects"></a></h2>
+<hr class="half-width"><p>In the past, qualitative data was rarely shared or reused beyond the
+original study team, but two factors make it easier than ever before to
+reuse qualitative data. First, repositories like QDR are helping
+normalize the sharing of qualitative data to reuse for research,
+transparency, and teaching. Second, a new data standard called
+[REFI-QDA][<a href="https://www.qdasoftware.org/" class="external-link uri">https://www.qdasoftware.org/</a>] was introduced in 2019
+that allows analysis projects created in one software package to be
+reused, even by users with different software. REFI-QDA projects allow
+sharing not just raw data, but codes, coded text, and even certain
+analytic outputs.</p>
+<div id="accordionSpoiler3" class="accordion spoiler-accordion accordion-flush">
+<div class="accordion-item">
+<button class="accordion-button spoiler-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseSpoiler3" aria-expanded="false" aria-controls="collapseSpoiler3">
+  <h3 class="accordion-header" id="headingSpoiler3">  <div class="note-square"><i aria-hidden="true" class="callout-icon" data-feather="eye"></i></div> REFI-QDA Technical Overview </h3>
+</button>
+<div id="collapseSpoiler3" class="accordion-collapse collapse" aria-labelledby="headingSpoiler3" data-bs-parent="#accordionSpoiler3">
+<div class="accordion-body">
+<p>REFI-QDA projects are saved as compressed folders with either a
+<code>QDPX</code> or <code>ZIP</code> extension, depending on export
+software. They contain both the project’s raw data files and
+<code>XML</code> files with a custom schema including sources, segments,
+codes, annotations, memos, links, cases, sets, and sometimes visual
+representations of linked entities, as well as user information (used to
+distinguish multiple coders on one project, for example). Two sets of
+standards were developed, one for sharing only the codebook for a
+project, and one for sharing the entire project.</p>
+<p>Not all software that supports REFI-QDA includes all parts of the
+standard, but because the standard was designed in collaboration with
+almost all major CAQDAS software developers, it is a major step toward
+an open interoperability standard. And because XML is an uncompiled text
+data format, QDPX projects can even be accessed in other software (such
+as R or Python) by developers familiar with the standard.</p>
+<p>QualCoder is (as of 2025) the only free CAQDAS which supports both
+codebook and project import and export using REFI-QDA.</p>
+</div>
+</div>
+</div>
+</div>
+<p>To import a REFI-QDA project to QualCoder, use
+<code>Project-Import-?????</code> and select
+<code>Mannheimer_Redacted_Interivew_Analysis.qdpx</code> from the data
+directory. After a brief time, you may see a warning about features that
+are not fully implemented yet, then your action log should display
+something like the following:</p>
+<pre><code>Reading from: /Users/username/Downloads/mannheimer_data_reuse/Mannheimer_Redacted_Interview_Analysis.qdpx
+Creating temporary directory: /Users/username/Downloads/mannheimer_data_reuse/Mannheimer_Redacted_Interview_Analysis.\_temporary
+Project XML parsing successful: True
+Parse users. Loaded: 1
+Parse codes and categories. Loaded: 284
+Parsed cases for file variables. Loaded: 0
+Parsing sources. Loaded: 30
+/Users/username/Downloads/mannheimer_data_reuse/Mannheimer_Redacted_Interview_Analysis.qdpx
+loaded.
+
+Project summary
+Date time now: 2025-03-01 16:50
+mannheimer_refi_qda_project.qda
+Project path: /Users/username/Desktop/mannheimer_refi_qda_project.qda
+Project date: 2025-03-01 16:47:05
+Files: 30. Text files: 30. Image files: 0. AV files: 0
+Cases: 0
+Code categories: 54
+Codes: 230
+Attributes: 0
+Journals: 0</code></pre>
+<p>If you click the <code>Manage</code> and <code>Coding</code> tabs,
+you can see the sources and codes that were imported. We’ll take a
+closer look at the codes and coded text segments in the next part of the
+workshop.</p>
 <div id="keypoints1" class="callout keypoints">
 <div class="callout-square">
 <i class="callout-icon" data-feather="key"></i>
