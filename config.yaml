@@ -60,7 +60,7 @@ contact: 'ndporter@vt.edu'
 # Order of episodes in your lesson
 episodes:
 - 01-introduction-to-qualitative-data.md
-- 02-setting-up-a-taguette-project.md
+- 02-setting-up-a-project.md
 - 03-best-practices-for-qualitative-coding.md
 - 04-qualitative-data-analysis.md
 - 05-saving-and-sharing-qualitative-data.md
