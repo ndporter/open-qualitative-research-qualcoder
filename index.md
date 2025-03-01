@@ -16,6 +16,14 @@ No experience with qualitative software or QDR is necessary, but the lesson assu
 
 ::: 
 
+## Acknowledgments
+
+This lesson was developed in part through grants from the [Institute of Museum and Library Services][imls], in collaboration with [QDR][qdr], the [Virginia Tech University Libraries][vt-lib], [Library Carpentry][lib-carpentry], and the [UCLA Library][ucla-lib]. We thank all contributors and reviewers.
+
 [os_lightning_talk]: https://youtu.be/QyFrR77UwyA?si=3TcKTPm9ZrDKZ_Mu
 [osper_playlist]: https://www.youtube.com/playlist?list=PLChfyH8TVDGl5JUEUxM5ehg6WdkEN-Lxd
 [qdr]: https://qdr.syr.edu
+[imls]: https://www.imls.gov/
+[vt-lib]: https://lib.vt.edu/
+[lib-carpentry]: http://librarycarpentry.org/
+[ucla-lib]: https://www.library.ucla.edu/
