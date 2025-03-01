@@ -25,5 +25,5 @@ This lesson was developed in part through grants from the [Institute of Museum a
 [qdr]: https://qdr.syr.edu
 [imls]: https://www.imls.gov/
 [vt-lib]: https://lib.vt.edu/
-[lib-carpentry]: http://librarycarpentry.org/
+[lib-carpentry]: https://librarycarpentry.org/
 [ucla-lib]: https://www.library.ucla.edu/

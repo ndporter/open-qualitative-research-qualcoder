@@ -54,7 +54,7 @@ occurs in content analysis, rather than interview and focus group
 research.
 
 Brittany Shaughnessy, for example, wrote a
-[thesis](http://hdl.handle.net/10919/103776), studying gun rights
+[thesis](https://hdl.handle.net/10919/103776), studying gun rights
 messaging in the 2020 US election. She performed qualitative content
 analysis on Twitter posts from the official accounts of two advocacy
 organizations: Everytown for Gun Safety (pro gun control) and the
