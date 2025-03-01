@@ -172,7 +172,7 @@ Use the information in `README_Mannheimer.txt` to locate the 3 interview guides 
 
 The activity above is most effective when participants are able to debrief for about 5 minutes either with small groups of 3-5 learners or as a larger group. When used independently, the learner may want to write down some notes instead.
 
-Alternatively, this activity may be moved to after the Taguette project is created, in which case learners can import the files into their project and annotate them using linked memos.
+Alternatively, this activity may be moved to after the project is created, in which case learners can import the files into their project and annotate them using journals.
 
 :::
 
@@ -186,7 +186,7 @@ Interview schedules and study plans provide insight into **the research team's**
 
 That said, while it's possible to conduct entirely secondary studies if enough raw data are available in relevant context that address relevant topics, those conditions are rarely met. Rather, raw data tends to serve as a type of pilot study - providing initial evidence as to where to begin and what to ask while still allowing the new research team to explore aspects of the data that were less relevant or highlighted in the original study.
 
-One of the most commonly-analyzed types of raw qualitative data is interview transcripts, like we have in our project. Some tools provides support for working directly with audio and video files, but Taguette only supports text documents. Text, however, is often preferred because it simplifies the process of removing potentially identifying information and enables rapid scanning of content and accessibility technology.
+One of the most commonly-analyzed types of raw qualitative data is interview transcripts, like we have in our project. QualCoder provides support for working directly with audio and video files. Text, however, is often preferred because it simplifies the process of removing potentially identifying information and enables both rapid scanning of content and accessibility technology.
 
 Let's open one of the Big Social transcripts, `Mannheimer_BSR01_Transcript.pdf`, in your default `pdf` reader and look at how transcripts are structured in this project.
 
@@ -249,8 +249,7 @@ Your study, again, is focused on the decisions individual social media users mak
 
 The activity above is most effective when participants are able to debrief for about 3 minutes either with small groups of 2-3 learners or as a larger group. When used independently, the learner may want to write down some notes instead.
 
-Alternatively, this activity may be moved to after the Taguette project is created, in which case learners can view the transcript directly in their project and use linked memos to annotate any notes relevant to their project.
-
+Alternatively, if this activity is moved to after the project is created, learners can import the files into their project and annotate them using journals.
 :::
 
 ::: keypoints
