@@ -503,7 +503,7 @@ download the data, so let’s download it and see what we find!</p>
 <button class="accordion-button spoiler-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseSpoiler1" aria-expanded="false" aria-controls="collapseSpoiler1">
   <h3 class="accordion-header" id="headingSpoiler1">  <div class="note-square"><i aria-hidden="true" class="callout-icon" data-feather="eye"></i></div> Create a QDR Account </h3>
 </button>
-<div id="collapseSpoiler1" class="accordion-collapse collapse" data-bs-parent="#accordionSpoiler1" aria-labelledby="headingSpoiler1">
+<div id="collapseSpoiler1" class="accordion-collapse collapse" aria-labelledby="headingSpoiler1" data-bs-parent="#accordionSpoiler1">
 <div class="accordion-body">
 <p>If you don’t already have one, you’ll need to create an account at
 QDR for the next step. To do so, click <a href="https://qdr.syr.edu/user/register" class="external-link">Register</a>. in the top right
@@ -538,11 +538,11 @@ are included and what software would typically be used to open them?</p>
 <button class="accordion-button hint-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseHint1" aria-expanded="false" aria-controls="collapseHint1">
   <h4 class="accordion-header" id="headingHint1"> Give me a hint </h4>
 </button>
-<div id="collapseHint1" class="accordion-collapse collapse" data-bs-parent="#accordionHint1" aria-labelledby="headingHint1">
+<div id="collapseHint1" class="accordion-collapse collapse" aria-labelledby="headingHint1" data-bs-parent="#accordionHint1">
 <div class="accordion-body">
 <p>Don’t worry if you don’t recognize all of the file types. Just
 identify what you know. If you have time during the exercise, you can
-use a web search like <code>open pdf file</code>) to search for
+use a web search like <code>open pdf file</code> to search for
 information.</p>
 </div>
 </div>
@@ -553,7 +553,7 @@ information.</p>
 <button class="accordion-button solution-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseSolution1" aria-expanded="false" aria-controls="collapseSolution1">
   <h4 class="accordion-header" id="headingSolution1"> Show me the solution </h4>
 </button>
-<div id="collapseSolution1" class="accordion-collapse collapse" data-bs-parent="#accordionSolution1" aria-labelledby="headingSolution1">
+<div id="collapseSolution1" class="accordion-collapse collapse" aria-labelledby="headingSolution1" data-bs-parent="#accordionSolution1">
 <div class="accordion-body">
 <p>The project includes the following four types of files:</p>
 <ul><li>
@@ -571,9 +571,10 @@ format</li>
 format and can be opened in a variety of qualitative software</li>
 </ul><p>In this project, the <code>txt</code> files provide
 <em>metadata</em>, or information about the project, while all other
-files are part of the data itself. Taguette can’t read <code>nvpx</code>
-or <code>qdpx</code> files, so the most important files to us will be
-the <code>pdf</code> interview transcripts.</p>
+files are part of the data itself. QualCoder can’t read
+<code>nvpx</code> files, so the most important files to us will be the
+<code>pdf</code> interview transcripts and the <code>qdpx</code> project
+file.</p>
 </div>
 </div>
 </div>
@@ -589,7 +590,7 @@ editor.</p>
 <button class="accordion-button spoiler-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseSpoiler2" aria-expanded="false" aria-controls="collapseSpoiler2">
   <h3 class="accordion-header" id="headingSpoiler2">  <div class="note-square"><i aria-hidden="true" class="callout-icon" data-feather="eye"></i></div> README Files </h3>
 </button>
-<div id="collapseSpoiler2" class="accordion-collapse collapse" data-bs-parent="#accordionSpoiler2" aria-labelledby="headingSpoiler2">
+<div id="collapseSpoiler2" class="accordion-collapse collapse" aria-labelledby="headingSpoiler2" data-bs-parent="#accordionSpoiler2">
 <div class="accordion-body">
 <p>In collections of data or other multi-file downloads, there is often
 a file named <code>readme.txt</code> or something similar. These are
@@ -666,13 +667,12 @@ own views of the study topics and respond to the questions. Context and
 constructivism are core concerns of most qualitative researchers,
 leading the raw data to be possibly the most critical aspect of data for
 faithful and effective reuse.</p>
-<p>That said, while it’s possible to conduct entirely secondary studies
-if enough raw data are available in relevant context that address
-relevant topics, those conditions are rarely met. Rather, raw data tends
-to serve as a type of pilot study - providing initial evidence as to
-where to begin and what to ask while still allowing the new research
-team to explore aspects of the data that were less relevant or
-highlighted in the original study.</p>
+<p>It’s possible to conduct entirely secondary studies if enough raw
+data are available in relevant context that address relevant topics.
+Often, however, existing data serves as a type of pilot study -
+providing initial evidence as to where to begin and what to ask while
+still allowing the new research team to explore aspects of the data that
+were less relevant or highlighted in the original study.</p>
 <p>One of the most commonly-analyzed types of raw qualitative data is
 interview transcripts, like we have in our project. QualCoder provides
 support for working directly with audio and video files. Text, however,
@@ -681,7 +681,7 @@ potentially identifying information and enables both rapid scanning of
 content and accessibility technology.</p>
 <p>Let’s open one of the Big Social transcripts,
 <code>Mannheimer_BSR01_Transcript.pdf</code>, in your default
-<code>pdf</code> reader and look at how transcripts are structured in
+<code>PDF</code> reader and look at how transcripts are structured in
 this project.</p>
 <figure><img src="fig/big-social-transcript-image.png" alt="Upper portion of the first page of an interview transcript" class="figure mx-auto d-block"></figure><p><code>PDF</code> files appear as page images, but most modern PDFs
 allow you to select text and other elements. In this transcript, we see
