@@ -116,7 +116,7 @@ Open the folder using `Finder` (Mac) or `Explorer` (Windows) and inspect the fil
 
 ::: hint
 
-Don't worry if you don't recognize all of the file types. Just identify what you know. If you have time during the exercise, you can use a web search like `open pdf file`) to search for information.
+Don't worry if you don't recognize all of the file types. Just identify what you know. If you have time during the exercise, you can use a web search like `open pdf file` to search for information.
 
 :::
 
@@ -129,7 +129,7 @@ The project includes the following four types of files:
 -   `nvpx` files are NVivo for Mac projects and can only be opened in NVivo for Mac or converted in NVivo for Windows to a Windows format
 -   `qdpx` files are the REFI-QDA qualitative interchange format and can be opened in a variety of qualitative software
 
-In this project, the `txt` files provide *metadata*, or information about the project, while all other files are part of the data itself. Taguette can't read `nvpx` or `qdpx` files, so the most important files to us will be the `pdf` interview transcripts.
+In this project, the `txt` files provide *metadata*, or information about the project, while all other files are part of the data itself. QualCoder can't read `nvpx` files, so the most important files to us will be the `pdf` interview transcripts and the `qdpx` project file.
 
 :::
 :::
@@ -184,11 +184,11 @@ If we can adapt questions and anticipate concerns and challenges relevant to our
 
 Interview schedules and study plans provide insight into **the research team's** expectations and approaches. The power of raw data, such as interview transcripts, is that it shows (much more directly) how **the study participants** construct their own views of the study topics and respond to the questions. Context and constructivism are core concerns of most qualitative researchers, leading the raw data to be possibly the most critical aspect of data for faithful and effective reuse.
 
-That said, while it's possible to conduct entirely secondary studies if enough raw data are available in relevant context that address relevant topics, those conditions are rarely met. Rather, raw data tends to serve as a type of pilot study - providing initial evidence as to where to begin and what to ask while still allowing the new research team to explore aspects of the data that were less relevant or highlighted in the original study.
+It's possible to conduct entirely secondary studies if enough raw data are available in relevant context that address relevant topics. Often, however, existing data serves as a type of pilot study - providing initial evidence as to where to begin and what to ask while still allowing the new research team to explore aspects of the data that were less relevant or highlighted in the original study.
 
 One of the most commonly-analyzed types of raw qualitative data is interview transcripts, like we have in our project. QualCoder provides support for working directly with audio and video files. Text, however, is often preferred because it simplifies the process of removing potentially identifying information and enables both rapid scanning of content and accessibility technology.
 
-Let's open one of the Big Social transcripts, `Mannheimer_BSR01_Transcript.pdf`, in your default `pdf` reader and look at how transcripts are structured in this project.
+Let's open one of the Big Social transcripts, `Mannheimer_BSR01_Transcript.pdf`, in your default `PDF` reader and look at how transcripts are structured in this project.
 
 ![](fig/big-social-transcript-image.png){alt="Upper portion of the first page of an interview transcript"}
 
