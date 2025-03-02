@@ -1192,7 +1192,7 @@ any links that you are not going to use.
  -->
 </section></section><section id="aio-03-best-practices-for-qualitative-coding"><p>Content from <a href="03-best-practices-for-qualitative-coding.html">Best Practices for Qualitative Coding</a></p>
 <hr>
-<p>Last updated on 2024-07-31 |
+<p>Last updated on 2025-03-02 |
 
         <a href="https://github.com/LibraryCarpentry/lc-open-qualitative-research/edit/main/episodes/03-best-practices-for-qualitative-coding.md" class="external-link">Edit this page <i aria-hidden="true" data-feather="edit"></i></a></p>
 <p>Estimated time: <i aria-hidden="true" data-feather="clock"></i> 60 minutes</p>
@@ -1208,8 +1208,8 @@ any links that you are not going to use.
 <h3 class="card-title">Questions</h3>
 <ul>
 <li>What is the difference between inductive and deductive coding?</li>
-<li>How can I set up and apply a flexible code tree in Taguette?</li>
-<li>How can I create and view highlights in Taguette?</li>
+<li>How can I set up and apply a flexible code tree in QualCoder?</li>
+<li>How can I code text and view coded text in QualCoder?</li>
 </ul>
 </div>
 </div>
@@ -1230,9 +1230,9 @@ coding</li>
 </div>
 </div>
 <p>Beginning qualitative researchers often want to jump right into
-analyzing their data once documents are added to their project, but
-taking the time to develop a coding protocol first can save time while
-improving the transparency and quality of research.</p>
+analyzing data once documents are added to a project, but taking the
+time to develop a coding protocol first can save time and improve the
+transparency and quality of research.</p>
 <p>The first step is typically to choose a coding philosophy, that is,
 to decide <em>how</em> and <em>why</em> code labels will be chosen and
 applied. Coding philosophies range along a spectrum from
@@ -1249,8 +1249,8 @@ based on past research and observation. An experiment is conducted to
 isolate that specific potential cause, and conclusions are drawn based
 on the presence (or lack) of difference made by the difference.</p>
 <p>A medicine trial is a classic example of a deductive approach.
-Scientists predict that a medicine will help people in a specific way
-(for example, by reducing the length of an infection). They recruit
+Scientists predict a treatment will help people in a specific way (for
+example, by reducing the length of an infection). They recruit
 participants (patients with the infection) who are randomly assigned so
 that some receive the medicine and others receive a placebo with no
 medicine. If the length of the infection is statistically shorter in the
@@ -1264,8 +1264,8 @@ conclusions by making close observations while recognizing personal
 biases and limits to observation. Inductive qualitative research draws
 on patterns observed in data to make predictions, generalizations, or
 analogies about more general patterns. Put differently, deductive
-research is explanatory in nature, while inductive research is
-exploratory.</p>
+research is typically <strong>explanatory</strong> in nature, while
+inductive research is <strong>exploratory</strong>.</p>
 <p>Inductive social research often draws on critical or constructivist
 perspectives that emphasize how individuals and groups describe their
 own experience.</p>
@@ -1284,13 +1284,12 @@ approaches to code development.</p>
 </section><section><h2 class="section-heading" id="inductive-coding">Inductive coding<a class="anchor" aria-label="anchor" href="#inductive-coding"></a>
 </h2>
 <hr class="half-width">
-<p>In 1967, US sociologists Glaser and Strauss formalized (<em>grounded
-theory</em>)[<a href="https://en.wikipedia.org/wiki/Grounded_theory" class="external-link uri">https://en.wikipedia.org/wiki/Grounded_theory</a>], one
-method for conducting structured qualitative research without
-presupposing a hypothesis or theory. They recognized that how people
-experience the world (i.e., the economy) can be at least as important as
-traditional measures (i.e., personal income or gross domestic
-product).</p>
+<p>In 1967, US sociologists Glaser and Strauss formalized <a href="https://en.wikipedia.org/wiki/Grounded_theory" class="external-link"><em>grounded
+theory</em></a>, one method for conducting structured qualitative
+research without presupposing a hypothesis or theory. They recognized
+that how people experience the world (i.e., the economy) can be at least
+as important as traditional measures (i.e., personal income or gross
+domestic product).</p>
 <p>In grounded theory and other inductive coding methods, qualitative
 data like interview transcripts are read carefully and initial codes are
 applied that match the language and interpretation proposed by study
@@ -1492,8 +1491,7 @@ is the only option currently available in Taguette.</p>
 </div>
 </div>
 <p>Once applied, in vivo codes can be analyzed individually or later
-aggregated during the axial coding process, introduced in a later
-section.</p>
+aggregated during the axial coding process.</p>
 </div>
 </section><section><h2 class="section-heading" id="deductive-coding">Deductive coding<a class="anchor" aria-label="anchor" href="#deductive-coding"></a>
 </h2>
@@ -1512,17 +1510,11 @@ test.</p>
 <blockquote>
 <p>Our research team has adapted 3 key themes from Sarikakis and
 Winter’s <a href="https://doi.org/10.1177/2056305117695325" class="external-link">2017
-review</a> of social media user’s consciousness of data privacy:</p>
-</blockquote>
-<blockquote>
-<ol style="list-style-type: decimal">
-<li>Autonomy: users desire control over when and to whom their data is
-disclosed</li>
-<li>Compromise: users recognize privacy’s importance but also circumvent
-protections when seeking information</li>
-<li>Stake: concern derives from being personally affected by privacy or
-sharing</li>
-</ol>
+review</a> of social media user’s consciousness of data privacy: 1.
+Autonomy: users desire control over when and to whom their data is
+disclosed 2. Compromise: users recognize privacy’s importance but also
+circumvent protections when seeking information 3. Stake: concern
+derives from being personally affected by privacy or sharing</p>
 </blockquote>
 <p>Create the 3 themes above as tags, prefixed by
 <code>deductive:</code>, and add descriptions based on the background
@@ -1892,7 +1884,7 @@ organizations with contrasting goals.</p>
   Importing a project
   </h3>
 </button>
-<div id="collapseSpoiler1" class="accordion-collapse collapse" data-bs-parent="#accordionSpoiler1" aria-labelledby="headingSpoiler1">
+<div id="collapseSpoiler1" class="accordion-collapse collapse" aria-labelledby="headingSpoiler1" data-bs-parent="#accordionSpoiler1">
 <div class="accordion-body">
 <p>If you did not code sections of all three interviews (BSR_01, BSR_02,
 BSR_05) to the three deductive codes in the previous section, you may
@@ -1937,7 +1929,7 @@ a whole, rather than focusing on the deductive themes we coded.</p>
   Backlight
   </h4>
 </button>
-<div id="collapseHint1" class="accordion-collapse collapse" data-bs-parent="#accordionHint1" aria-labelledby="headingHint1">
+<div id="collapseHint1" class="accordion-collapse collapse" aria-labelledby="headingHint1" data-bs-parent="#accordionHint1">
 <div class="accordion-body">
 <p>Click the <code>Backlight</code> box below the <code>Documents</code>
 list in Taguette to grey out all non-highlighted text. This can help to
@@ -2413,8 +2405,8 @@ data</li>
   "url": "https://LibraryCarpentry.github.io/lc-open-qualitative-research/instructor/aio.html",
   "identifier": "https://LibraryCarpentry.github.io/lc-open-qualitative-research/instructor/aio.html",
   "dateCreated": "2023-08-17",
-  "dateModified": "2025-03-01",
-  "datePublished": "2025-03-01"
+  "dateModified": "2025-03-02",
+  "datePublished": "2025-03-02"
 }
 
   </script><script>
