@@ -41,7 +41,7 @@ To import a previously-exported project in Taguette, click `Home` at the top to 
 
 Each major CAQDAS package has its own proprietary data format, specialized to its features. In most cases, projects cannot be moved between software in these formats, Taguette's included. Data files in some software may also be restricted to specific platforms (Windows or Mac) or software versions.
 
-The [REFI-QDA standard](https://www.qdasoftware.org/) offers an alternative, the `QDPX` format. `QDPX` was developed in collaboration between researchers and major package developers, that provides the ability to move projects in a standard format between every major package. It is an open standard which anyone can use and adapt. Because packages structure data differently and have distinct advanced feature sets, some data may fail to import into the target tool.
+The [REFI-QDA standard](https://www.qdasoftware.org/) offers an alternative, the `QDPX` format. `QDPX` was developed in collaboration between researchers and major package developers, that provides the ability to move projects in a standard format between every major package. It is an open standard which anyone can use and adapt. Because packages structure data differently and have distinct advanced feature sets, some data may fail to import into the target tool. For [more information about REFI-QDA see here](/understanding-refi-qda.html).
 
 Taguette currently only implements the codebook portion of the `QDPX` standard, and only for export. To export a codebook that can be imported in other software, choose `Export codebook` from the `Project info` tab and select `QDC (XML)`.
 
