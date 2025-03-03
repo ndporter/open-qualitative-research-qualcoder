@@ -17,11 +17,15 @@ exercises: 30
 :::
 
 ## Getting Started with Coding: Why We Code Qualitative Data
-Many qualitative researchers spend much of their analytic effort on coding data, i.e. assigning labels to excerpts in the data. That is also what we will focus on today. But before doing so, it is still worthwhile to focus on _why_ we code in the first place. Coding is a form of abstraction: we make sense of large (sometimes overwhelming) amounts of qualitative data -- somtimes referred to as "unstructured data" and generate some structure by coding it. This abstraction is not cost free: by 'forcing' codes onto your data, you may loose some of its nuance and specificity. Some qualitative traditions will therefore encourage you to only start coding once you are deeply familiar with your data. Most traditions encourage an ongoing back-and-forth between data and code to make sure data and codes match.
+Many qualitative researchers spend much of their analytic effort on coding data, i.e. assigning labels to excerpts in the data. That is also what we will focus on today. But before doing so, it is still worthwhile to focus on _why_ we code in the first place. 
 
-Moreover, the role of codes varies strongly between qualitative research traditions. In some traditions, codes are principally a background tool, used to _organize_ materials for later writing. That is the case, for example, for most ethnographic writing, as well as for many historically oriented approaches such as comparative historical analysis (as used in sociology and political science) or process tracing (as used in political science and administrative sciences). You will rarely find a mention of codes, coding schemas, or a codebook in published work using these methods, and not all of its practicioners may even code data at all. In other approaches, such as thematic analysis or discourse analysis, codes are a key _analytic_ outcome. Here, codes don't just organize the data but are used a tool to give it meaning. In publications using these methods, the codes and their development are typically made explicit and often form the core of the methods section. The tools we provide in this workshop can help you with either type of analysis, but as you develop your codeing schema, you want to be clear where you situtate yourself methodologically. 
+Coding is a form of abstraction: we make sense of large (sometimes overwhelming) amounts of qualitative data -- somtimes referred to as "unstructured data" and generate some structure by coding it. This abstraction is not cost free: by *forcing* codes onto your data, you may lose some nuance and specificity. Some qualitative traditions will therefore encourage you to only start coding once you are deeply familiar with your data. Most traditions encourage an ongoing back-and-forth between data and codes to make sure data and codes match.
 
-Beginning qualitative researchers often want to jump right into analyzing data once documents are added to a project, but taking the time to develop a coding protocol first can save time and  improve the transparency and quality of research.
+Moreover, the role of codes varies strongly between qualitative research traditions. In some traditions, codes are principally a background tool, used to _organize_ materials for later writing. That is the case, for example, for most ethnographic writing, as well as for many historically oriented approaches such as comparative historical analysis (as used in sociology and political science) or process tracing (as used in political science and administrative sciences). You will rarely find a mention of codes, coding schemas, or a codebook in published work using these methods, and not all of its practitioners may apply codes to data at all. 
+
+In other approaches, such as thematic analysis or discourse analysis, codes are a key _analytic_ outcome. Here, codes don't just organize the data but are used a tool to give it meaning. In publications using these methods, the codes and their development are typically made explicit and often form the core of the methods section. The tools we provide in this workshop can help you with either type of analysis, but as you develop your coding schema, you want to be clear where you situate yourself methodologically. 
+
+Beginning qualitative researchers often want to jump right into analyzing data once documents are added to a project, but taking the time to develop a coding protocol first can save time and improve the transparency and quality of research.
 
 The first step is typically to choose a coding philosophy, that is, to decide *how* and *why* code labels will be chosen and applied. Coding philosophies range along a spectrum from **inductive** to **deductive** approaches.
 
@@ -246,7 +250,7 @@ Apply the three deductive codes to the following interview time segments:
 
 This will likely take quite a while, particularly for those new to qualitative coding. Don't hesitate to get the attention of the instructor or helper when you need assistance.
 
-Read the surface text carefully, but also watch for implied reference to themes. The excerpt below doesn't include the word `stake` or a synonym, but probably meets the definition above that stake is when "concern derives from being personally affected by privacy or sharing."
+Read the surface text carefully, but also watch for implied reference to themes. The excerpt below doesn't include the word `stake` or a synonym, but probably meets the definition that stake is when "concern derives from being personally affected by privacy or sharing."
 
 > BSR01 27:33
 > So they were anonymous in the sense that I couldn't tie it to their real identity. But some people use this same username on all these online platforms. And that is that that is a concern. So let's say there's a user in my data who said something they regret, and they delete their post or their comment. It's stil going to be there in my data set.
@@ -275,7 +279,7 @@ If you need more context about a project to understand the section you are codin
 
 ### Finding questions
 
-If questions in a structured or semi-structured interview were asked in a consistent way, the easiest way to find responses to a particular question in a transcript is to use the `find` tool in your browser, typically `CTRL+f` in Windows or `CMD+f` on Mac.
+If questions in a structured or semi-structured interview were asked in a consistent way, the easiest way to find responses to a particular question in a transcript is to use the `search` tool in the top-left of the `Code text` display. You can adjust whether to search all files (or one) and whether to use case-sensitive search with the checkboxes. Search also allows [regular expressions](https://librarycarpentry.github.io/lc-data-intro/), pattern matching tools that provide great flexibility in search specification.
 
 :::
 
@@ -293,22 +297,52 @@ few reasons:
 
 **Axial coding** primarily addresses numbers 3 and 4, as it is involves relating or further breaking down primary themes or codes.
 
-For example, the passage in `BSR_05` coded to `in vivo: disclosure` concerned self-disclosure of personal information during the #MeToo movement with the hope of reducing stigma and producing a positive outcome. But Twitter users in `BSR_02` may have been subject to disclosure of personal information without consent. Axial coding might involve distinguishing disclosure based on whether it was voluntary or self-directed.
+For example, the passage in `BSR_05` coded to `in vivo - disclosure` concerned self-disclosure of personal information during the #MeToo movement with the hope of reducing stigma and producing a positive outcome. But Twitter users in `BSR_02` may have been subject to disclosure of personal information without consent. Axial coding might involve distinguishing disclosure based on whether it was voluntary or self-directed.
 
 Axial coding takes many other forms, depending on the research topic and methods. Deductive research may revise and further specify existing theory based on new data in their study. In vivo codes or open codes that seemed distinct may turn out to be conceptually indistinguishable. Participants may be provided summaries of initial findings and asked if
 they reflect their personal experience. In all cases, axial coding is a tool to clarify analysis and theory.
 
 Qualitative studies typically have one or more rounds of initial coding, followed by any amount of axial coding necessary to represent key concepts intelligibly to both researchers and study participants.
 
+### Coding reports
+
+Coding view is optimized for reading through transcripts or documents and applying a variety of codes, but it can be difficult to get a sense of what all is matches a particular code in your document corpus using coding view.
+
+The `Coding report` allows you to view every text passage coded to a single code (or set of codes), optionally restricted to specific source documents. This can be a great help to axial coding because you can look at one or more related codes more closely to see if they should be merged, split, relabeled, or left as-is.
+
+Create a report using `Reports - Coding report`. Nothing should display in the right window, but sources will be listed in the top-left and codes in the bottom-left.
+
+Select only the Big Social Research interviews by right-clicking in the sources, choosing `Select files like` and entering `BSR` in the dialogue.
+
+Let's focus on privacy harms using the codes from the original study team. Within the `Mannheimer` category (if you recoded them), find and click the code `privacy - considering potential harms`. When you select a category or code, any codes linked below it in the coding tree will also be included. Finally press the `play button` (right-facing triangle) to run the report.
+
+![](fig/qualcoder-coding-report.png){alt="Image of QualCoder coding report, showing all subcodes of 'privacy - considering potential harms' coded in BSR interviews."}
+
+The report shows all three text chunks coded to any of the selected privacy codes in the BSR interviews, with information on the code, file, and coder in a highlighted row above the excerpt.
+
+::: challenge
+
+### Axial coding with reports
+
+Read through the three results in the above report. Each one currently has a different code applied. Based on the text and names, discuss with the group whether you think they represent similar enough concepts their codes should be combined if these were the only interviews being considered.
+
+::: hint
+
+There is no authoritative right or wrong answer here. Whether to combine or split codes depends on the research questions, methods, and subjectivities, as well as on what participants tell you. The most important guide is to ensure that you are treating your research participants in a way that is faithful to their own experience, as you understand it.
+
+:::
+
+:::
+
+We won't make any changes at this time, but if you did want to merge 2 codes, you would use the `Code organizer`, right-click one, and select `Merge code into code`. Now both will be a single code by the `into` name, which you can rename if needed.
+
+QualCoder's coding tools (specifically `Code text`, `Code organizer` and `Coding report`) comprise the core suite for the coding process itself. In the next section, we will build on that foundation and explore qualitative and mixed methods analysis methods that can be used in QualCoder.
+
 ::: keypoints
 
--   Qualitative code protocols are developed based on research goals and
-    philosophies
--   Inductive research focuses on discovering or exploring themes and
-    often uses open or in vivo coding
--   Deductive research focuses on testing hypotheses and typically
-    applies a predefined coding scheme based on theory
--   In Taguette, tags are labelled codes applied to highlighted excerpts
-    of text
+-   Qualitative code protocols are developed based on research goals and  philosophies
+-   Inductive research focuses on discovering or exploring themes and often uses open or in vivo coding
+-   Deductive research focuses on testing hypotheses and typically applies a predefined coding scheme based on theory
+-   In QualCoder, codes are labels applied to highlighted excerpts of text
 
 :::
