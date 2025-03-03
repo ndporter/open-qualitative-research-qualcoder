@@ -320,7 +320,7 @@
       </div>
       <hr></nav><main id="main-content" class="main-content"><div class="container lesson-content">
         <h1>Best Practices for Qualitative Coding</h1>
-        <p>Last updated on 2025-03-02 |
+        <p>Last updated on 2025-03-03 |
 
         <a href="https://github.com/LibraryCarpentry/lc-open-qualitative-research/edit/main/episodes/03-best-practices-for-qualitative-coding.md" class="external-link">Edit this page <i aria-hidden="true" data-feather="edit"></i></a></p>
 
@@ -412,28 +412,71 @@ approaches to code development.</p>
 <hr class="half-width"><p>In 1967, US sociologists Glaser and Strauss formalized <a href="https://en.wikipedia.org/wiki/Grounded_theory" class="external-link"><em>grounded
 theory</em></a>, one method for conducting structured qualitative
 research without presupposing a hypothesis or theory. They recognized
-that how people experience the world (i.e., the economy) can be at least
-as important as traditional measures (i.e., personal income or gross
+that how people <em>experience</em> the world can be at least as
+important as traditional measures (i.e., personal income or gross
 domestic product).</p>
 <p>In grounded theory and other inductive coding methods, qualitative
 data like interview transcripts are read carefully and initial codes are
 applied that match the language and interpretation proposed by study
 participants themselves as closely as possible.</p>
-<p>Often, researchers label codes in this <em>open coding</em> phase by
-using their judgment and experience to discern underlying themes in the
-experiences expressed across interviews.</p>
+<p>Often, researchers label codes in this <strong>open coding</strong>
+phase by using their judgment and experience to discern underlying
+themes in the experiences expressed across interviews.</p>
 <p>In our scenario, the goal of this analysis is to prepare for
 collecting and analyzing new data related to social media privacy and
 confidentiality. <code>BSR_05</code> is with a PhD student studying
 political communication.</p>
-<p>We can open <code>BSR_05</code> in Taguette from the
-<code>Documents</code> tab. The text of the interview should appear on
-the right. In the body of the interview, speaker names and the time they
-started speaking in the recording appear on one line, followed by what
-they said. <code>Sara Mannheimer</code> is the interviewer and
-<code>BSR05</code> replaces the name of the student for privacy
-protection.</p>
-<figure><img src="fig/taguette-document-view.png" alt="Image of Taguette with document BSR_05 open to timestamp 03:49" class="figure mx-auto d-block"></figure><p>Scrolling 3 minutes and 49 seconds into the interview, we learn this
+<p>Open the <code>Coding</code> tab in QualCoder and click on
+<code>BSR05_transcript_deidentified</code> in the <code>Documents</code>
+list to open it for coding on the right. <code>Sara Mannheimer</code> is
+the interviewer and <code>BSR05</code> replaces the name of the student
+for privacy protection.</p>
+<figure><img src="fig/qualcoder-coding-view.png" alt="Image of QualCoder with document BSR_05 open to the 03:49 timestamp in coding view" class="figure mx-auto d-block"></figure><p>Codes (labels) are applied to text segments that reflect a particular
+concept, theme or idea. Before applying a code, it must be created in
+the Codes list or the Code organizer.</p>
+<p>We imported an existing project and the codes used by the original
+study team already appear in the codes list. Before creating new codes,
+take a look at the <em>coding tree</em> in the Code organizer
+(<code>Coding - Code organizer</code>). After opening the organizer and
+reading the warning about the risks of modifying codes, click the
+outline symbol (<code>select code branch</code>), then choose
+<code>All</code> and click <code>OK</code>. You should see each code,
+with lines connecting codes to <em>categories</em>. Each category can
+contain any number of codes, and categories can be nested within other
+categories (i.e.,
+<code>curation - technical requirements of bad</code>).</p>
+<figure><img src="fig/qualcoder-code-organizer.png" alt="Image of QualCoder code organizer showing the 'curation - technical requirements of bad' category in a white box with 5 subcategories of varying colors connected to it via lines. The 'curation - innovative repository practices with bar' subcategory also has 2 subcategories of its own, one of which contains 3 codes." class="figure mx-auto d-block"></figure><p>We will use categories to distinguish between codes created using
+different processes. Click the <code>Create category</code> button and
+name a category <code>1_Mannheimer</code>; this will contain all the
+codes created by the previous study team so we can easily separate them
+from ours. To move an existing code or category under
+<code>1_Mannheimer</code>, right-click its box and select
+<code>Link code to category</code>. After selecting the correct code and
+choosing <code>OK</code>, that code becomes a subcode of
+<code>1_Mannheimer</code>.</p>
+
+<div id="organize-codes" class="callout discussion">
+<div class="callout-square">
+<i class="callout-icon" data-feather="message-circle"></i>
+</div>
+<div id="organize-codes" class="callout-inner">
+<h3 class="callout-title">Organize codes</h3>
+<div class="callout-content">
+<ol style="list-style-type: decimal"><li>Use the <code>Code organizer</code> to link as many of the original
+study team’s codes to <code>1_Mannheimer</code> as you can within 2
+minutes. You will not be able to finish them all.</li>
+<li>When time is up, save your changes by clicking
+<code>Apply</code>.</li>
+<li>Reopen the <code>Code organizer</code> and explore only the
+<code>1_Mannheimer</code> branch.</li>
+</ol></div>
+</div>
+</div>
+<div class="section level3">
+<h3 id="open-coding">Open coding<a class="anchor" aria-label="anchor" href="#open-coding"></a></h3>
+<p>After organizing existing codes, return to the text coding screen
+(<code>Coding - Code text</code>). Select <code>BSR05</code> again.
+Scrolling 3 minutes and 49 seconds into the interview, we learn this
 person was using a large dataset of Twitter posts from the #MeToo
 movement with some significant privacy risks, for example:</p>
 <blockquote>
@@ -442,12 +485,6 @@ which tweets were disclosures which were not, and we have to describe
 the method in the paper. And more or less, that’s a method to identify
 survivors of sexual violence in our in our data set.</p>
 </blockquote>
-<div class="section level3">
-<h3 id="open-coding">Open coding<a class="anchor" aria-label="anchor" href="#open-coding"></a></h3>
-<p>Tags (labelled codes) are applied to highlights (text excerpts).
-Select the two sentences above in Taguette and click “new highlight”
-then check “interesting” and “Save and Close.” The text should now be
-highlighted in yellow.</p>
 
 <div id="creating-open-codes" class="callout challenge">
 <div class="callout-square">
@@ -466,7 +503,7 @@ privacy researcher, might apply to part or all of the excerpt above.</p>
 <button class="accordion-button hint-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseHint1" aria-expanded="false" aria-controls="collapseHint1">
   <h4 class="accordion-header" id="headingHint1"> Give me a hint </h4>
 </button>
-<div id="collapseHint1" class="accordion-collapse collapse" data-bs-parent="#accordionHint1" aria-labelledby="headingHint1">
+<div id="collapseHint1" class="accordion-collapse collapse" aria-labelledby="headingHint1" data-bs-parent="#accordionHint1">
 <div class="accordion-body">
 <p>Open codes can range from very specific to more general, but
 theoretically fruitful codes are often somewhere in the middle - general
@@ -481,7 +518,7 @@ excerpts have something more in common.</p>
 <button class="accordion-button solution-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseSolution1" aria-expanded="false" aria-controls="collapseSolution1">
   <h4 class="accordion-header" id="headingSolution1"> Show me the solution </h4>
 </button>
-<div id="collapseSolution1" class="accordion-collapse collapse" data-bs-parent="#accordionSolution1" aria-labelledby="headingSolution1">
+<div id="collapseSolution1" class="accordion-collapse collapse" aria-labelledby="headingSolution1" data-bs-parent="#accordionSolution1">
 <div class="accordion-body">
 <p>There are multiple words or phrases that might capture some of this
 excerpt’s relevance for our research. Taguette allows applying multiple
@@ -493,54 +530,60 @@ victimization”.</p>
 </div>
 </div>
 </div>
-<div id="how-much-to-highlight" class="callout">
+<p>Codes must be created before they can be applied.</p>
+<p>First, right-click in the code list and
+<code>Add a new category</code> called <code>2_open_codes</code> for our
+codes.</p>
+<p>Next, right-click the category and
+<code>Add a new code to category</code>, naming it after a theme or
+concept you identified (i.e., <code>privacy</code>).</p>
+<p>Highlight the relevant text chunk at right with your mouse (“And a
+big part… in our data set”) then click your new code. If it worked
+correctly, you will see a count of <code>1</code> next to your code and
+once you click somewhere else, the text will be highlighted in the
+code’s color.</p>
+<figure><img src="fig/qualcoder-coding-text.png" alt="Image of QualCoder text coding screen. The code 'privacy' is highlighted in green within a category called '2_open_codes'. On the right, a chunk of text from BSR05 is highlighted in the same color of green." class="figure mx-auto d-block"></figure><div id="how-many-codes" class="callout">
 <div class="callout-square">
 <i class="callout-icon" data-feather="bell"></i>
 </div>
-<div id="how-much-to-highlight" class="callout-inner">
-<h3 class="callout-title">How much to highlight?</h3>
+<div id="how-many-codes" class="callout-inner">
+<h3 class="callout-title">How many codes?</h3>
 <div class="callout-content">
-<p>Taguette supports multiple tags per highlight but does not allow
-overlapping highlights, making decisions about how large of excerpts to
-use more important. Highlights generally should be only long enough to
-provide context and understand meaning. Some researchers always code
-full sentences or even paragraphs, while others make decisions case by
+<p>A single sentence often relates to multiple topics, so it’s common to
+apply more than one code to a single chunk of text or apply codes to
+overlapping text chunks. The next part of the workshop will discuss some
+of the reasons overlapping codes can be valuable.</p>
+<p>To apply multiple codes to the same (or overlapping) text, repeat the
+coding process with another code. QualCoder will display the overlap as
+<em>underlined</em> text. Clicking on the underlined text will change to
+one of the highlight colors, which can be cycled by pressing the
+<code>o</code> key or clicking the code of interest.</p>
+</div>
+</div>
+</div>
+<div id="how-much-to-code" class="callout">
+<div class="callout-square">
+<i class="callout-icon" data-feather="bell"></i>
+</div>
+<div id="how-much-to-code" class="callout-inner">
+<h3 class="callout-title">How much to code?</h3>
+<div class="callout-content">
+<p>Decisions about how large of excerpts to use are challenging but
+important. Highlights generally should be only long enough to provide
+context and understand meaning. Some researchers always code full
+sentences or even paragraphs, while others make decisions case by
 case.</p>
 </div>
 </div>
 </div>
-<p>Let’s create some of the tags we defined in our discussion. Click on
-the highlight and create additional tags. Names should be short and
-clear. Adding descriptions can help clarify the difference between
-similar tags, especially if working collaboratively with others.</p>
-<figure><img src="fig/taguette-privacy-highlight.png" alt="Image of Taguette New Tag dialog for tag named privacy with description sharing or protection of personal information, including both web (social media, etc) and research" class="figure mx-auto d-block"></figure><p>The “Highlights” tab at the left allows us to see all the tags we’ve
-created and to how many highlights each has been applied. I created tags
-for both “privacy” and “identity protection” but later realized they
-overlap so much conceptually they don’t need to be separated.</p>
-<p>To merge two tags click “Edit” next to the tag you want to remove and
-click “Merge.” Select the other tag in the “into” box, then “Merge
-tags.” After merging, any highlights tagged with one or both original
-tag will have the name of the “into” tag and the other will be
-removed.</p>
-<div id="plan-twice-click-once" class="callout">
-<div class="callout-square">
-<i class="callout-icon" data-feather="bell"></i>
-</div>
-<div id="plan-twice-click-once" class="callout-inner">
-<h3 class="callout-title">Plan twice; click once</h3>
-<div class="callout-content">
-<blockquote>
-<p>“Measure twice and cut once.” -<a href="https://en.wiktionary.org/wiki/measure_twice_and_cut_once" class="external-link">English
-proverb</a> meaning one should plan and prepare in a careful, thorough
-manner before taking action and act once precisely and properly.</p>
-</blockquote>
-<p>Taguette has no undo or history functions. Merged or deleted tags
-cannot be retrieved. Even if you export a copy of a project before
-making changes, there is no import functionality to restore the project
-to its previous state within Taguette.</p>
-</div>
-</div>
-</div>
+<p>I created codes for both “privacy” and “identity protection” but
+later realized they overlap so much conceptually they don’t need to be
+separated.</p>
+<p>To merge two codes, load them in the <code>Code organizer</code>,
+right-click the code you want to replace, and choose
+<code>Merge code into code</code> then <code>Apply</code>. After
+merging, any text coded to one or both original code will have the name
+of the “into” tag and the other will be removed.</p>
 </div>
 <div class="section level3">
 <h3 id="in-vivo-coding">In vivo coding<a class="anchor" aria-label="anchor" href="#in-vivo-coding"></a></h3>
@@ -561,53 +604,20 @@ may be relevant to data privacy protection in these sentences including
 disclosed, stigma, disclosing, disclose, experience, sexual violence,
 and sensitive data. Rather than categorizing themes at this stage, in
 vivo coding retains language used by the participants.</p>
-<p>Let’s highlight “disclosed” and apply a new tag called “disclose” to
-it. The same tag can be applied to “disclosing” and “disclose;” although
+<p>After creating another category for <code>in_vivo</code> codes, let’s
+highlight “disclosed” and apply a new in vivo code called “disclose”.
+The same tag can be applied to “disclosing” and “disclose;” although
 they are different words, they have the same root word and express the
 same idea.</p>
-<figure><img src="fig/taguette-in-vivo.png" alt="Image of Taguette document view with the words disclosed, disclosing, and disclose highlighted with the tag disclose" class="figure mx-auto d-block"></figure><div id="coding-trees" class="callout challenge">
-<div class="callout-square">
-<i class="callout-icon" data-feather="zap"></i>
-</div>
-<div id="coding-trees" class="callout-inner">
-<h3 class="callout-title">Coding trees</h3>
-<div class="callout-content">
-<p>*Our project now combines thematic and in vivo coding in one document
-with no easy way to separate the types. Coding trees can help clarify
-and sort code groups.</p>
-<p>Like the plants, code trees have branches, which may be types of
-codes or broad themes. Leaves, or specific codes or subcategories, each
-“grow” from one larger branch.*</p>
-<p>Edit each tag you have created (e.g., not “interesting”) and add
-either <code>in vivo:</code> or <code>open:</code> to create a code tree
-where codes are sorted by coding method.</p>
-</div>
-</div>
-</div>
-<div id="accordionSolution2" class="accordion challenge-accordion accordion-flush">
-<div class="accordion-item">
-<button class="accordion-button solution-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseSolution2" aria-expanded="false" aria-controls="collapseSolution2">
-  <h4 class="accordion-header" id="headingSolution2"> Show me the solution </h4>
-</button>
-<div id="collapseSolution2" class="accordion-collapse collapse" data-bs-parent="#accordionSolution2" aria-labelledby="headingSolution2">
-<div class="accordion-body">
-<p>After editing tags, your project will look something like this:</p>
-<figure><img src="fig/taguette-code-tree.png" alt="Image of Taguette showing highlights tab with tags including 'in vivo: disclose' and 'open: privacy'" class="figure mx-auto d-block"></figure><p>Some other qualitative software also implements dynamic code trees
-that allow multiple levels of nesting and automate viewing all subcodes
-(leaves) of a single code (branch), but embedding branches in code names
-is the only option currently available in Taguette.</p>
-</div>
-</div>
-</div>
-</div>
-<p>Once applied, in vivo codes can be analyzed individually or later
-aggregated during the axial coding process.</p>
+<figure><img src="fig/qualcoder-coding-invivo.png" alt="Image of QualCoder text coding screen. The code 'disclose' is highlighted in red within a category called 'in_vivo'. On the right, multiple words with the stem 'disclose' from BSR05 are highlighted in red." class="figure mx-auto d-block"></figure><p>In vivo codes can be analyzed individually to understand specific
+language people use or aggregated into themes during the axial coding
+process.</p>
 </div>
 </section><section><h2 class="section-heading" id="deductive-coding">Deductive coding<a class="anchor" aria-label="anchor" href="#deductive-coding"></a></h2>
 <hr class="half-width"><p>Deductive codes are applied much the same way as open codes, but
-development takes place earlier, ideally before data collection, because
-tags and themes reflect theories and hypotheses the study is designed to
-test.</p>
+development of a coding tree takes place earlier, ideally before data
+collection, because tags and themes reflect theories and hypotheses the
+study is designed to test.</p>
 <div id="code-deductively" class="callout challenge">
 <div class="callout-square">
 <i class="callout-icon" data-feather="zap"></i>
@@ -624,9 +634,13 @@ disclosed 2. Compromise: users recognize privacy’s importance but also
 circumvent protections when seeking information 3. Stake: concern
 derives from being personally affected by privacy or sharing</p>
 </blockquote>
-<p>Create the 3 themes above as tags, prefixed by
-<code>deductive:</code>, and add descriptions based on the background
-given above.</p>
+<p>Create the 3 themes above as codes within a new category called
+<code>deductive</code>. Add descriptions based on the background given
+above by right-clicking and choosing <code>View or edit memo</code>. You
+can use memos to clarify exactly what a code means, to note questions
+about whether something should be changed, or any other purpose. Memos
+provide flexibility within a project to fill in gaps between formal
+parts of the project</p>
 <p>In <code>BSR_02</code>, read and highlight the text block quoted
 below (from the section starting at <code>1:44</code>).</p>
 <blockquote>
@@ -645,7 +659,7 @@ why, then apply relevant tags to the highlight.</p>
 <button class="accordion-button hint-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseHint2" aria-expanded="false" aria-controls="collapseHint2">
   <h4 class="accordion-header" id="headingHint2"> Give me a hint </h4>
 </button>
-<div id="collapseHint2" class="accordion-collapse collapse" data-bs-parent="#accordionHint2" aria-labelledby="headingHint2">
+<div id="collapseHint2" class="accordion-collapse collapse" aria-labelledby="headingHint2" data-bs-parent="#accordionHint2">
 <div class="accordion-body">
 <p>Don’t focus on finding key words or synonyms in deciding whether to
 apply a code. Look for sections that suggest a relationship to themes of
@@ -654,12 +668,12 @@ interest.</p>
 </div>
 </div>
 </div>
-<div id="accordionSolution3" class="accordion challenge-accordion accordion-flush">
+<div id="accordionSolution2" class="accordion challenge-accordion accordion-flush">
 <div class="accordion-item">
-<button class="accordion-button solution-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseSolution3" aria-expanded="false" aria-controls="collapseSolution3">
-  <h4 class="accordion-header" id="headingSolution3"> Show me the solution </h4>
+<button class="accordion-button solution-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseSolution2" aria-expanded="false" aria-controls="collapseSolution2">
+  <h4 class="accordion-header" id="headingSolution2"> Show me the solution </h4>
 </button>
-<div id="collapseSolution3" class="accordion-collapse collapse" data-bs-parent="#accordionSolution3" aria-labelledby="headingSolution3">
+<div id="collapseSolution2" class="accordion-collapse collapse" aria-labelledby="headingSolution2" data-bs-parent="#accordionSolution2">
 <div class="accordion-body">
 <p><strong>Autonomy</strong> might apply depending on whether the
 harassment people experienced on Twitter included <a href="https://en.wiktionary.org/wiki/doxx#English" class="external-link">doxxing</a> or
@@ -773,7 +787,7 @@ at all provide data to help understand people and contexts.</p>
 <button class="accordion-button hint-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseHint3" aria-expanded="false" aria-controls="collapseHint3">
   <h4 class="accordion-header" id="headingHint3"> Give me a hint </h4>
 </button>
-<div id="collapseHint3" class="accordion-collapse collapse" data-bs-parent="#accordionHint3" aria-labelledby="headingHint3">
+<div id="collapseHint3" class="accordion-collapse collapse" aria-labelledby="headingHint3" data-bs-parent="#accordionHint3">
 <div class="accordion-body">
 <p>If you need more context about a project to understand the section
 you are coding, scroll to the top of the interview where the project is
@@ -787,7 +801,7 @@ introduced.</p>
 <button class="accordion-button hint-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseHint4" aria-expanded="false" aria-controls="collapseHint4">
   <h4 class="accordion-header" id="headingHint4"> Finding questions </h4>
 </button>
-<div id="collapseHint4" class="accordion-collapse collapse" data-bs-parent="#accordionHint4" aria-labelledby="headingHint4">
+<div id="collapseHint4" class="accordion-collapse collapse" aria-labelledby="headingHint4" data-bs-parent="#accordionHint4">
 <div class="accordion-body">
 <p>If questions in a structured or semi-structured interview were asked
 in a consistent way, the easiest way to find responses to a particular
@@ -915,8 +929,8 @@ any links that you are not going to use.
   "url": "https://LibraryCarpentry.github.io/lc-open-qualitative-research/03-best-practices-for-qualitative-coding.html",
   "identifier": "https://LibraryCarpentry.github.io/lc-open-qualitative-research/03-best-practices-for-qualitative-coding.html",
   "dateCreated": "2023-08-17",
-  "dateModified": "2025-03-02",
-  "datePublished": "2025-03-02"
+  "dateModified": "2025-03-03",
+  "datePublished": "2025-03-03"
 }
 
   </script><script>

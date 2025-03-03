@@ -1,0 +1,333 @@
+
+QR02_transcript_deidentified
+SUMMARY KEYWORDS
+data, transcript, research, people, organization, project, reports, context, publish, repository, irb, issues, identified, consent, population, qualitative data, methods, concern, communicating, interview
+SPEAKERS
+Sara Mannheimer, QR02
+
+Sara Mannheimer  00:12
+I started recording, by the way, if that, assuming that's okay with you?
+
+QR02  00:18
+Yes. So if I get into something particularly sensitive, I may ask you to stop, but I don't, I don't think we will based on the questions. So.
+
+Sara Mannheimer  00:29
+Yeah, and the consent form does outline, you can stop for any reason we can stop recording, we can stop the interview. And because even though I put that there are no major risks, there is some kind of risk to talking about your work and talking about research that you've done. So yeah, feel free to like, tell me to stop recording, and we can pick back up again, or just stop completely. So let's get started.
+
+QR02  02:17
+You know, I will say, if there's time at the end, and if you are interested, I can tell you the story of how we ended up using [data repository], which is a little bit sensitive. But we'll save that to the end.
+
+Sara Mannheimer  02:32
+Cool. Yeah, I'd be interested in that. Okay, I turned off my video to just so we're both on the same page. 
+
+QR02  02:39
+Thank you. I'm just Zoomed out for the week. 
+
+Sara Mannheimer  02:42
+Yeah, that makes perfect sense. Okay, great. So I talked through a bit of my research background, and we're starting our recording. The interview is based on six key issues that I identified through a lit review, that are in common between qualitative data sharing and big social research. So those are context, data quality, data comparability, informed consent, privacy and confidentiality and intellectual property. So I'll be asking one question about each of those topics. And then we have like a intro and wrap up question as well. And it should take about 60 minutes, I'm hoping. So tell me about the type of research you do and what kind of data you generally produce.
+
+QR02  03:35
+I am going to be reflective in terms of the timeframe that I'm talking about, because I think that's going to be more helpful to you. So for 10 years between 2010 and 2020, I ran a small qualitative research group. And that's where I think the examples are going to be most useful. What I am doing now, in my current job is probably less so so. 
+
+Sara Mannheimer  04:03
+Okay.
+
+QR02  04:04
+I may talk in um, present tense because I haven't quite mentally made the shift yet. So but just just be aware that I'm talking about examples that are things that happened in the past. 
+
+Sara Mannheimer  04:17
+Okay. 
+
+QR02  04:18
+So what I in the group did was predominantly qualitative research focused on methods that you did not typically see used or used well, in [Federal Agency], particularly semi-structured interviews, to some degree, semi-structured focus groups, but I'm not a big fan of them. Combined with observation and just spending time in context with the people that were the subjects of the research. Some of that research was team-based, some of it was done by individuals, you know, me or another person on the team. A lot of it was informed by anthropological theory, because that's my background. But we were a multidisciplinary group. And so we did draw on multiple disciplines. When we were designing the research, most of the research was applied. In that we tried to have a very strong scientific, theoretical and methodological basis. But because of the [government funded] nature of where I work, there had to be an intent to somehow translate the results of the research into use for the population.
+
+Sara Mannheimer  05:38
+Yeah. Thanks. Okay. And then, where I've been asking people to identify maybe one specific example when you prepared your qualitative data for publication, or sharing, or reused existing qualitative data yourself, or considered sharing your data, even if you decided against it, or observed firsthand someone else doing one of the above.
+
+QR02  06:18
+Um, so all of the work that we did, in some way government funded, even if that was just our salaries. But up until a couple of months ago, when I got the policy sorted out, people at [my organization] were not allowed to take external grants. So I'm not sure quite how to answer that question.. our framework is so weird.
+
+Sara Mannheimer  06:51
+That's okay. And can you describe to me the specific example you're using? Because the idea is that we'll kind of use that example for each of the questions that I asked in the future, just so that we have something specific and if you want to stray from it, that's okay, too. But just to kind of get us into like a real life specificity mode. 
+
+QR02  07:11
+Okay. So, the research that I want to use as an example [is a research project about organizational culture]. There was a scandal. And the organization reacted in a number of different ways in one of those ways was asking us if we would be willing to do some interviews and focus groups to produce more robust data set to help them understand what the population was thinking, and what their attitudes were about certain kinds of issues, particularly [specific issues redacted], organizational culture, and gender relations writ large. And we did that very rapidly from an anthropological standpoint, we did all of the interviews and focus groups in about three months, it was a team based project, where the entire staff of my research group was involved with different sub-parts going out to different locations in the US and overseas to do the interviews and focus groups. I think we ended up with not quite 200 transcripts and note sets out of that from discrete individuals. If you want more detail...?
+
+Sara Mannheimer  08:50
+I guess, did you publish all of the data publicly? Or a subset?
+
+QR02  08:58
+No, we published most I, but I think we ended up putting about 170 some odd transcripts and note sets into [a data repository]. There were a few where either there was just no way to de-identify the transcript in a way that would it would just be immediately obvious who somebody was through the context or what they were talking about. There were a couple of others where it wasn't clear to me as the principal investigator, whether they were talking about harassment or assault cases that might be ongoing.
+
+Sara Mannheimer  09:44
+Right.
+
+QR02  09:45
+And I felt like that was was inappropriate. And there were a couple of other reasons that we've pulled things out but, it was predominantly to either to protect the interviewee or because we were concerned that there might be legal matters that we'd be impinging on. 
+
+Sara Mannheimer  10:05
+Okay. Oh, I see. So this study is quite sensitive. Okay.
+
+QR02  10:12
+Oh, yes. It would not be under under ordinary circumstances, but for this particular organization, despite them having fairly robust data about the incidence of problems, right—they do counts of reports of harassment, and things of that sort. I think that this was the first time a lot of the organizational leaders had really heard their own population speaking about the issues. 
+
+Sara Mannheimer  10:48
+Yeah.
+
+QR02  10:49
+And that, that was shocking for a lot of... which I was not, I was not expecting quite the level of shock that we got.
+
+Sara Mannheimer  11:00
+Okay, did you did you have a data management plan that you used when you're working through your research? 
+
+QR02  11:09
+Um, we had a setup as a team, in terms of how we maintained data, I mean, obviously, there's always, with human subjects research, there's always a plan for how you're handling data, while the research is ongoing. And that was specific to each protocol. In this case, with this specific example, it involved a lot of maintaining positive control over everything that included data or somebody's name. But in terms of what happened with the data afterwards, initially, what we would try to do is we would retain it ourselves, and then try to publicize that it was available to people who might have a, you know, an appropriate IRB, or if it was data that we'd been able to de-identify sufficiently just people who were interested in. That wasn't great. But at the time, the only data repositories that I could find, at least my understanding of how they worked, was that in order for somebody to access the data, they would have had to have to be part of an institution that had a membership in the repository. And for me, that was kind of a non-starter, because that would have excluded... Well, for example, all of the participants, right? So if one of the participants had gone on to a [non-member] university and wanted to use the data for their master's thesis, they would not have been able to access it. 
+
+Sara Mannheimer  12:56
+Yeah.
+
+QR02  12:58
+So I was not comfortable with that. And I honestly did not spend a ton of time to thinking about repositories, we just tried to do what we could individually. As a side note to that, there is a requirement now within the [federal agency], that anybody doing science and technology research, which is not particularly well defined in the policy, must have data management plan and file it with [internal research repository]. I don't know if you're familiar with that repository?
+
+Sara Mannheimer  13:32
+No.
+
+QR02  13:34
+[Explains repository]. But they also wanted data. But then when I drill down into it, I, they don't have the capacity to handle human subjects data. So I excluded all of our stuff. So that policy existed while the research group was in existence, but we were not aware of it until right towards the end. So I don't have a lot of experience with building the kind of data management plans that they want.
+
+Sara Mannheimer  14:12
+And then you did end up publishing in [data repository]. And, yeah.
+
+QR02  14:21
+Um, so we published that and a couple of other projects that were already well organized and ready to go. We did not publish the rest of the 10 years of research, because we just simply did not have time before the organization was shut down. So right now it's all just sitting on my my portion of the server. So.
+
+Sara Mannheimer  14:54
+What do you think they'll do with it?
+
+QR02  14:57
+I suspect it will get deleted. 
+
+Sara Mannheimer  14:59
+Yeah.
+
+QR02  15:01
+So without the staff, I don't have the capacity to go in and clean it and organize it and put it in a repository. Also, some of it is pretty micro, right. So we did a lot of kind of program assessment research. And while the results of some of that I think might be interesting, historically in the future, the data are, are not, so.
+
+Sara Mannheimer  15:31
+Great. Okay, let's move on to these six issues that I've identified. So the first one is context. And I have this quote, to sort of put, get us both on the same page about how we're thinking about context. So "Qualitative research is a process that may include deep and prolonged contact and connection with research subjects attempting to understand subjects within their own context. Qualitative data are therefore highly context dependent. Context is a source of data meaning and understanding ignoring context, and very using it or not recognizing one's own context driven perspective results in incomplete or missed meaning and a misunderstanding of human phenomena." So, with that in mind, can you tell me about a time during this research, when you consider the issue of understanding, maintaining or communicating the data's context, especially like when you were working with [data repository] to publish the data? Thinking about how you would communicate the context of your data to future users? 
+
+QR02  16:51
+So as a cultural anthropologist, obviously, context is everything to us. I think, for one of the.... Sorry, I'm trying to think about how to answer this concisely. It's not working. Um, in my experience, communicating about our study population, you know, over the course of the last 15 years, the applied users within the population typically don't need much contextual information in order to use data or use reports, because they're, they're living in it. It's the water that they're swimming in.
+
+Sara Mannheimer  17:43
+Yeah. 
+
+QR02  17:45
+But academic colleagues come in with a massive set of preconceptions about the population, many of which are not accurate. And so it's not just a matter of communicating the context accurately, it's also necessary to do a little bit of displacement activity, where you say, like, "You may be thinking this, but, you know, please take a moment and consider that that may not, in fact, be true." We did not do that with the data that we put in [data repository]. And that is something that I regret, because we did in fact, have, you know, I can't tell you the number of times that I've written down the explanation of you know, [specifics about the organization about which the research was conducted] You know, and don't make generalizations about [millions of] people. So, in retrospect, I wish that I had included with each of the projects that we put into [data repository], some kind of document that explained some of those common misconceptions. And a little bit of description of what the reality is. There was just not time. And quite frankly, I did not think about it, I could've, when I realized that I hadn't done it, I could have gone back to [the data repository] and asked them if we could add it but I did not. So maybe I should.
+
+Sara Mannheimer  19:32
+I mean, I feel like from what I've seen from my research here, it's like context is one of the most difficult things to communicate. So it's like, anything you can do is good, but you're never gonna get the full context that you have, you know, being embedded in with this community.
+
+QR02  19:49
+You know, we did put the reports up, which interestingly was, it required a little bit of negotiation with the repository to include the reports from the project and we, we eventually were able to persuade them that, that, by reading the reports, future researchers will be able to understand why the project was done, which is not immediately apparent from the IRB documents or anything else. And then it also might be useful for future researchers wanting to understand applied anthropology and applied social science during this particular time period. They were initially questioning whether or not those should be provided, which was surprising to me, I thought that they would be wanting that supplemental information to give a fuller picture of the research.
+
+Sara Mannheimer  20:45
+Right. I mean, the reports are basically the equivalent of an academic paper... they describe the methods and what happened, the results, right?
+
+QR02  20:53
+Um, the applied reports, they're pretty pretty light on methods and theory, because the, the organization does not care. The organization wants to know what... should we do that. So we did put a reference in there to a publication that we put out that that does go into greater detail about the background of the project, and the theory and the methods of it. But but the reports themselves, now they're, they're government reports. Take a look at any government report, and you find the Methods section and they're just not there. Yeah, yep.
+
+Sara Mannheimer  21:37
+And so did you hear you know, when you published in [data repository], did you have any other like, concerns about potential users of this, of these data that you deposited? Like taking them out in context? And did you do any? Did you like, use any strategies to address that, besides adding the reports, and adding, and, you know, potentially, in the future, you might add some of these like, more information about common misconceptions and realities? Was there like any other metadata or any other materials that you provided?
+
+QR02  22:20
+Oh, yes, and [data repository] was was very helpful with regard to that. So they they had us develop, you know, a data narrative that describes the data set in greater detail. And, in some cases, where I have put a restriction that certain certain data requires an IRB review, you can't just download it, or you're not supposed to be able to just download it. They were able to work with me to create access criteria, that I think will mitigate some of that, for example, for that particular project. I said that the IRB has to include some indication that the team requesting the data has access to somebody who can help them understand the context of and things like how the different demographic criteria could lead somebody to be identified accidentally, which is one of the things I think people have have a challenge with. 
+
+Sara Mannheimer  23:50
+Right. 
+
+QR02  23:51
+So [data repository], I think was was particularly helpful with that. As for other misunderstandings. You know, I have been involved in the debates about doing applied social science with this particular population for 20 years now. And so I have grown a bit of a thick skin in terms of my data and my publications being misinterpreted. Yeah, I do the best that I can and then I just let it go. 
+
+Sara Mannheimer  24:25
+Yeah. Okay, great. All right, let's move on to data quality. During this research, what quality issues or concerns arose like did you have problems with missing data or bias or quality of method, and then what factors helped you better understand or communicate data quality issues?
+
+QR02  24:56
+So this was not intended to be a representative sample of the population, which I think we communicated fairly clearly. In particular, we were, we needed to get more women than if we were going for a representative sample. Yeah, simply because of the issues that we were addressing. So that was not much of an issue. I was a little bit concerned that we would only get volunteers who really had an axe to grind on one side or the other. And that's always an issue with this particular type of research. And I suspect that that is the case, with that particular data set. We had some people who had very thoughtful perceptions about it, and they weren't just in there to make their their particular point. But we obviously, you know, the people who really just couldn't give a crap didn't volunteer.
+
+Sara Mannheimer  26:11
+Right. 
+
+QR02  26:14
+Go ahead. 
+
+Sara Mannheimer  26:15
+And did you I'm thinking about, like, from a data curation perspective, communicating these things to potential future users to encourage their trust in the quality of the data? did you have strategies that you use in order to say this to future users? 
+
+QR02  26:34
+Um, no. And I guess that is disciplinary bias, right, as I assume that or if you want to use this kind of data that you probably already know, yeah, you know, if you've had a basic methods class, in anthropology or sociology, then you already know what some of the weaknesses of this are. Um, you know, we were pretty careful to mark, you know, in the files themselves, and then in all of the associated materials, that the fact that it wasn't a representative sample. And, you know, there's just the general impact of it being a voluntary project. But no, I honestly didn't occur to me that I would need to explain that to somebody.
+
+Sara Mannheimer  27:26
+Okay. But I mean, that's, that's really interesting, too, because it's like, you're speaking to your discipline. And you there's like certain contexts that your discipline comes from where you understand each other, and you understood the research each other do. 
+
+QR02  27:40
+But it's a good point, right? Because who knows who's going to pull that stuff? 
+
+Sara Mannheimer  27:45
+Right.
+
+QR02  27:46
+You know, you would hope that they would have had enough background in qualitative methods that they would, you know, just from the description of the project, that they would recognize that these are inherent weaknesses in the method. But, but you're probably right, I probably should have explained that better.
+
+Sara Mannheimer  28:07
+It's so much work to publish data. These are, I've identified all these issues, and it's like, you can go into each one of them in depth. But.
+
+QR02  28:19
+In this case, this is very much a, it's not how well, the bear dances, it's the bear dances at all, I am astonished that we were able to [convince] the organization to let us deposit the data. So the fact that we made some mistakes in the short little time that we had to get it up. That's not surprising.
+
+Sara Mannheimer  28:44
+Well, and I feel that there's always more information you can provide. But at a certain point, you just have to stop, you know, and make, you know, say it's good enough. Alright, for data comparability during this example, did you yourself compare and combine multiple qualitative data sets? Or did you think about like, future users of your data, trying to compare or combine your data with other data? 
+
+QR02  29:12
+Yes. 
+
+Sara Mannheimer  29:13
+Tell me more. Yeah. 
+
+QR02  29:15
+Sorry, I was trying to wolf down a piece of lunch. So this project was designed with the intent that it would complement the more structured data collection and analysis methods that the organization tends to use. So we know that the organization already has access to large sets of data that speak to the same issues. They just don't do it very robustly because there's, you know, there's surveys or things that are gathered through data mining in different parts of the database that the organization keeps. So, you know, we, we very much intended that it would be used that way. And I have been pleased that it has been [used, although it has] not quite [been used] to the degree that we had hoped. But it has been has been used. We did not intend to do that comparison ourselves, at least not initially, if, you know, if the organization had continued for another two years that we might have pulled some of those same data sets and tried to do some of the combination ourselves, just to show people what what the art of the possible was, but there wasn't time.
+
+Sara Mannheimer  30:48
+Great. And, again, just like thinking about documentation, did you when you were publishing the data, did you add anything about that, like, might be complimentary to X, Y, and Z data or anything like that? 
+
+QR02  31:05
+No. That's a good idea. 
+
+Sara Mannheimer  31:12
+All right, let's move to informed consent. Can you tell me about a time if any, during the process of your research, when you consider the idea of consent, particularly consent for future uses of the data?
+
+QR02  31:26
+Yeah, we were already including future use in our consent language, and consent documentation. So initially, that was because we wanted to be able to use our own data. So for example, with this project, there is another project that is [deposited in a data repository] about stress and resilience in the population. And that we knew starting out that chances are that those two projects would speak to one another. 
+
+Sara Mannheimer  32:04
+Yeah. 
+
+QR02  32:05
+And we didn't end up having time to do it. But so it had been several years that we were including that the ability to retain and use the project data, again, in the consent language, in terms of how I thought about that, with putting it into the repository, you know, that the curator that we had worked with us to make sure that our IRB documents and our consent language was sufficient to include the material in the repository. And I did add some tweaks to the access criteria for this specific project, to try to make sure that it would be used in a way that was consistent with the original consent. And I think that that's for this population, that is a particular concern. Because when you show up as a researcher with the organization, and one of the two highest officials in the organization, saying that they endorsed the research. First of all, you have to be very careful about the fact that people are indeed volunteering. And second of all, there, it's possible that there is an assumption that the data are only going to be used by the organization itself. So we just tried to be very careful, both in the consent process and in the way that we framed the access criteria to make sure that people would use it appropriately.
+
+Sara Mannheimer  34:01
+Thanks. And how did you did you like, consult with anyone about the access criteria or these consent strategies? Or was that something you've done in a previous in previous work? Or did you develop these specifically for this project?
+
+QR02  34:18
+Um, I'm trying to think about how to say this diplomatically. So our organization's IRB is new. And it is a learning organization which is good. And I have a good collegial relationship with the chair. And so as issues like holding on to our data came up I could work with the IRB to get them to understand it. And this was an intuitive thing for me, because, you know, who doesn't hang on to their data for their entire career? Apparently, not everybody... who knew? But the chair of our IRB started looking into it. And she found some of the broader discussions that were going on across the country in IRBs about how to do this in a way that's appropriate and preserves the rights of the subjects. She and I worked together and figure out how to do it. And she's actually still working on that to make sure that the language is specific to data sharing, not just the ability of the original PI to hang on to it.
+
+Sara Mannheimer  35:53
+I see. Okay, cool. All right, on to question five out of the six total questions, privacy and confidentiality. Can you tell me a time during this research and the data publication process when you considered issues of privacy and confidentiality? And then what strategies did you use to address those considerations?
+
+QR02  36:18
+Well, the original intent for this project was to de-identify and then make public the transcripts. It became apparent when I listened to the recordings of the consent processes that the team was holding, that I did not feel that the participants fully understood that. And so we decided not to carry through with that part of the plan. And instead, de-identified the transcripts and decided that we would make them available to people who had an appropriate IRB protocol in place. So that that was one issue that arose. You know, we already have had a pretty robust process in place for how we dealt with privacy and confidentiality, because there are, as I mentioned before, there are certain kinds of things that it's just not appropriate to promise somebody that what they're saying is going to be held in complete confidence. Because if you use quotes, in combination with demographic factors, it's completely possible for somebody in the same community to identify who's who the speaker is. And so we just have tried to be particularly careful about what we say in the consent language and how we do the consent process, so that participants understand what is and is not really going to be held in confidence. So we pretty much will say things like, you know, we will remove your name. And, you know, potentially some other information. But you may be recognized by habits of speech.
+
+Sara Mannheimer  38:26
+And did you find that had like a effect on your interview process? You know, like, did it...Did people generally think that was acceptable? Were there times when they backed out?
+
+QR02  38:39
+Generally speaking, people would continue. Yeah, the interview, there were times when somebody would say, "You know, I want to tell you this story, but I want you to take it out of the transcript" or "I want you to turn the recorder off for a period of time." A few would do that. There also were times when, you know, as the PI is like, I'm going through a data set that has been collected by somebody else, which is always a little bit unnerving. If I saw things where I felt this person was in the groove of the interview, and they were forgetting that this might be quoted in a report, I would either excise it or if it was a small project, we would go back to the person and say, "Really, are you really sure you're okay with this?" And sometimes they were and sometimes they weren't.
+
+Sara Mannheimer  39:41
+Nice. Okay. Oh, anything else you want to add there? We can move on otherwise. 
+
+QR02  39:50
+Um, no, I mean, not unless there's there's something specific that you want to talk about. I mean, this was something that consumed a lot of, a lot of our time as a research team. So, you know, I could I could talk to you about privacy and confidentiality for [a long time].
+
+Sara Mannheimer  40:13
+Yeah, I mean, I guess I'm kind of I'm liking... My research is focusing on strategies that you use to protect privacy in the data repository. So you, you know, looked at the transcripts ahead of time and made sure that, you know, like, went through them very carefully, and then you have this restricted access on them as well.
+
+QR02  40:35
+Well, I can tell you for this particular project, we actually had a three part process for reviewing the transcripts. So we had a person who went through the entire transcript, to remove names and to flag issues that we might need to remove either because they were identified in context or because they were there's something about them that we felt was sensitive enough that the participant probably didn't really want it in there. Then the second person would go through that same transcript, double checking to make sure that all names were removed, and try to resolve the issues that have been flagged by the first researcher. And then it came to me. And I at that point, did not go through and look for names, but I went through all of the issues that have been flagged and made determinations on how we're going to handle them. Once that was done, the final cleaned transcript was put together with a whole lot of frontmatter. That explained what the project was what the transcript was all about, included the informed consent language as part of that kind of padding material that went with the transcript. And identified if there were any particular issues of concern for future users of the transcripts. So you know, if we had a participant who was a real unicorn is somebody who's likely to be identified, and we still wanted to include the transcripts, we would note that, in that front matter, to say, "You know, if you're going to use quotations from this transcript, you probably need to limit it to only two demographic factors or something like that." Just make that kind of a recommendation for how to preserve the privacy of the participant.
+
+Sara Mannheimer  42:41
+Great.
+
+QR02  42:44
+And if you really have a burning desire to see examples of that, I can send them to you. They're there, because we had to do them in a hurry.
+
+Sara Mannheimer  43:08
+I think this is okay for now. But I'll reach back out to you if I need anything. 
+
+QR02  43:15
+Yep. 
+
+Sara Mannheimer  43:18
+All right, let's move to intellectual property. Was there a time during this research or the data publication when you considered intellectual properties concerns? For example, participant intellectual property or organizational IP?
+
+QR02  43:36
+So a little bit of this might get into the story that I want to tell you off-recording at the end. But intellectual property in the organization that this research was done in is not really a thing. So we are able to protect data because of human subjects protection rules. But anything that is created using government resources or government time, belongs to the federal government. So all of our reports and things of that sort, are owned by the government. So this, this, for the most part is a non-issue. The place where it is an associated issue came up from for us was when certain parts of the organization became uncomfortable with what they were seeing in the applied reports and started to call into question our, abil-, the appropriateness and our right to create the reports. It wasn't so much, who owns the reports issue really it was who it started as a who owns the data issue. And then the legal read on that came back with, you know, yes, the organization owns the data, but no one no, you can't see it because of human subjects law. And two that does not mean that somebody can't analyze that and report on it.
+
+Sara Mannheimer  45:33
+Right.
+
+QR02  45:35
+The one interesting thing about government data, right is is that ultimately the organization sort of owns it, but who really owns it is the American people. 
+
+Sara Mannheimer  45:46
+Right. When you published it in [the data repository], is there like a license on the data or some kind of explanation of this? 
+
+QR02  45:57
+Nope. 
+
+Sara Mannheimer  45:58
+Okay.
+
+QR02  45:59
+I will explain that off the recordings. 
+
+Sara Mannheimer  46:04
+Does [the data repository] use like a Creative Commons license I get or it's just like this access agreement that you'll have that sort of describes how the data can be used? 
+
+QR02  46:13
+Yeah, it is just the access. 
+
+Sara Mannheimer  46:15
+Okay.
+
+QR02  46:16
+We cannot license, like our reports or the data or anything, it's it's not allowed. Like I said, there are... [some copyright laws have changed over time]. But that's the extent that the federal law allows, which worked in my favor in this case.
+
+Sara Mannheimer  46:54
+Right. Okay. Well, that's my six issues. Are there any additional issues or challenges that arose during your research, or during this data publishing process that I haven't asked you about?
+
+QR02  47:12
+I think the fact that we were a team, both was helpful and created some challenges in terms of people having different understandings of what the purpose of data sharing was, who might access the data. For example, I had one individual who was going to be going back for his PhD and was very interested in using the data. And I don't want to speak for him. But I think he may have been a little bit concerned that if we put it in [the data repository], somebody else would use it before he had the opportunity to. So, you know, navigating those kinds of things with a team is a little bit more challenging, but it certainly did mean more hands to, to work on the issues and more eyes to ensure that things were held in confidence. 
+
+Sara Mannheimer  48:08
+Yeah, how many people were on the team? 
+
+QR02  48:12
+At that time, let me think. One, two... bear with me. [About ten]. 
+
+Sara Mannheimer  48:24
+Okay. Yeah, I can see that. That's like a common concern with data publishing. But data gets reused so infrequently. It really is mostly people reusing data that they themselves created, as far as I know. Hopefully, that will change. 
+
+QR02  48:47
+One other thing that you didn't ask about, but I think is important is communicating that the data are there. 
+
+Sara Mannheimer  48:57
+Yeah.
+
+QR02  48:59
+So I have uh try...I'm not very good at publicizing things. But I have tried to use the various levers and gears that I have at my disposal to provide basically notices of data availability to at least the anthropological community and a few other communities that I'm part of. Just so the people know that it's there, I think, particularly in this last year, or might have had graduate students looking for data sets because they couldn't go out and do interviews. I wanted people to know that it was there. But one of one of the things that I can see as being a bit of an issue is that the repositories don't really spend a lot of time advertising what's in there.
+
+Sara Mannheimer  49:50
+Right.
+
+QR02  49:51
+They tend to be relatively passive. [The data repository where we deposited this data] has a Twitter account, right, but it's not particularly active. So I think there's there's a component of that, that where I think we might be able to learn something from the Big Data people. Because they tend to be a little bit better at advertising themselves than the qualitative folks are.
+
+Sara Mannheimer  50:18
+Yeah. The library community is on that, too. There's like several data catalogues and data sets, search tools, trying to be sort of like-- wherever people look for data online, trying to make this data more discoverable. That's a really good point, though.
+
+QR02  50:47
+I really don't have anything unless if you want to hear the story of what we went through to get that project and that's fine. I'm happy to tell you with offline... But.
+
+Sara Mannheimer  50:55
+Sure, okay. Yeah, I'll stop the recording now. 
