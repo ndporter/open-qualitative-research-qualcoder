@@ -1,0 +1,249 @@
+QR10_transcript_deidentified
+SUMMARY KEYWORDS
+people, data, secondary, qualitative data, hospital, focus groups, qualitative analysis, participants, research, qualitative, thought, program, question, issues, analysis, context, part, published, phd student
+SPEAKERS
+Sara Mannheimer, QR10
+
+Sara Mannheimer  00:18
+And I explained to you what the research is, basically, my research question is, how can big... How can data curators best handle qualitative and big social data to support ethical, epistemological and legal sharing practices? And so I reviewed the literature and identified the six main themes that were present both in qualitative data reuse and big social data, context, data quality, data comparability, consent, privacy and intellectual property. And so our interview is structured around those six key questions. And then I have a question at the beginning and end, and it should take about an hour, maybe less. 45 minutes sometimes. So I've asked you to identify one specific time that you reused qualitative data. And there's you don't have to stick to that one example. But it's helpful to so that we have some, like more specifics as we talk through each of these questions. Okay. So and I know your your research, the one that I saw, I found you because I did like a Web of Science search of some keywords, qualitative data reuse and others terms. So I found your study, and that was how I why I reached out to you. And I know that if you're like reusing your own data in it, right?
+
+QR10  01:45
+So.... yes, and no.  Okay. 
+
+Sara Mannheimer  02:11
+So can you tell me... Well, first, I'm getting ahead of myself. First, tell me about what type of type of research you normally do, and what type of data you generally produce.
+
+QR10  02:22
+So I guess you would classify me, I'm a nurse by I guess training, and my PhD's in nursing, but most of the research that I do is really bio behavioral. So it's sort of examining the influence of psychosocial stressors and social factors on specifically cardiovascular health, among [specific populations]. So most of my work, I generate... most of my work uses like large quantitative data sets that at least that's what I was doing before. And now, we're doing a lot more research using daily diaries and doing daily diary studies. So we're generating a lot of quantitative data and some qualitative data, because they have an option of responding to open ended questions. Sort of like about people's daily experiences, with I don't know, [social challenges and mental health challenges]. So then we link that to [physical health] data. 
+
+Sara Mannheimer  03:22
+Oh. Interesting. Okay. And so then, can you tell me about the example that you came up with or at a time when you reused qualitative data, either at this study about elderly people or older people, or any study that you like, and just explained to me what the project was when you were reusing qualitative data?
+
+QR10  03:50
+Sure, I think it was [several years ago]. Although the paper I think got published much later, maybe [about 5 years ago]. So, I was a PhD student [at a university] and they needed there was this project through [a program at the university], and it's a program that was at the time, probably more hospitals now, but it was in [a few hundred] hospitals in the US and Canada. And there, I sort of my graduate assistantship was working at [the program]. 
+
+Sara Mannheimer  04:28
+Okay.
+
+QR10  04:29
+And so, [at one point during the PhD program], they were in talks of expanding the program to [another country -- country redacted]. But first they wanted to sort of do a needs assessment, I guess, is exactly what we did. What were the needs of nurses and other health care providers in [country redacted], around [a specific healthcare area, and how the program can] better suit the needs of [the target patient population] in [country redacted]. So like, cultural adaptation, but also adaptation related to like the role of nurses in [country redacted] or the role of other providers. So we essentially did focus groups of nurses and other health care providers, as well as administrators. I think it's [several] different hospitals in [a few] different cities. So I was asked to go on that project, because I'm fluent in [the language of the country]. So and there were no other PhD students who were fluent in [that language]. So I, myself and another professor, who's fluent in [that language], conducted most of the focus groups. And again, the focus groups were really around needs assessments related to these [elements] of this program, right. So one of the things that sort of ended up coming out of it, and of asking people what sort of like the main needs that they thought that [the target patient population] in [country redacted] had, or the main issues that they confronted in caring for [these patients], this sort of like, I believe what we ended up calling it was caregiver neglect, kept coming up in really every focus group we did. So that essentially became, I guess, the seed, which then we ended up doing the secondary qualitative analysis, which is what how you found me, because we didn't really go into it expecting that [patient] mistreatment, and specifically caregiver neglect would be really like large components of what we were there to do. So it's sort of emerged as sort of a separate component. And we really, in you know, we have the semi-structured interview guide, which was very focused on... which was sort of I'm trying to think of the word was very much a directed content analysis, because it was very much focused on the [elements] the program. And then some other issues related to the program focuses a lot on the use of metrics and data around those different topics like [topics redacted], and it focuses on how best to support hospitals and using that data to then implement practices within their health system to reduce those adverse health outcomes or adverse adverse health outcomes. So this sort of came out of like left field a little bit, because the actual module didn't include much on [patient] abuse or mistreatment. So this sort of, so that's sort of how we ended up doing the secondary qualitative analysis, because it really wasn't what we went there to do. 
+
+Sara Mannheimer  04:30
+Yeah. Was this part of a grant funded project that required specific treatment of the data like a data management plan?
+
+QR10  08:10
+No, not really. So this was funds from the program, I'm trying to remember back [several] years...
+
+Sara Mannheimer  08:15
+I'm sorr-, I shouldn't have gone back to [that long ago]. I'm realizing now because that was a long time ago.
+
+QR10  08:22
+No, I think I can remember most because we had to write... we've worked, ended up writing two qualitative papers and a mixed methods paper, one qualitative one, mixed methods on this, but it was internal funding from the program at [the university], because they were very interested in taking a program that had been in the US and Canada. And now like, at the same time we were doing in [the country where QR10 did their research], by evaluation or needs assessment, there was another group of people doing it in [a different country]. And then, when I [was working on this project] there was another group of people going, I think, to [two additional countries]. So this was sort of a part of an expansion of the program, like more of a global expansion of the program. So the funding was coming from the program. And I want to say that some of the funding came from [a national organization in the country where the study was conducted]. So... but it wasn't, it was sort of like discretionary funds. It wasn't we didn't have to apply for grant, there was no like open access or data agreement that was like, there was explicated and sort of like a contract or agreement of any sort. This was just sort of, honestly like internal funds that were at the disposal of the organizations. 
+
+Sara Mannheimer  09:34
+Okay. And did you publish any of this data? 
+
+QR10  09:39
+Yeah, so...
+
+Sara Mannheimer  09:40
+Or make it available openly? 
+
+QR10  09:42
+Well, so we published the data that you... for, I guess, how you found me right. The secondary analysis focused on caregiver neglect and then we...
+
+Sara Mannheimer  09:52
+I'm thinking like a sorry to interrupt but like the data itself, like the data you used for the focus group transcripts. 
+
+QR10  09:57
+Oh. 
+
+Sara Mannheimer  09:57
+These are the focus group transcripts?
+
+QR10  10:00
+No. 
+
+Sara Mannheimer  10:01
+Okay. 
+
+QR10  10:01
+Because truthfully, and I know that like rigor and reproducibility are like, like, those are like the buzzwords nowadays. And I know I do health research, but I think it's throughout research, right? This idea for sure, is useable. But I even want to say like, even [several] years ago, like reproducibility wasn't that big. It wasn't, I don't think it was as structured as it is now, where you have to sort of come up with a specific, at least for the research that I do, I have to come up with a specific plan for reproducibility and data sharing. At the time, I don't think that there was that much. That was something that was recognized, but there weren't very clear guidelines of how to do that. And truthfully, I think even now, there aren't very clear guidelines for qual-...
+
+Sara Mannheimer  10:44
+Especially for qualitative. 
+
+QR10  10:46
+...yeah, qualitative research, there aren't very clear guidelines. So we, we never, I don't think we ever even thought of like, "Hey, we should post this on some open research framework," or whatever it's called, and make it available to people. But I could see how the work that we did there, although it was very focused on this specific program might be of interest to researchers that are in [the country where the research was conducted], or people that study like the [national] healthcare system, and might want my finding something else in there. And I'm sure there's a lot in there. Um, but yeah, I think it wasn't something that we ever really discussed.
+
+Sara Mannheimer  11:24
+Yeah. Okay. Great. So, um, let's get into like the main six issues. So the first one is context. So for qualitative research, I'm thinking of context as the idea that this kind of research is like deep and prolonged contact with the respondents, you're talking with them, you're trying to understand them within their own context. And then you also as a researcher, are coming from your own context and bringing in like, assumptions. And, you know, it's like we were in the room, seeing everyone talk. And so ignoring context, or not being able to use it or not understanding the context driven perspective of the researcher could result in missed meaning or misunderstanding of the data. So can you tell me about a time during your secondary analysis of this data when you thought about the issue of context?
+
+QR10  12:30
+Yeah, I mean, I also did the initial transcription. Now, with how little funding, there was for this project that like half my 20 hours a week as an RA, I spent, like the whole semester afterwards, actually transcribing all these focus groups. And then we had a second person, I don't even think, I think they were like an administrative assistant, who then ended up having to confirm you know, like that when I transcribed essentially was correct. So I think at the time, I probably knew a lot less about research, but I'm not sure if I think it was different because I accessed data that I actually collected. So I understood, there were situations where, even though something could be interpreted one way, because I remembered what happened, or really what the context of the conversation at that time was, that I was a because yeah, you're right, I was in the room, I still could remember at the time, like people's faces, I could remember who was crying and who wasn't crying, or people were very emotional during these focus groups in a way that we didn't expect, which is sort of why we ended up doing the secondary analysis, qualitative analysis on the caregiving issues, but I could see how with few cues in the actual transcript, people could potentially misinterpret the meaning of things. Um, so.
+
+Sara Mannheimer  14:02
+And did you ever like, did you find that you really weren't close enough to it, and you had a good memory of it and so as you were going back to do the secondary analysis, you didn't have any trouble? Or did you have some times when this became an issue, and you had to think more about it?
+
+QR10  14:18
+I think there might have been one or two times where I had to go back to the original recording, to try to remind myself again, well, you know, you and I'm probably doing this right now. But you don't want to cooperate, especially in focus groups. You ask them a specific question, but then sometimes we'll go back to the prior question because they weren't able to answer the prior, where they didn't get a chance to answer it. So that sometimes people would go back and forth between answering the question at hand and then going back to the previous question. So I found myself sometimes having to go back to the recording, but I think I only did it twice to try to understand like, well, this particular sentence that they stated, was this to do with the caregiver neglect, or did this have to do with the thing we talked about two questions ago, I, I did have to do that. Um, but again, it was easy for me because not only did I have the transcripts, that were sort of raw transcripts, we didn't change them in any way. But I also have the recording so, so... 
+
+Sara Mannheimer  15:18
+Was it a video recording, or audio?
+
+QR10  15:21
+No, it was an audio recording. Um, but we also took extensive... So one person facilitated the interviews, while the other person took notes about certain things that were going on in the room. Like if somebody was dominating the conversation, or if like, we took notes about that, or if there was some weird like, you know, because they weren't video recorded, if there was some weird, like, interaction that was going on on the side, the second person was sort of noting certain things. Because we really tried to make sure that, for instance, that if somebody's like manager was in the room, in the same focus group as them, so if for some reason we found that out, or I don't know, if there was somebody from the same unit that they worked on, we did write additional notes related to some of the things that were going on in the room, which I don't know how we would be able to like in what format that would be publishable. But I feel like if we had posted the transcripts, as they were, on some repository, that some context might be lost if they didn't also have our field notes. 
+
+Sara Mannheimer  16:30
+Yeah. Yeah. 
+
+QR10  16:32
+Right. And our field notes, then I don't know, participant number five in the focus group, like the field notes would then have to correspond to which participant we were...
+
+Sara Mannheimer  16:39
+Right. And maybe timestamps to in terms of like, when things were happening. 
+
+QR10  16:44
+Yeah, absolutely. Yeah. In terms of like, sequence of events and ordering.
+
+Sara Mannheimer  16:53
+Okay, that's good. All right, next data quality. So during your example, did any quality issues arise? So specifically, when you were doing the secondary analysis? So like, did you find any missing data or see that maybe the method was not, as it quite could have been trying to ask this new question of the data? Did you wish that you could have been back there to ask new questions, you know, was anything incomplete?
+
+QR10  17:30
+Yeah, I think so. I mean, certainly, like I'll admit it, it was my first time doing really any data analysis. I mean, forget qualitative, just quantitative. And I think that there were situations where, now looking back on it, if I'm thinking about, like, how could I have made the data as high quality as possible for as be-, just give it to somebody else, and then understand the context what was going on, or the things that were occurring? There were times where I couldn't understand what was happening. Or I could understand what people are saying. But I think I, I maybe bracketed and wrote, like, I forget what I wrote. But I said, like, audio, audio quality was poor, whatever it was, but I didn't include like for how, like how many seconds that was for like, or what maybe I thought that they were saying, like if I couldn't really understand, like, the full sentence, but I really understood one word I didn't actually transcribe that one word, because I felt like the last was inaudible.  So I think that was probably an issue that probably could have handled that a little bit better. But, um, we, yeah, there were certain times where I think one of the big things that I wish we were able, we would have been able to do, and I think we might have adapted the interview guide. But still, we were there to do one thing. So we couldn't delve too deeply into what this secondary sort of like topic that came out was, I think, like asking them more pointed questions about, sort of strategies that they use to manage this issue of caregiver neglect, or what are strategies they think are best practices for a hospital system to sort of put into place. I wish we had had more about that, because I was sort of left with like, okay, we're describing it, this is a problem. It affects them. They have a lot of distress about it. But we didn't really probe too much about like, "Well, what do you think your hospital or your administrators, how could they best support you or what could be put in... What could we put in place to address the issue?" Um, yeah, but again, that was something like, after we did all the focus groups, we realized what we probably didn't have enough information about that was...
+
+Sara Mannheimer  19:48
+It's tough though, you know, you went into it with one goal. And then you see there was kind of like a different topic emerging. It's you couldn't like get to have the focus groups last all day.
+
+QR10  20:02
+And then I wonder like how that would be interpreted sharing qualitative data because it is so like, I forget what the word I'm trying to think back to the qualitative course I, um, it's all about rich description of experiences, right? And that it might be hard for somebody that's trying to probe a data set for the secondary topic or secondary question, to really get rich enough data on the secondary topic to really put it into context. I think that might be hard, which is why I think I remember at the time when I was trying to figure out like, what is qualitative secondary, and I didn't really know what it was until the professor that I was working with said we could do, we could do a qualitative secondary analysis of the data that we collected. And even at the time, I had a hard time finding resources about how to do qualitative secondary analysis. This was [several] years ago. I mean, I think things might have changed. I think because people are much more interested in like these big data sources, like social media, maybe things are a little bit different. But I could see how somebody that's trying to embark on a secondary qualitative analysis might not find the same level of richness in the data that they would if you were doing it as a primary study.
+
+Sara Mannheimer  21:09
+Yeah. Yeah, I mean, these are just all issues that are just part of it. 
+
+QR10  21:16
+Yeah.
+
+Sara Mannheimer  21:18
+Okay. On to data comparability. Did you during this research, compare or combine multiple qualitative data sets? Or was it just the one group of transcripts from the focus group?
+
+QR10  21:32
+No, it was just the one group of transcripts from the focus group. I mean, if anything, we just come but we just use some of the quantitative data that we collected on participants. 
+
+Sara Mannheimer  21:43
+Oh, you did? Okay. 
+
+QR10  21:44
+Yeah. But just to sort of provide context for who the participants were, like, how long they had been working, I think, what their profession was, their age, their gender. But we didn't we other than the focus groups that we did, I don't think we combined any other qualitative data, no. 
+
+Sara Mannheimer  22:03
+Okay. We'll move past that one, then, to informed consent. So can you tell me about a time, if there was a time during this process of doing the secondary analysis when you consider the idea of consent, particularly, participants consent to the future use of this data for different purposes?
+
+QR10  22:26
+Yeah. I think that prior to recording, we explained to them what the purposes of the focus groups were right. So it was I guess the proper word wouldn't even be like informed consent was like an assent, I guess is the right word, maybe I don't know. Um, but they were informed about what the participant focus groups were some of the top-, like, what the purpose and some of the outcomes we expected from the focus groups would be, and then we provided them with information, sort of, like how long it would take. And then people were able to, we told them they would be recorded. And I think there were only one or two people, maybe one person that didn't want to be recorded. So we said to them, that they could that they didn't need to be in the room, they could leave because these were being recorded. And I think that because the topic that we... you're right, because we didn't really say like this might be used for future studies that don't cover just the topics, and any information that you provide here might be used in future work. But because we still saw this sort of like, the piece that we did in a secondary qualitative analysis, [a different topic from the original goal of the study], as still one of like, the topics covered by the program, or the original intent, we didn't really think that it was sort of like, fu-, like future use of like, like, I think about like, when we collect blood from people, we say to them, like, we're using the blood to assess [one health indicator], but we could also use it in the future to look at something else, like genetics or some other markers in your blood. And we definitely didn't go through like that detailed of a process with them. But I think it was also because trying to think of something absolutely out of left field would have come out what we would have done with, but yeah, I think that what we what we asked them about was really subsumed under the original purpose of the study.
+
+Sara Mannheimer  24:29
+Did you... when you when you were kind of like going through that thought process and deciding that it was okay to use the data for this new study that the consent, like was enough. Did you talk to your adviser or do you like read anything or, you know, what were what was your thought process and how did you sort of come to that decision?
+
+QR10  24:52
+I think we had conversations within the team. And the person who was sort of a leader of the team was an experienced qualitative researcher. Who had done like, research in [the country where the study was conducted] as part of their dissertation. So truthfully, like, if I had any concerns about it, I feel like I would have been like, I think, even if I can't remember that far back if we had as detailed conversations about it as what you're asking about, but I think that I probably, whatever I thought about it probably would have been superseded by what the lead investigator would have thought. So I at the time was very much like [in the early phase of PhD studies] where was just like, well, you're the experienced person. Okay. Well, that's like the way you've done it before. All right. So I very much sort of like deferred to the senior person on this on the team for that. 
+
+Sara Mannheimer  25:42
+Okay. That's interesting. All right. Um, privacy and confidentiality. Can you tell me a time, if any, during this research, this secondary qualitative analysis where you considered issues of privacy and confidentiality of the participants?
+
+QR10  26:09
+Yeah, I mean, I think that our, I mean I... I'm trying to think of other... Yeah, so we ended up in the transcripts, we never used participants actual names, or names that were close to them, I think we didn't even give them alternative names. You know, somebody can come up with an alias sometimes in a qualitative study. We simply referred to them I think, is like participant number one, or nurse number two, whatever it was based on their profession. And that was as a way, obviously, to protect their confidentiality, but also like some of the information that they provided, we didn't want anybody, particularly from the hospitals that they were from, to potentially like know who was in the focus group. And at the time, there was something I forget what it was, but they were very specific situations that had happened at each of the hospitals, I think, at one hospital, they didn't have a [unit focused on the patient population targeted in study]. They had some sort of unit, it was like a [crisis unit that took over the other unit]. And they were really upset, because then the [unit focused on the patient population targeted in the study] never came back, and then became a [different kind of] unit. So like, there were certain details about people's work environments, that if their managers, or somebody from their hospital, had figured out like, oh, that was from that study that they came into at our hospital, they could probably figure out who the people in the room were, if they had a record of who they. Because actually the managers were the people that we worked with to identify staff, that would be good to discuss the different topics that we were talking about people that were either had been there long enough or had had some training in [the patient population targeted in the study] to come and speak. So it could easily they could easily identify people, at least people from their institution probably could easily identify some of the people that were in the focus groups. That's not to say that, like, I don't know, if another researcher at a different school in the US had access to the data, they probably wouldn't be able to, but if I could see how even people from the [national organization from the country where the study was conducted, that had partially funded the study] might be able to identify not only the people, but also the hospitals, just because of the unique issues that each hospital had. Right. So like, yeah, there was one hospital that was like, clearly above and beyond all the other hospitals in terms of what they were doing related to like the care of older adults, that you could easily figure out like, well, that was the hospital in this city that had these programs in place. So we really tried to make sure that we weren't that we didn't even say like what site, it was, I think we just called it site one, site two, site three, because even by labeling them by city, you can easily sort of figure out things about the institution.
+
+Sara Mannheimer  29:10
+And did you do that just like in case the data was, you know, got into the wrong hands or something? Did you also... did you combine that with sort of like data security among your team?
+
+QR10  29:22
+I think there were only maybe three or four people that had access to... three people had access to the raw data. It was me, the lead investigator and their assistant who like, confirmed my trans-, or like checked my transcribing. So I think I can't remember that far back to what we ended up doing but I think we had some sort of like Excel spreadsheet that was password protected for like who site one and site two were that said the specific city and the hospital.
+
+Sara Mannheimer  29:55
+Yeah.
+
+QR10  29:56
+That it was just so that we could go back because when we were talking to, so that's the thing, right? So for research purposes, we were publishing the data. So we had to make sure that we were careful about anonymity. But then part of what we were doing with the [national organizations in the country where the study was conducted], was actually figuring out like, well, which of these hospitals would benefit from additional training? So from that perspective, we did have to talk to them like, well, this hospital had these practices that were really good that this other hospital might be able to implement. That was sort of part of one of the things that I think we I think one of the agreements we made was, we would make recommendations based on our needs assessment of things that they could start doing before they actually adopted or paid into the program that we were there to assess. So there was sort of like this twofold thing where we had to know whose data it was but at the same time we went to publish it, we couldn't reveal whose data it really was.
+
+Sara Mannheimer  30:59
+Right. And so did you use like quotes or other... Yeah, it looks like there's a few quotes in your article.
+
+QR10  31:07
+We did use quotes. And maybe I mean, you have the article, you probably, but I don't know if we gave them. If we gave participants names.
+
+Sara Mannheimer  31:16
+It looks like you did give them names.
+
+QR10  31:19
+Okay, so I think we must have done that. I don't think we did that. During the transcription process. I think we did that when we went to write the paper.
+
+Sara Mannheimer  31:28
+That gives it a nice personal note.
+
+QR10  31:32
+But then, we must have because I was the one that I primarily read the paper, I must have gone back and really tried to give them names of people that were not in the focus group, like, yeah, we had the names of all the people and things like we had to go back and try not to give them a name that right to be found like, and I don't even know if we gave them all like [names that were common in the country where the study was conducted], I think we might have given like random names too is the thing, because there were probably a lot of [a common name] and a lot of like, [a second common name], or whatever it was in the group. So we had to sort of like be a little creative about it, I think.
+
+Sara Mannheimer  32:08
+And so were you concerned... It feels like the [the topic of the secondary study], is like a bit more of a sensitive topic than the original topics you had, right? So did you have like, additional concerns that came up at like, as you were sort of narrowing in on this more sensitive topic? Did you feel like you had to do any additional work around privacy or like deciding which quotes to use?
+
+QR10  32:44
+Trying to think back. One of the things that I think we might have done was probably like temper it a little bit when they were critical of their own institution. And I guess the policies that their own institution did or did not have related to this concern. So we tried to like, basically not throw like the administration of a hospital under the bus a little bit. Um, so I think that that might have been something that came into play. There were also like, I think there was one situation where like, a male physician, sort of like took over the focus group. That ended up happening. And I think we ended up not really using much from that, because we didn't really get like, much more than one or two sentences from other participants about the particular concerns. Because this literally just like was going on and on and on. But I think what I tried to do in terms of the manuscripts was also make sure that different disciplines are represented. And that without necessarily people knowing from what site or city, maybe people were from, like, try to make sure that there was diversity in terms of sites.
+
+Sara Mannheimer  34:17
+Yeah. Okay.
+
+QR10  34:18
+I do remember that, but I don't remember any other sort of tactics or sort of, like, procedures that we implemented or developed for them. 
+
+Sara Mannheimer  34:31
+Okay. Sounds good. Okay, we're on our last issue, and then we'll have one wrap up question after this. So can you tell me about a time if there were any during this secondary qualitative analysis, were you considered intellectual property concerns were like the participants or the organization. For like the first author of the original paper, did you think about like, yeah, this might not be relevant for your in your case. But...
+
+QR10  35:11
+I think that one of the things we did do was make sure because there was an actual formal needs assessment and mixed methods needs assessment that was published, also from this work, and we try to make sure that this didn't duplicate that in any way. So I think that that was definitely. And really, I think that this [secondary topic] ended up being like three sentences in that actual paper. So it just ended up being a summary. But there was concern about like, I do think it's there were times where I had to think like, is this quote, potentially going to be used in the needs assessment?
+
+Sara Mannheimer  35:49
+Right.
+
+QR10  35:50
+And should I use it for this? Is it really appropriate for this secondary analysis? Or does it really correspond more to the primary research questions that were being asked? So I did find myself tired at times having to do that in terms of like, intellectual property from the participants like, no, not really. But I do think that we did think about sort of like intellectual property of the program they were there to assess, and make sure that I wasn't like, revealing what the components of the program were, because I don't think that you can just Google and find out what the different [elements of the program] that people buy, because people, hospitals, have to buy this program. Right. So we needed to be very, I needed to be really careful about like, how much about the actual program that we revealed about the actual modules or components of the program, in any of the papers that we published out of this needs assessment. And even... I think that the, the main paper, which was the needs assessment, right, even thinking that we didn't really describe what the [elements of the program] were, we sort of talked about, like, they were asked about topics related to the [elements] that are in the program, because I do, I do think that they are pretty like, careful about any of the information that's part of the [program element], because the [element] essentially is like a, maybe like a six week course that hospitals make available to their staff and administrators. And I that was a consideration in terms of like, how much information to reveal that wouldn't make it so that some other group could then like, develop their own type of program that incorporated [these elements] plus one was a different thing that they monetize in some way. 
+
+Sara Mannheimer  37:40
+Interesting. 
+
+QR10  37:42
+So that was a discussion that we had around the data, that and I think that my description of the actual, like, purpose of what we were there for was pretty vague. I don't think there were that many details in it. I think it was probably even more vague at first, that's something that reviewers really wanted much more information about, like the purpose of the original study, which...
+
+Sara Mannheimer  38:06
+Yeah.
+
+QR10  38:07
+...we were sort of concerned about, because we didn't again, we didn't want to sort of like, have the... have the reviewers that were reviewing the first the original study think that like, oh, well, all these methods were already described in the secondary qualitative analysis. So like, what is this? What new information does this add, even though this secondary qualitative analysis was a much smaller portion of the larger, like, [several] focus groups that we did, or whatever it was [a number of] groups. Um, so yeah, from that perspective, I wouldn't say like intellectual property of like, the participants, it certainly is the intellectual property of the program, we were there to assess.
+
+Sara Mannheimer  38:48
+Okay, perfect. Alright, last question. Were there any other issues or challenges that arose during this process of re analyzing the data that I haven't asked you about?
+
+QR10  39:00
+I don't think so. I mean, I just think, I think that there's so and again, this was like, probably [a few] years ago now, because I think the paper was published [a few] years ago. Um, but yeah, I just had a hard time finding a lot of resources around like, proper ways of doing a qualitative secondary analysis. And it was something that like, I remember finding, like a few articles about it, or I found a book chapter, it was like, a paragraph in a book chapter. But I don't think there were really like, criteria or guidelines for it at the time, which I might be wrong, because I'm not really I don't I have a qualitative study now, but it's we're doing primary collections on secondary so I haven't had to delve into that literature much but.
+
+Sara Mannheimer  39:51
+I think it's pretty rare. Like that's what I've found to that's part of why this is a topic of mine is because like, it is secondary analysis and definitely qualitative data sharing are still super rare, because of all these issues that come up. So yeah.
+
+QR10  40:09
+And then I start to wonder like, how many of you know people that like PhD students do secondary, seconda-, or sorry, qualitative paper, qualitative analysis or whatever for their dissertation. Like, how much of it is actually like, are they just probing data that their mentor already has? And is it really primary data or is a really secondary? But it's, it's not being called that? For whatever reason. Like, that's something that I that I wonder now that... I think about this much in the same way that people use quantitative data that their mentors have collected and look at a secondary question. But we do call it... it's much easier to call it a secondary quantitative analysis than how, how much are people just like not calling it a secondary qualitative analysis? Because it's not that well known, or published, particularly like, among non-qualitative people, right? So like, qualitative people, you probably go to them and they understand what it is. But people that aren't qualitative researchers, I think get confused about different qualitative methods as is that now you're adding this other layer of like secondary qualitative analysis like, but I think in the actual quote, secondary qualitative analysis paper that we published, I think I was I only said like, one or two things to justify this as a method because that's all I could find at the time.
+
+Sara Mannheimer  41:28
+Yeah. That's really interesting. Okay, cool. Well, um, that's it. On my interview guide I also say who else should I interview but you are my last interview.
+
+QR10  41:40
+ Oh, really? Okay. 
+
+Sara Mannheimer  41:42
+Thank you so much this... 
+
+QR10  41:44
+I mean, I hope this was helpful in some way. 
+
+Sara Mannheimer  41:47
+For sure. For sure.
+

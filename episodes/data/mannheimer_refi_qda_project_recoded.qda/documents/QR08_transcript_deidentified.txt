@@ -1,0 +1,266 @@
+
+QR08_transcript_deidentified
+SUMMARY KEYWORDS
+data, quotes, people, research, qualitative research, publish, study, thought, codebook, context, question, qualitative data, participants, blog, interview, feel, codes, transcript, secondary data analysis
+SPEAKERS
+Sara Mannheimer, QR08
+
+Sara Mannheimer  00:04
+So, I sent you an overview of my research in the email. But it's basically my idea is that social media, big social data, as I'm calling it here, and is comparable to archived qualitative data in a way it's pieces of text or video, or photos that people post. And then if you use it for research, it's being used for a different purpose than it originally was intended. And so that's the connection I see between them. And then through lit review, I have identified six key issues that are in common between the two types of research as well. And but I also saw that the two kind of communities of practice people who publish qualitative data or who reads qualitative data, and people who do social media research are relatively under connected. And so I see that like, qualitative researchers have a lens into research that is more careful. And social media researchers may tend to be like computer scientists or others who haven't been doing social science research for as long. So I'm seeing ways for both, like for big social researchers to support scaling up of qualitative research, sort of bigger longitudinal studies. And then I'm also seeing ways that qualitative, the qualitative research community can support more thoughtful and responsible research practices with human participants. So these are the connections I'm seeing. 
+
+QR08  01:40
+I do both. 
+
+Sara Mannheimer  01:42
+Oh, perfect. Okay, that's, you'll be perfect. Because that's just like, what I found in my lit review. And so the reason I'm doing these interviews is to talk through it in real life with people and see what issues you're encountering and how you're thinking about them. So the interview will be six questions, one for each of these issues that I've identified, which are context, data quality, or trustworthiness, data comparability, consent, privacy, and intellectual property. And actually, and so if you do both kinds of research, I might ask a few extra questions. Just...
+
+QR08  02:24
+I was gonna say, um, I'll start with this, and then we can go with the questions. Um, how does that sound? Yeah, um, so. So I do some a lot of secondary analysis of blog data, particularly with [a health-related topic], that's my area of interest. I have a postdoc in [a health-related field]. But I'm a qualitative researcher, methodologist, by training, and by heart, I wanted to apply a lot of that work into [this health related topic]. So that's why my work with blogs is with [the topic], primarily, so we've studied YouTube videos with [to investigate research questions]. And I've also done two or three [federally] funded projects on social media and blogs to [investigate research questions]. And the next thing that I wanted to do was compare the data that's from social media to interviews to see which data might be more rich or not, or what the differences were, I didn't get that far. But, um, so I do that research. And then I mean, I can talk all about that. But then the second kind of research that I like to do, it's so hard to get a hold of qualitative data, because researchers, you know, are so protective of it. And I think that could change. But with regardless, with the current situation that we have, what I have found is that if I can identify a research question a broad research question, and I can look at all the qualitative research articles that are from that research question. I have enough quotes from the usually from the code books, and from the manuscript itself, to be able to do a secondary data analysis on just the selected quotes that have been included in the paper. 
+
+Sara Mannheimer  04:35
+Oh, interesting. 
+
+QR08  04:37
+Yeah. And that's where my area of interest now has to be a broad one. You know, it has to be a broad research question. So but because that's already public data, right? I don't want to go to someone and say, "Please give me all your data," because they freak. I mean, I don't know why they freak but they do. You know, and so I the next best thing is to use all the quotes that they have made public and and see what what is happening with that research. So that's... I published that, I think that's the article that you saw [in an academic journal], which was a secondary data analysis of basically, qualitative manuscripts that we went through. And we coded all of the quotes of the papers that related to a research question.
+
+Sara Mannheimer  05:31
+That is so cool. 
+
+QR08  05:32
+Yeah. So those are the two things that I think when I say I do both, I think that's what you mean. I do both of those.
+
+Sara Mannheimer  05:40
+Yeah, definitely. So I asked you to identify one specific example. And it could be the secondary qualitative analysis that you did on those quotes. Or we can also sort of talk through other examples as we go. But I found it's helpful to have at least one really specific example in mind as we talk through these questions, so that it shorter and more concrete. So do you want to use this example that you just talked through where you took their quotes from papers, and did an analysis.
+
+QR08  06:17
+We could, um, the largest study that I ever did, let me just tell you about this one. And then you tell me what you think is more relevant. The largest study that I ever did was [researching a health-related topic], and it was from [about a dozen] different countries. And it was [several thousand] open ended comments from surveys from individuals who [were experiencing this health issue], and then there was additional [several thousand], basically, from their caregivers, and then [several thousand] I think, from their healthcare providers. And so that was a really large study that we were able to analyze multiple times in multiple ways. And 
+
+Sara Mannheimer  07:05
+Did you do that study, or did someone else? 
+
+QR08  07:09
+No, I was the lead qualitative investigator, there was also a lead PI, who oversaw both the qualitative and quantitative, then I was second in line.
+
+Sara Mannheimer  07:19
+So I think, just because you're the one who originally created that data, that's not quite as good of a fit for me, even though you did re-analyze it, I think, yeah. We'll have more luck with these questions. If we talk about the data that you've gotten from other people.
+
+QR08  07:37
+Okay, that sounds Yeah, perfect. Okay. I just didn't know because that was, yeah, that was something that we've re-analyzed and put into so many different ways. And we, you know, it's just so many manuscripts that came out of that, but yeah, this one only had one manuscript, but it was, it was a way of using other people's data to create a secondary data analysis. 
+
+Sara Mannheimer  08:01
+I oh, that's so cool. Yeah. 
+
+QR08  08:03
+Okay, then now we want to make sure, yeah, I knew your angle.
+
+Sara Mannheimer  08:07
+Yeah. So what what was your data collection method? When you did this analysis? Did you just read through manually and grab the quotes? Or did you use an automated method.
+
+QR08  08:22
+Um, this one, I usually use software programs, I used NVivo. And I used MAXQDA But for this project, we literally went through because we didn't have data to import, I guess we could have imported all the PDFs, maybe looking back and then coded just the PDFs, but we didn't we just did this, like old school, we literally just looked that we printed out all the all the manuscripts that related to our research topic. And we actually use the framework of the [study] that I was just talking about, to help us see what added information we could get from that. And, and so we, we used those codes. And it was very similar to the codebook that we had created for for [that study], to code the data for this secondary analysis. 
+
+Sara Mannheimer  09:28
+Okay. 
+
+QR08  09:30
+So we did it by hand. I mean, literally, I would circle the I mean, this is like old school. So I would circle the, the quotes, and we would determine which one it fell under. And then we'd mark it like number code number four, you know, we had numbered the codebook. Yeah, so okay. And then yeah, and then actually, yeah, and I never did import that into into NVivo or anything I could have looking back, I could have put them all in as PDFs. But I didn't at the time, because we weren't sure what we were going to find or what we were going to do with it.
+
+Sara Mannheimer  10:10
+And yeah. Did you end up publishing the quotes? With your article? 
+
+QR08  10:18
+Hmm hmm.
+
+Sara Mannheimer  10:19
+Okay.
+
+QR08  10:19
+Yeah, we wound up publishing it in [an academic journal].
+
+Sara Mannheimer  10:23
+Right. Did you publish, like the full data set, though? You know, like, thinking about maybe if other people wanted to reuse the code for another reason, sort of making them more available? 
+
+QR08  10:37
+No, no, we did not. We did not publish all the quotes. People could access them, we put in all the references. I mean, somebody had to be really desperate to do this, right. But we did put in every single reference we used to every single page so that someone could go in and absolutely replicate it, because they would see all the quotes that were in it. One of the things and I think this might be a question you ask later, but I'm going to bring it out now, because I read your interview guide, is that I always publish the codebook. And to be transparent, to be transparent. Exactly, I explain exactly how I coded it and how I took the codes. When I when I do a tri-, and maybe this is a little bit beyond what you're asking. But to me, make sure that I'm transparent. It can be actually reproduced, I go through and I write a, I first write a summary analysis like a, you know, an elevator pitch of what I think the data are just saying. And I use that a lot of times to begin to create the themes. So I do this either way, I either go from codes to themes or themes to codes, but I find that it's more useful for me to then take that elevator pitch, if you will, and then make themes out of that, and then figure out okay, now how did I get those themes? What codes support those themes? And what codes have I not used, that I'm still missing, it's a little bit easier for me sometimes to create a story that way with the data and to be able to analyze it. The other ways I do that, and then I always publish all of that. And I published the entire process of how I did that. So anybody could follow that, like, here's the storyline that I came up with, here's the themes from there, then here's the codes from there, then this is how I moved the codes from the themes. And these are the additional codes that were remaining that weren't used in this analysis. So I feel like that's pretty thorough, as far as, you know, a process is concerned. So I believe that the most important thing for me right now, given the fact that we can't, or we don't publish just all our qualitative data, which to me would be fine, because what are you hiding? But I feel like that would be such a step and crazy idea for the qualitative community. I have people I'm a I'm an editor of [Academic Journal]. And I find people not even wanting to provide their codebook because they're like, "That's not the essence of qualitative research." And I'm like, well, then how can we ever analyze or determine what kind of paper you're producing if you don't even want to give us the codebook? So I think there's gonna be a lot of hesitancy for people to also give up the whole interview, although, if it's deidentified, I'm completely open to it, because then other people can analyze it the same way and reproduce it or use it in a different way for different research question. 
+
+Sara Mannheimer  13:58
+Yeah, so let's talk about...
+
+QR08  14:00
+So maybe I am sort of... 
+
+Sara Mannheimer  14:02
+Yeah, this is totally fine. 
+
+QR08  14:04
+But I might be going all over the place. I'm a true qualitative researcher. So.
+
+Sara Mannheimer  14:10
+I'm trying to be so I'm there with you. Um, so with privacy, like with the, you're saying, if the transcripts can be completely deidentified, then it's fine to share. But have you experienced like, did you experience any issues with deidentification? And like, especially in this particular project that you worked on, where you pulled people's quotes, were you concerned at all that by aggregating all of these quotes, there might be privacy issues?
+
+QR08  14:49
+Yeah, so good question. And I honestly think this applies to both projects, and I'm only supposed to focus on the one. They're very, they're very related. Because with the quotes, I wasn't worried with the quotes that I used in already published data, I was not worried about privacy issues at all. But, but in a way, you know, it's kind of like, well, they didn't know this would be reused, you know. So it would be so, and here's, so the issue with the social media was even more tricky, because it was out for the public, right. But the only the only private that I—
+
+Sara Mannheimer 15:32
+This is the secondary analysis of blogs?
+
+QR08 15:34
+This is of blogs, right. There I was even more concerned, it's almost the same issue. But it was a little bit different. Because to me, it's like, oh, but these data are already out there. I mean, I think the participant would need to know that it's going to be used for this study, and it's also going to be deidentified and put into some kind of repository, you know, they would need to know, ethically, that that's where it's going, and that that's where their words are going. That's where their stories are going. And I didn't have that, you know, prior to putting together the secondary data analysis. But I thought, if it's out in the public, it's already published. I'm not, I'm not really, you know, it's, it's free-for-all data. So I use that, and I didn't have an issue with it at all for using that for privacy. And I didn't, I didn't feel like even if a participant would somehow come back to me and say, "Oh, I saw your paper in [Academic Journal]. And but I was not worried about that. The blogs, however, from every participant, we need to know who the participants were, we didn't know their race. We didn't know their gender. We couldn't collect demographics, which to me was missing data. I think that's another question that you have. It's missing, it's missing. But the privacy issue that you're talking about, to me, was much more concerning, because although they knew they were posting on this blog, and the blog owner said, "Yes, you may use the data," the data on a website, and I got their permission, I still felt a little strange, because I never got, you know, the participants didn't know that I was going to be using their data for research. They just thought sort of thought it was, you know, a blog post. But again, because it was public and out there, and anybody could analyze it, I felt, and if I got the approval of the blog owner, I felt like privacy was not an issue. But I mean, that's a sticky situation.
+
+Sara Mannheimer  17:41
+Tell me more about the blog, the blog owner then published information from other people [experiencing this health issue], or like? 
+
+QR08  17:49
+Yeah the blog, but I just went to the blog owner. So let's say it was, you know, let's say it was [a particular] website, and I wanted to pull information. And there were seven websites that I actually wanted to look at, they were the seven most widely used websites [relating to this health issue]. And I just got that from some Google Analytics thing. So I found out these are the top seven, I want to approach these blog owners and tell them that I'm going to be using their data for research study. They're not... not their data, but their blog. And they all agreed. Most of them knew me. So there's a trust level with that. And so they all agreed, and I didn't have an issue with getting that. And then I felt like, and then I wrote the consent form for the blog owner, so that they knew that I was using this data, and that I was going to be, you know, as deidentified, because I didn't even know who the people were my own self, you know, I wasn't going to use anything more than what they posted publicly on the blog website. I mean, I have nothing else, what else would I publish? So that's, but I still felt just slightly, like a little uncomfortable with that, you know, like, I would have loved if a website would have said, you know, before you post, just please know that this may be used for research purposes. Right. But who knows this until there's already thousands of posts on it, you know. But I think in the future, if we decide that this big data is a thing, I think by just being upfront and saying, you know, by, by by posting on this page, this is public, publicly available and can be used for research purposes, or something along those lines. I mean, I knew that give me a little bit. Yeah. I have a little bit of blah, blah, but they don't give very specifics.
+
+Sara Mannheimer  19:46
+What do you see as like, a difference between the content just being read by the everyday public and being used for research purposes, like how does that change what how the people might think about posting? 
+
+QR08  19:59
+Well, that's just it. They might think, "Well, I, because I'm posting and when I'm thinking when I'm entering this blog is that I'm posting to other people with [the same health issue], and I'm telling them my sorrow stories." And I'm, you know, it's somewhat, it feels like it's somewhat anonymous. like Facebook groups are different, right, where you have to have a password to get into some of them. But this is just available. It's just there, out on the website. So I didn't feel like there was that. Like, like, I felt like I could do it. Does that answer your question?
+
+Sara Mannheimer  20:37
+Yeah, for sure. And did you as you were sort of working through this dilemma? Did you consult with anybody or read other literature that was similar? How did you sort of come to these answers for yourself about whether it was okay, and then what to do?
+
+QR08  20:56
+So it was [federally] funded. So I felt somewhat protected by that. No way. Like, I wasn't just some lone researcher trying to do blah, blah, blah, you know, I do work at [a university]. So, um, but I guess the work was funded by [a federal agency]. And they wanted to use social, they wanted to find out more about social support and what's on social support websites as far as [this health issue] is concerned. And we had put in a grant for that and got it. And so I felt like I had a little bit more credibility, as a researcher, [affiliated with a university], just trying to go on to these websites. And I also yeah, I mean, I've looked at other social. I think there were only a few other social media posts at that point. Some on blogs, some on Facebook, some on Twitter, but there wasn't a whole lot at that point. Now it's all over the place. 
+
+Sara Mannheimer  22:06
+Yeah. What year was this that you did the blog project? 
+
+QR08  22:09
+Oh, God. So this was [several] years ago, when we got funded? Yeah, I lost the year with COVID. So.
+
+Sara Mannheimer  22:24
+Okay, um, this is awesome. This is so good. So going back to it. I I'm kind of feel like we're talking about informed consent right now. Going back to your other your secondary qualitative analysis of the quotes? Did you think about informed consent during that example, like, as you were pulling those quotes? Did you like wonder whether the consent form said these quotes will be published? And or were you concerned that who the participants wouldn't expect their quotes to be then used in a secondary analysis? Did that come up?
+
+QR08  23:03
+ Mm hmm. Yes. So I actually asked my IRB or Institutional Review Board, if you're not familiar with that term, I said, Look, I want to do this. And they said, it's not human subjects research, which I always find interesting. Like, I'm finally getting the gist of what this is, because I feel like everything that I do involves a human. But I get why this is not human subjects research, but and so they said, you're exempt. And they gave me an exemption. And that, in some ways made me feel like it wasn't an informed consent, but I at least had some. You know, I ran it by somebody else. So I did think about it. And I guess, but I also thought, well, they went through an informed consent process, but I have no idea what that was like, other than people say, in their research articles, informed consent was obtained, right. So I didn't know what those informed consent forms look like, I never felt like I needed to reach out and find out what those informed consent. You know, I just felt like since they're publishing it, and it's available. It would be like the, I don't know, it's so tricky, because it's almost like, you know, journalism quotes, right, you know, you hear this quote, and that quote, and this quote, and that quote, and, and they don't need informed consent to reuse that data. But I know this is a research issue. So, you know, I'm very careful, but I just did not think that this would be a problem because it was available in the journals already. Yeah, I felt I felt that I did not need to reach back to the I mean, I guess if I wanted to be. I mean, my theory in life is is it safe enough? I mean, and I really tried to push detect all human participants to the nth degree, right? But I didn't really know, I already didn't know who they were, I never talked to them myself. I don't know their gender, or unless it was specifically spelled out in the code itself. But that was rare. I didn't know where they were from. I mean, I feel there's more of a risk when I actually am the interviewer, you know, to be able to accidentally, like, say something to somebody, you know, like, yeah, even if it's just, you know, well, I, I talked to someone today on the interview, and, wow, they said that [the health issue], you know, is never easy, or something like that. And it's like, well, now I just sort of betrayed their trust, right? I mean, right? I didn't let them know who what, but it's easier, almost, you know, to be, it's to be more anonymous, when you're looking at already anonymized data than it is, for me, as the interviewer or even looking through transcripts. So I feel like this was like a double, I felt fine about it. No problems at all.
+
+Sara Mannheimer  26:03
+That makes sense. Um, can let's talk about the, the idea of context. So for qualitative research, I have a quote that I have been reading to kind of help you understand what context what I mean by it. So "Qualitative research is a process that can include deep and prolonged contact and connection with research subjects where you're trying to understand the subject within their own context. And so qualitative data is highly context dependent. And context itself is a source of data and meaning, ignoring it, or under using it or not recognizing your own context driven perspective could result in incomplete or missed meaning." Yeah, and so I'm thinking about this paper that you wrote with the quote from other literature. What, tell me about a time if there were any, during this research, when you considered the issue of whether you could understand, maintain, and communicate the data context as you reuse them?
+
+QR08  27:08
+That's such a good question. I mean, that, that proves to me that you really understand this issue. I mean, that's what I mean. By this, there's, there's not a lot of qualitative researchers who asked that kind of hard question. So I guess. Yes. Um, yes, um, I am worried about the context, in fact. Um, yes. Is this a thing? The thing about this is, I don't even know when I'm doing my own my own qualitative research studies, right? To the extent at which I should tell everyone exactly what the context was, right? Because in that way, they may be identified, or do I just so like, for instance, so I say, I mean, this is just very specific. But do I say this was a group of people who are enrolled in an eating disorders program at [X University]? And it's like, well, now that could [allow the data to] be [re]identified. You know, I mean, all you have to do is I mean, not that I would, but someone could look at who's in the eating disorder program, and, you know, maybe connect [a person's] age to that. And, you know, I mean, there's a lot of, so I almost have to say it's the [region of a U.S. state] eating disorder group or something along those lines. I, that bothers me because if it's [a region of a U.S. state], that means it could be for us, it could be urban. It could be [name of city], where I live right now, which is quite urban and black and socio-economically divided. Or it could be [region of a U.S. state], rural, I have 500 cows, and I'm on a farm, you know, so it's really the context there, it I you know, I have such an issue with that. And in telling enough context to be able to understand the situation and yet not give away the participants identity or have any sense that there would be any identity accidentally misappropriated. So it is very hard. So no, I don't understand the context. I'm like, once removed, like so right? I not only did this study now I'm talking about the other study, right? So but that's my ethical dilemma all the time. So there's that. And then there's this ethics, ethical decision within this context of this very study that I was speaking about, where....
+
+Sara Mannheimer  29:46
+With the the quotes or with the blog?
+
+QR08  29:49
+....with the quotes, well and the others too. But I guess both situations, but particularly the one study that I'm that, that I use the quotes I am using well, and the other one, I'm using secondhand information already. So the context is already once removed for me, and now it's yet removed again. And there's the opportunity for it to be removed again. But one could say the same of quantitative research, I believe as well. 
+
+Sara Mannheimer  30:23
+Sure, yeah. 
+
+QR08  30:24
+So I don't think this, this ethical question is exactly. Oops. Hold on a minute. [brief interruption]... And so I think this is a this is a general ethical question like: to what extent do we understand context? So I find it funny because people in quantitative research say, well, mine's not context driven. I'm like, oh, really? Well, how did you recruit the participants? How did you develop the survey questions? You know, who, how did you just decide who you were going to recruit? And? And who, who participated in your study? Who did not participate in your study? I mean, all these questions right around the context of this. Um, and I think qualitative research actually tries to do a better job of explaining the context and some quantitative research. So it's another one, what were yours? 
+
+Sara Mannheimer  31:30
+But what were your specific considerations because I feel like this quote project is actually really interesting from a contextual perspective, since you're pulling quotes, like that came from, you know, these are just quotes, but they are in response to so many different questions, and so many different types of research that you're just aggregating all together. So like, what were your considerations as you did that, like, what did you think through who did you consult with? Did you talk with like, your co-authors or colleagues? How did you sort of work through your contextual questions and figure out what you wanted to do?
+
+QR08  32:09
+Yeah, so [I talked to my coauthor]. I, I talked with a colleague or two, but they're like, "Wow, we've never done that before." And I'm like, you know, what, I see how this could be. [My colleague] called it next generation. That's what [they] said. [They] said, I think this is called the next generation of research where we actually use the original qualitative data, all of it. But right now, we have quotes to be able to do secondary data analysis. I mean, so many people would not have to [conduct redundant] studies, if we just had the data available. 
+
+Sara Mannheimer  32:54
+Very true. 
+
+QR08  32:55
+That's, that's my bottom line, like, damn it, you know, if we just had this information, you know, published and I understand the protection of participants, they would need to know very clearly that what they say could be put in part of a national database, deidentified, you know, and they could even read, I don't even they can read through the transcript. And did that, you know, take out anything that they did not want to be included. I mean, I think, I think member checking and giving people the transcript, is, they could even do that, you know, if they, if...
+
+Sara Mannheimer  33:33
+That's a great point, but I guess my... I'm wondering, thinking about, like, once you put information out there, you just have no idea what type of research it could be used for, you know, so is that, like, even if I, you were to check through this transcript? And decided that is completely deidentified. What if somebody comes through and decides to do like, a conversation analysis on the way that you're speaking? You know, it's like, there's so many different ways that data could be used, where it's like, can you really consent to that, you know, like, yeah, once your data is...?
+
+QR08  34:16
+They may misunderstand, they may absolutely misunderstand what I said. I mean, you may misunderstand what I say. But I mean, every... but but the second, you know, it's the, the second analysis of this could even have more opportunity for that. But I'm consenting to the interview, like I and I'm consenting to it. I mean, I guess the only thing is, if it were going to be put under a permanent record, like somewhere or even semi permanent record somewhere in you know, in a in a database. Then I guess I would just want to and if it was personal like this, I don't care. I mean, really, I don't care. You can put in anything I say, you know, but like, if it's a personal thing, like I'm telling someone like the our participants talk about the real personal experience of [a health issue] and like sometimes about [a different health issue] and the psychological strain that goes through that. Okay, so that's what I'm talking about, more or less that stuff. You know, and I think, you know, I think it would be my ethical duty, if I thought it was going somewhere other than for this research study, let's say to a larger database, or then I would like to give them back. So there's a data that I used for the transcripts to come up with the data. And then if it's going to a larger database, I would give them that transcript and say, is this approved for wide distribution? And I think if they say yes, then there we go, we have all those interviews. And it's not that hard. I mean, it's not hard. If you're interviewing someone, you knew who they were, you have their information. You know, I mean, just say, okay, so after this call today, let's say I gave you highly private information, which I did. But you said, you know, now what I want to do is I want to not only analyze, I don't really, I just I want to create this own paper for myself. Which I'm almost interested in helping you with, by the way, because this project is so freaking interesting. But anyway, but this paper, this is why I'm so passionate about it. And when, when I saw your thing, I thought, oh my God, I love this. This is what we need anyway. So, um, yeah, what was I saying, so I if I can consent to this interview.... I'm just like, this is, you know, this is just a really great question that I wrestle with. I think about it, you know, and I think about this big data or this next gen thing, and I think about how can we actually get this into, you know, different repositories and things like that? Sorry, yeah. So I just, you know, I think it's really important to be able to, to have that in, if I knew that you were going to use this for something else, all you would need to do is say, "Hey, um, you know, just give me permission to do that." You know, yeah, but I would love I would love all of this. Like, [the name of a data repository], is that it?
+
+Sara Mannheimer  37:37
+Hmm hmm. 
+
+QR08  37:38
+Why can't we put all this? Why can't we have... why can't we put all this data in there, I use them a lot for, or mixed methods, they, the [data repository] is awesome, in a lot of ways. 
+
+[Brief side conversation about other data repositories where qualitative data can be shared].
+
+Sara Mannheimer  38:26
+Let me move on to intellectual property. I don't want to take too much of your time. But...
+
+QR08  38:31
+No, no, this is fun, this is actually fun.
+
+Sara Mannheimer  38:34
+Good, for me too. I'm thinking about the like, the interview transcript that you would check with somebody or? Yeah, what are top I want to bring it back to your project. So thinking about either the blog project or the quotations project? Tell me about a time if there were any during one of those examples, when you thought about intellectual property concerns? Like the participants, you know, or the organization or the blog, or did you think of fair use? Did you think it was Fair Use as you were using all of these or even the um, journals where you found the quotes, you know?
+
+QR08  39:20
+That's a really also interesting question from a different way that I don't think we think about that a whole lot. I mean, I think about it. So I also work for [private companies] and do very large qualitative research projects for them. And I just understand that none of my data is mine, that my intellectual property has been given to them. And in a way working for [the university], it's more of a slippery slope, where you can apply in like, the data that I produce is still like under [the university], but it's much more an independent investigator's personal use and property. I, you know, intellectual property. I don't worry about copywriting or trademarking anything. I mean, I never thought about that. So, that's probably going to be a finding that you'll want to, because I don't think anybody does. Really? Yeah, I think that's gonna be like, if I can think of theme, theme two or three here and your paper, it's going to be nobody thinks about intellectual property. 
+
+Sara Mannheimer  40:32
+Okay. Even for like the respondents too, like thinking about people who had written the code, you weren't like, oh, they are copyrighted material? 
+
+QR08  40:44
+No, they think even less of it. 
+
+Sara Mannheimer  40:46
+Yeah. 
+
+QR08  40:47
+That was a great answer to whatever. Yeah, no, I think your answer is going to be, we don't think about this. And we should, but we don't. We don't. It's kind of like, I just assume, and I think maybe this is my wrong assumption, I assume that I don't have... it's not my property, I assume that it's either the journal's property, you know, if I publish in the journal that they always say, we retain the right to, you know, have this data, or it's embargo or something for a certain amount of time, if you're giving a presentation. I think of [the university] as owning my data, I think of, I think of the the [private companies] owning my data. I never, my, I mean, even if I do have my own business, um, but I don't even think of as being my business, because my business is always for someone else. I don't even think of my business as having intellectual property rights. So I don't think about it. 
+
+Sara Mannheimer  42:00
+That's interesting. 
+
+QR08  42:02
+Yeah, listen to that. I bet. That, yeah, they don't think about it. It's a really fascinating question. Yeah.
+
+Sara Mannheimer  42:11
+Okay, I want to hit on two more topics before we wrap up. So the first one is data quality. And you can also think about this as like data trustworthiness. So like, I'm during, especially the example where you pulled the quotes from the article, what quality issues, or concerns around missing data?
+
+QR08  42:32
+Oh my god, I wrote, I'll pull that article out for you. And I'll tell you all the things that I found that were wrong with it. I was like, oh, my god, the interview guide you, right. 
+
+Sara Mannheimer  42:43
+Oh, okay. For the other articles that you were looking at? Yeah.
+
+QR08  42:48
+Oh, yeah. I wrote up all the things that they how would you ever like if this is missing? How would you ever rep-, replicate this study? But that's not what you mean?
+
+Sara Mannheimer  42:57
+No, no, that is what I guess I'm, I'm like, with all of those quality issues that you found with the other studies, and then you pull the quotes for your own study? What were your concerns about the way that those quality issues might affect the current study that you were doing? And then what strategies did you use to sort of help with that? Or allev-, you know, support quality in your research? Yeah. Even if you were seeing issues with other?
+
+QR08  43:26
+Yeah, exactly. So I made comments of where I thought there were gaps in quality issues. That was one of I, it wasn't one of my intended ideas of the study. But when I went through it, I thought, oh, my gosh, people aren't reporting, they aren't reporting their interview guide, they aren't showing their codebook they aren't. They aren't telling us anything about saturation, or how they determined that [x number of] people was the right amount. How did they, you know, it was just it went on and on. I mean, there was like 10 things that were very blatant that I thought how can we as and that's why I sort of was passionate about writing this article was there has to be standards for this. So the article was twofold, one to show how to conduct the secondary data analysis. And second to say you got to get your stuff together to be able to at least put a bare minimum the things that would allow it to be reproduced. So I did all the things that I was supposed to do in this study, I, you know, I showed exactly how. So I tried to do everything, quote, "right." Now, there wasn't really an interview guide. But I did show because I wasn't interviewing anyone. But I did show the process of coding very specifically, so that other people could replicate it, they could pull the studies if they wanted to actually do a secondary data analysis themselves of the very same data. So in a way, it's the closest thing that I had to a data repository, but it's still not it wasn't the full transcripts of everything. I mean, can you imagine? If I had access to the full transcripts of everything that was in that study? I could go bonkers. I mean, there would be so many things I could write about and investigate new questions might come up. Because, you know, every study has its own research purpose, and other little things are thrown away. So maybe I would have found out a lot more about, um, [a more specific topic] if I had access to that data, whereas nobody specifically asked that I mean, I don't know. That's a that's an example.
+
+Sara Mannheimer  44:25
+So this makes me think of data comparability, which is our last topic. So I feel like there, during this example, where you were pulling quotes from a bunch of different research questions and different types of respondents, did you think did you consider this idea of like comparability or interoperability between all of these quotes? And then if so, how did like what issues did you consider as you were pulling together all these different quotes from various different types of studies? 
+
+QR08  46:19
+So can you just tell me what you mean by interoperability?
+
+Sara Mannheimer  46:24
+Interoperability is more of like, technical term, when you think about like, metadata terms that are the same, or you know, thinking about like, if, like, ideally, for interoperability, people would be asking the exact same question. Yeah. And so we use this in libraries. So it's a little bit of a jargon term, but it's like, it's too different for in order for two different systems to work together, they have to sort of be speaking the same language. And so that's why in libraries we have that, you know, catalog, Library of Congress subject headings that are interoperable between all libraries and stuff like that. But I think for you, you can just think about comparability like the data itself, like were these quotes, able were you able to pull them together, even though they came from different research questions. Are you still there?
+
+QR08  52:22
+Sorry about that it went a little weird then I came back in and then I tried to do my on a computer and it said it needed a passcode. So I just thought, let me try something else. So I went to my other other WiFi so. 
+
+Sara Mannheimer  52:37
+Oh gosh. Thank you. I think we're on our last question anyway. So yeah, but I was just sort of asking about, like, how, how you thought about the comparability of all of these quotes when they had different types of research?
+
+QR08  52:54
+Yeah, you know what I don't. That's something that I'm not as worried about in qualitative work, because even each interview within the same study can be asked differently, and different prompts can happen. So unless you're doing a totally structured interview, which happens very rarely, in my line of work. I, you know, I'm not so worried about that as being an issue. I mean, if we, sometimes I do, what I'm going to call multiple sites, and I try to train the interviews interviewers so that they're asking kind of the same questions in the same way. But that's a little different than this, where you have random interviewers doing with random interview guides, asking all kinds of different questions. I mean, I guess sharing the interview guide is is one thing that you can do. But I'm not expecting everyone to have exactly the same questions, because I don't even expect that of myself. 
+
+Sara Mannheimer  54:03
+Right. Yeah. That makes sense. And then I guess, I feel like with your study, because all of your your studies you looked at, we're looking at the same topic, you had like a pretty nice context there. 
+
+QR08  54:19
+Yes. 
+
+Sara Mannheimer  54:20
+That helps the interviews relate to one another. Okay, I think we're done. Thank you so much. This was just so great.
+
+QR08  54:29
+Sure, thank you. I think it's a great study. I cannot wait to see what happens with it. I think it's a great idea. So if you have any follow up questions I'll just say that on on audio, you can go ahead and just reach out to me. I don't mind one bit.
+
+Sara Mannheimer  54:46
+Thank you so much. And if you have any other thoughts, feel free to reach out to me too. 
+
+QR08  54:50
+Okay.

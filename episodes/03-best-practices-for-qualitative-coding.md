@@ -43,26 +43,52 @@ Even though deductive and inductive reasoning are both part of nearly every stud
 
 ## Inductive coding
 
-In 1967, US sociologists Glaser and Strauss formalized [*grounded theory*](https://en.wikipedia.org/wiki/Grounded_theory), one method for conducting structured qualitative research without presupposing a hypothesis or theory. They recognized that how people experience the world (i.e., the economy) can be at least as important as traditional measures (i.e., personal income or gross domestic product).
+In 1967, US sociologists Glaser and Strauss formalized [*grounded theory*](https://en.wikipedia.org/wiki/Grounded_theory), one method for conducting structured qualitative research without presupposing a hypothesis or theory. They recognized that how people *experience* the world can be at least as important as traditional measures (i.e., personal income or gross domestic product).
 
 In grounded theory and other inductive coding methods, qualitative data like interview transcripts are read carefully and initial codes are applied that match the language and interpretation proposed by study participants themselves as closely as possible.
 
-Often, researchers label codes in this *open coding* phase by using their judgment and experience to discern underlying themes in the experiences expressed across interviews.
+Often, researchers label codes in this **open coding** phase by using their judgment and experience to discern underlying themes in the experiences expressed across interviews.
 
 In our scenario, the goal of this analysis is to prepare for collecting and analyzing new data related to social media privacy and confidentiality. `BSR_05` is with a PhD student studying political communication.
 
-We can open `BSR_05` in Taguette from the `Documents` tab. The text of the interview should appear on the right. In the body of the interview, speaker names and the time they started speaking in the recording appear on one line, followed by what they said. `Sara Mannheimer` is the interviewer and `BSR05` replaces the name of the student for privacy
+Open the `Coding` tab in QualCoder and click on `BSR05_transcript_deidentified` in the `Documents` list to open it for coding on the right. `Sara Mannheimer` is the interviewer and `BSR05` replaces the name of the student for privacy
 protection.
 
-![](fig/taguette-document-view.png){alt="Image of Taguette with document BSR_05 open to timestamp 03:49"}
+![](fig/qualcoder-coding-view.png){alt="Image of QualCoder with document BSR_05 open to the 03:49 timestamp in coding view"}
 
-Scrolling 3 minutes and 49 seconds into the interview, we learn this person was using a large dataset of Twitter posts from the #MeToo movement with some significant privacy risks, for example:
+Codes (labels) are applied to text segments that reflect a particular concept, theme or idea. Before applying a code, it must be created in the Codes list or the Code organizer.
 
-> And a big part of our paper was we came up with a way of identifying which tweets were disclosures which were not, and we have to describe the method in the paper. And more or less, that's a method to identify survivors of sexual violence in our in our data set.
+We imported an existing project and the codes used by the original study team already appear in the codes list. Before creating new codes, take a look at the *coding tree* in the Code organizer (`Coding - Code organizer`). After opening the organizer and reading the warning about the risks of modifying codes, click the outline symbol (`select code branch`), then choose `All` and click `OK`. You should see each code, with lines connecting codes to *categories*. Each category can contain any number of codes, and categories can be nested within other categories (i.e., `curation - technical requirements of bad`).
+
+![](fig/qualcoder-code-organizer.png){alt="Image of QualCoder code organizer showing the 'curation - technical requirements of bad' category in a white box with 5 subcategories of varying colors connected to it via lines. The 'curation - innovative repository practices with bar' subcategory also has 2 subcategories of its own, one of which contains 3 codes."}
+
+We will use categories to distinguish between codes created using different processes. Click the `Create category` button and name a category `1_Mannheimer`; this will contain all the codes created by the previous study team so we can easily separate them from ours. To move an existing code or category under `1_Mannheimer`, right-click its box and select `Link code to category`. After selecting the correct code and choosing `OK`, that code becomes a subcode of `1_Mannheimer`.
+
+::: instructor
+
+The next exercise may be replaced with following the same directions but for all existing codes in a longer workshop. The choice of a 2 minute time limit is arbitrary. If the longer version is used, only `All` and `1_Mannheimer` should appear as branches in step 3.
+
+The choice of label (`1_Mannheimer`) is meant to ensure the new code can easily be found at the top of the codes list later when coding and is not necessary for the longer version (which can use `Mannheimer` with a prepend).
+
+You will need to do some of the recoding for the challenge below as well, if you want to demonstrate the results. Alternatively, a [project with the recoding](data/mannheimer_refi_qda_project_recoded.qda) completed in full is available with this lesson.
+
+:::
+
+::: challenge
+
+## Organize codes
+
+1. Use the `Code organizer` to link as many of the original study team's codes to `1_Mannheimer` as you can within 2 minutes. You will not be able to finish them all.
+2. When time is up, save your changes by clicking `Apply`.
+3. Reopen the `Code organizer` and explore only the `1_Mannheimer` branch.
+
+:::
 
 ### Open coding
 
-Tags (labelled codes) are applied to highlights (text excerpts). Select the two sentences above in Taguette and click "new highlight" then check "interesting" and "Save and Close." The text should now be highlighted in yellow.
+After organizing existing codes, return to the text coding screen (`Coding - Code text`). Select `BSR05` again. Scrolling 3 minutes and 49 seconds into the interview, we learn this person was using a large dataset of Twitter posts from the #MeToo movement with some significant privacy risks, for example:
+
+> And a big part of our paper was we came up with a way of identifying which tweets were disclosures which were not, and we have to describe the method in the paper. And more or less, that's a method to identify survivors of sexual violence in our in our data set.
 
 ::: instructor
 
@@ -92,32 +118,37 @@ There are multiple words or phrases that might capture some of this excerpt's re
 
 :::
 
-::: callout
+Codes must be created before they can be applied.
 
-### How much to highlight?
+First, right-click in the code list and `Add a new category` called `2_open_codes` for our codes.
 
-Taguette supports multiple tags per highlight but does not allow overlapping highlights, making decisions about how large of excerpts to use more important. Highlights generally should be only long enough to provide context and understand meaning. Some researchers always code full sentences or even paragraphs, while others make decisions case by
-case.
+Next, right-click the category and `Add a new code to category`, naming it after a theme or concept you identified (i.e., `privacy`).
 
-:::
+Highlight the relevant text chunk at right with your mouse ("And a big part... in our data set") then click your new code. If it worked correctly, you will see a count of `1` next to your code and once you click somewhere else, the text will be highlighted in the code's color.
 
-Let's create some of the tags we defined in our discussion. Click on the highlight and create additional tags. Names should be short and clear. Adding descriptions can help clarify the difference between similar tags, especially if working collaboratively with others.
-
-![](fig/taguette-privacy-highlight.png){alt="Image of Taguette New Tag dialog for tag named privacy with description sharing or protection of personal information, including both web (social media, etc) and research"}
-
-The "Highlights" tab at the left allows us to see all the tags we've created and to how many highlights each has been applied. I created tags for both "privacy" and "identity protection" but later realized they overlap so much conceptually they don't need to be separated.
-
-To merge two tags click "Edit" next to the tag you want to remove and click "Merge." Select the other tag in the "into" box, then "Merge tags." After merging, any highlights tagged with one or both original tag will have the name of the "into" tag and the other will be removed.
+![](fig/qualcoder-coding-text.png){alt="Image of QualCoder text coding screen. The code 'privacy' is highlighted in green within a category called '2_open_codes'. On the right, a chunk of text from BSR05 is highlighted in the same color of green."}
 
 ::: callout
 
-### Plan twice; click once
+### How many codes?
 
-> "Measure twice and cut once." -[English proverb](https://en.wiktionary.org/wiki/measure_twice_and_cut_once) meaning one should plan and prepare in a careful, thorough manner before taking action and act once precisely and properly.
+A single sentence often relates to multiple topics, so it's common to apply more than one code to a single chunk of text or apply codes to overlapping text chunks. The next part of the workshop will discuss some of the reasons overlapping codes can be valuable.
 
-Taguette has no undo or history functions. Merged or deleted tags cannot be retrieved. Even if you export a copy of a project before making changes, there is no import functionality to restore the project to its previous state within Taguette.
+To apply multiple codes to the same (or overlapping) text, repeat the coding process with another code. QualCoder will display the overlap as *underlined* text. Clicking on the underlined text will change to one of the highlight colors, which can be cycled by pressing the `o` key or clicking the code of interest.
 
 :::
+
+::: callout
+
+### How much to code?
+
+Decisions about how large of excerpts to use are challenging but important. Highlights generally should be only long enough to provide context and understand meaning. Some researchers always code full sentences or even paragraphs, while others make decisions case by case.
+
+:::
+
+I created codes for both "privacy" and "identity protection" but later realized they overlap so much conceptually they don't need to be separated.
+
+To merge two codes, load them in the `Code organizer`, right-click the code you want to replace, and choose `Merge code into code` then `Apply`. After merging, any text coded to one or both original code will have the name of the "into" tag and the other will be removed.
 
 ### In vivo coding
 
@@ -129,37 +160,15 @@ Let's look at a passage slightly earlier in the paragraph we've been working wit
 
 The person being interviewed used a number of words and phrases that may be relevant to data privacy protection in these sentences including disclosed, stigma, disclosing, disclose, experience, sexual violence, and sensitive data. Rather than categorizing themes at this stage, in vivo coding retains language used by the participants.
 
-Let's highlight "disclosed" and apply a new tag called "disclose" to it. The same tag can be applied to "disclosing" and "disclose;" although they are different words, they have the same root word and express the same idea.
+After creating another category for `in_vivo` codes, let's highlight "disclosed" and apply a new in vivo code called "disclose". The same tag can be applied to "disclosing" and "disclose;" although they are different words, they have the same root word and express the same idea.
 
-![](fig/taguette-in-vivo.png){alt="Image of Taguette document view with the words disclosed, disclosing, and disclose highlighted with the tag disclose"}
+![](fig/qualcoder-coding-invivo.png){alt="Image of QualCoder text coding screen. The code 'disclose' is highlighted in red within a category called 'in_vivo'. On the right, multiple words with the stem 'disclose' from BSR05 are highlighted in red."}
 
-::: challenge
-
-### Coding trees
-
-\*Our project now combines thematic and in vivo coding in one document with no easy way to separate the types. Coding trees can help clarify and sort code groups.
-
-Like the plants, code trees have branches, which may be types of codes or broad themes. Leaves, or specific codes or subcategories, each "grow" from one larger branch.\*
-
-Edit each tag you have created (e.g., not "interesting") and add either `in vivo:` or `open:` to create a code tree where codes are sorted by coding method.
-
-::: solution
-
-After editing tags, your project will look something like this:
-
-![](fig/taguette-code-tree.png){alt="Image of Taguette showing highlights tab with tags including 'in vivo: disclose' and 'open: privacy'"}
-
-Some other qualitative software also implements dynamic code trees that allow multiple levels of nesting and automate viewing all subcodes (leaves) of a single code (branch), but embedding branches in code names is the only option currently available in Taguette.
-
-:::
-
-:::
-
-Once applied, in vivo codes can be analyzed individually or later aggregated during the axial coding process.
+In vivo codes can be analyzed individually to understand specific language people use or aggregated into themes during the axial coding process.
 
 ## Deductive coding
 
-Deductive codes are applied much the same way as open codes, but development takes place earlier, ideally before data collection, because tags and themes reflect theories and hypotheses the study is designed to test.
+Deductive codes are applied much the same way as open codes, but development of a coding tree takes place earlier, ideally before data collection, because tags and themes reflect theories and hypotheses the study is designed to test.
 
 ::: challenge
 
@@ -170,7 +179,7 @@ Deductive codes are applied much the same way as open codes, but development tak
 > 2.  Compromise: users recognize privacy's importance but also circumvent protections when seeking information
 > 3.  Stake: concern derives from being personally affected by privacy or sharing
 
-Create the 3 themes above as tags, prefixed by `deductive:`, and add descriptions based on the background given above.
+Create the 3 themes above as codes within a new category called `deductive`. Add descriptions based on the background given above by right-clicking and choosing `View or edit memo`. You can use memos to clarify exactly what a code means, to note questions about whether something should be changed, or any other purpose. Memos provide flexibility within a project to fill in gaps between formal parts of the project
 
 In `BSR_02`, read and highlight the text block quoted below (from the section starting at `1:44`).
 
@@ -203,7 +212,7 @@ Like inductive and deductive reasoning, the separation between inductive and ded
 
 ### Timing and alternatives
 
-The next challenge is designed to give learners time to practice deductive coding and become comfortable coding longer texts in Taguette, but it requires a good deal of time. Below are some recommendations for possible alternatives. Note that the some examples in [qualitative data analysis](./04-qualitative-data-analysis.html) rely on this. A sample
+The next challenge is designed to give learners time to practice deductive coding and become comfortable coding longer texts in QualCoder, but it requires a good deal of time. Below are some recommendations for possible alternatives. Note that some examples in [qualitative data analysis](./04-qualitative-data-analysis.html) rely on this. A sample
 project is available in the lesson repository and import instructions will be provided where relevant.
 
 **Alternative challenge options**:
