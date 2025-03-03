@@ -1,0 +1,271 @@
+
+QR09_transcript_deidentified
+SUMMARY KEYWORDS
+data, interview, research, qualitative data, consent, analyzing, paper, context, question, studies, people, share, themes, consent form, original, researcher, encounter, practices, sets
+SPEAKERS
+Sara Mannheimer, QR09
+
+Sara Mannheimer  00:00
+And as I sort of gave an overview to you in the email and in the interview guide, my research is about connecting to communities of practice through data curation. So quali-, people who use qualitative data or share qualitative data, and then people who use social media data, thinking of social media data, kind of as a type of qualitative data reuse, basically, where you're pulling down qualitative data that has been posted for a different reason. And so my goal with this, my research is mainly to help librarians provide better services. So I want to come up with like, a set of curation practices and ways that librarians can support both of these types of research. So in the process, I'm talking to qualitative researchers and big social researchers and data curators. So yeah, and so I've done a lit review and identified six key issues that are in common between the two communities. And so the interview structured around those issues, I have seven questions actually, or yeah, eight with an intro and conclusion question. But one question for each of those issues, consent, data quality, data comparability, context, privacy and intellectual property. Okay, any questions before we start? Okay. So the first question is, tell me about you? What kind of research do you do? And what kind of data do you generally produce? Or use? 
+
+QR09  01:59
+Um, yes, so I have done a lot of different types of research. I think I would definitely call myself primarily a qualitative researcher. I've done interviews and focus groups surveys. But I've also done things like text analysis, and worked with, you know, with various datasets that are freely available online, to reproduce new findings from that, and I was just working on something like, just now. So I don't really do a lot of high powered analytics. Usually myself, I usually work with a team, if we're going to be doing a lot of a lot of, you know, like, analysis of quantitative data.
+
+Sara Mannheimer  02:59
+Yeah. Okay. And then, I'd also suggested that asked you to come up with like, one specific example of some research you had done where you had reused qualitative data. And I had identified that paper that you wrote, so you some-, a somewhat older paper, but you could talk about that, or any other time that you've done, like a secondary analysis of qualitative data. And we don't have to stick completely to this example, but it's helpful.
+
+QR09  03:35
+That one that we came up with. Because we had both the three people on that paper had done, we had done two separate research projects on very similar subjects. So [co-author 1], had done a project about reference work. And then [co-author 2] and I had done a project about reference work, and about that, ours was about the experience of time. And hers was I don't remember what it was, but it was closely enough related that we were like, well, we should reanalyze the data and see what we can come up, you know, see what similar similarities there are between the two sets. But the problem that we ran into, is that we hadn't agreed to share our data outside of our original project. So when we collected the data, you know, we had gotten permission from the, from the interviewees to analyze their data and then we were able to share some I think... it's been a long time. And we were, we got permission to share quotes and things like that. You know, so we could explain our themes or thematic development and stuff. But as far as sharing the entire interviews with other people, that wasn't something that had originally been agreed on, ended up using ourselves, I think, as the sources, this, what did we do? Maybe we could only we couldn't verify each other's quotes, we had to just kind of say...  
+
+Sara Mannheimer  
+So you used... you view, the consent form is saying that the data couldn't even be shared with your new research team. Right? Okay. And tell me remind me about the, two the projects that the two projects that you brought together, or three projects that you brought together? 
+
+QR09 
+Two projects. You know, I probably actually have a paper about this somewhere, because we presented that case, where we talked exactly about what we did, and I think I can dig that up for you. So you can see. It was basically just two papers that we two research projects that we wanted to re-analyze...
+
+Sara Mannheimer  06:19
+In order to build something that had more range, and sort of because the two projects are related? Got it.
+
+QR09  06:28
+Right. And it sort of went in a different direction to see if we could get new findings from, from the original sets of data. 
+
+Sara Mannheimer  06:39
+Okay. 
+
+QR09  06:40
+So we didn't like put them, put our data up into a repository or anything like that. We kept it to ourselves.
+
+Sara Mannheimer  06:49
+Okay. Sounds good. And then. So you each had your own qualitative data, and then you re-analyzed it without seeing the entire data set. 
+
+QR09  07:06
+Yeah. 
+
+Sara Mannheimer  07:07
+Okay. Very interesting. Okay. This is a cool example. 
+
+QR09  07:12
+Yeah, we felt really constrained, you know, because of the original consent forms, we hadn't gotten consent to... I think that we basically asked our participants to look over the data and make sure that they were comfortable with us sharing what we were presenting, you know, like, we had had them read the paper and say, is there anything in here that you want to have taken out?
+
+Sara Mannheimer  07:36
+Oh, you did? You had few enough participants that you were able to do that? 
+
+QR09  07:41
+Oh, yeah. Because, you know, with qualitative research, sometimes you can just do like, 10 interviews, and I think that's what we did.
+
+Sara Mannheimer  07:49
+Did you... so you didn't do like, you didn't want to ask them to consent to something different?
+
+QR09  07:56
+Because it had been a little while, you know, it had been a good, maybe two years, or something, or year and a half... long enough that we didn't want to have to go back and redo our IRB proposal. So there were enough barriers in place that it was, we thought we could just do it without it. And we could, you know,
+
+Sara Mannheimer  08:22
+Yeah, because you were sort of like, doing the research with a wall between you. Right, like? Very interesting. Um, tell me more about, like, what your thought process was about that all of the consent stuff, like, did you talk to your co-author about and like, compared consent forms? Was there anybody else that you consulted when you were going through that decision making process?
+
+QR09  08:48
+No, I mean, seemed pretty straightforward honestly. We, you know, we looked at our... we discussed, you know, consent, and what our, what our research participants had agreed was, was, you know, we would do with the data. And then this was outside of that, and so we didn't think that, you know, there was any way that we should violate that, you know, because it isn't, yeah, I'm going to see if I can find this paper. Because case has um, yeah, here it is. It's 2017. Are you talking to [co-author 1]? You probably can't tell me.
+
+Sara Mannheimer  09:34
+I'm near the end of my interviews. So you're one of the last people I'll talk to. 
+
+QR09  09:38
+Okay. Yeah, this one right here. Um, the paper is here and it explains it. 
+
+Sara Mannheimer  09:47
+Okay.
+
+QR09  09:49
+Let me give this to you.
+
+Sara Mannheimer  09:54
+Do you think that you have a good enough memory to do the interview on this on this topic?
+
+QR09  10:01
+I don't know. I'm going to put this in the chat. 
+
+Sara Mannheimer  10:07
+Okay.
+
+QR09  10:15
+Nice. Okay. Let's just take a look at this and see if it. Okay, yeah. So we were using our own data for subsequent study, but we were also combined. So it's 2015. That was the okay, so [co-author 1] and [co-author 2] had done this paper in 2015. And presented that case. We used interview data from two studies have a lived experience of reference information work to explore the experience of time. Yeah, because we'd all done experiences with time. That was a fun...
+
+Sara Mannheimer  11:24
+How did you guys find each other as collaborators?
+
+QR09  11:29
+We all knew each other. [Co-author 2] was, I was on [their] committee. [Their] PhD committee and [co-author 1] is just somebody who, you know, from conferences and stuff, so we just so they were all phenomenal phenomenological studies about work life. And so time was not a theme in the original studies, what we know is mentions of time in various ways. So basically, okay, yeah. And we realized that this concept might offer an important unexplored framework for thinking about work life. So we had gone to each other's conference presentations and said, "Wait a minute, that's very similar to what we came up with." But then there's this underlying current and we wanted to reanalyze the work. 
+
+Sara Mannheimer  12:21
+By combining the two datasets, did you end up like seeing... Did you think it was worth it to go through this sort of like these issues of consent? To have the additional data? Did you find that the phenomenons that you were able to identify, within both of the data sets were like, more compelling than the one then you could have done like, if you had just reanalyzed your own dataset? 
+
+QR09  12:48
+Yeah, for sure. Um, okay. We all look, okay, so [co-author 1] went through all of [their] stuff, and look for references of time. We went through all of ours and look for references of time. So I guess [co-author 1 and co-author 2] had a paper, I think, [co-author 2] and I had a paper and then I might have had a separate. So we had two different datasets. So we found all of the references to time. And then we analyzed the entire research team was able to look at each other's. Just the extracted references to time.
+
+Sara Mannheimer  13:34
+Okay, okay. Because the consent terms probably did say that you might share certain quotes from their interviews in the paper in a paper or publish certain quotes. Okay. 
+
+QR09  13:50
+Yeah, there wasn't a problem with what we did. 
+
+Sara Mannheimer  13:53
+Can you, well, I feel like, let's keep going and see, see how your memory is. And then if, and I think if you've thought through it enough to sort of write the paper, maybe this, maybe this is enough. But can you tell me about a time during the research where you considered the issue of context? So the idea that, like, I have a little quote here to help you understand the "Qualitative research is a process that may include deep and prolonged contact and connection with research subjects, trying to understand them in their own context. And so qualitative data are highly context dependent. And if you're not recognizing the context and the data and your own context driven perspective, it can result in missed meaning." So was there a time when thinking about reusing this for a different research question than you had originally asked? Did you think about challenges of context, or did you encounter any issues around there?
+
+QR09  14:51
+Yeah and that was the other thing with ensuring that we re-analyzed our own studies because, you know, we were there. When we did the interviews. And there's even a sentence in here. "With each researcher analyzing his or her own research data, the context was preserved." So we actually were purposefully at re-analyzing our own data. For that purpose, specifically, preserving context.
+
+Sara Mannheimer  15:20
+Yeah. So basically you like used a collaborative approach so that all of the original researchers were still there?
+
+QR09  15:26
+Right.
+
+Sara Mannheimer  15:27
+Okay. And in the paper that the paper you wrote, that was like the analysis of the data, and not the meta paper about the research, did you talk about that at all? Like, did you put in a little bit about context in here? Okay. 
+
+QR09  15:48
+Yeah, I'm pretty sure that we did. Yeah.
+
+Sara Mannheimer  15:52
+Okay. And, alright, let's move to data quality or trustworthiness. I'm not sure this one is relevant. But did you encounter any quality issues? Did you you know, as you were re-analyzing even your own data? Was, were there any, like, issues that you encountered that you needed to address?
+
+QR09  16:24
+Um, do you mean, were the interviews themselves good enough?
+
+Sara Mannheimer  16:33
+Yeah. And I guess it's like, was there any missing data? You know, as you went in with this new data with this new research question, did you encounter were, were there any problems like, oh, gosh, you know, this interview they skipped certain questions, and we therefore have are having trouble analyzing it for a new quest-, new research question, you know, or?
+
+QR09  16:59
+Yeah, no, no, because we were actually just going through and looking for experiences of time. But so we were doing a new, you know, laying a new question on top of the original data sets. So with that in mind, you know, the original studies weren't about time, you know, like, nothing else, something related, but that was an issue that kept popping up throughout them. So we didn't run into issues of quality with that with any of our data. 
+
+Sara Mannheimer  17:42
+Yeah. 
+
+QR09  17:42
+We were just superimposing another question on top of the original studies. 
+
+Sara Mannheimer  17:49
+Yeah. Okay, cool. Let's move, I feel like this, you are gonna have something to say here about data comparability. So because you were combining these two qualitative data sets, did you encounter any issues around that combination about comparing the two? Or combining these two data sets? Like, because you would ask different questions in the interviews? And was there anything that you encountered there? 
+
+QR09  18:21
+Um, no because we were each analyzing our own datasets. Yeah. And so we were just looking for specific a specific theme in both of this sets of data um. 
+
+Sara Mannheimer  18:38
+Okay.
+
+QR09  18:39
+So, because of that we did not share, you know, we didn't share the rest of it. Does that make sense? 
+
+Sara Mannheimer  18:50
+I think it does? I'm wondering, though, like, whether, you know, in an interview guide, you might ask questions that are related to certain like... well, like in this interview, we're doing now, I have these themes that I've sort of deductively come up with. 
+
+QR09  19:14
+Yeah. 
+
+Sara Mannheimer  19:15
+And then, in addition to these big themes of context, you know, comparability etc. I'm going to do like inductive coding of the, of the interviews. 
+
+QR09  19:19
+Yeah. 
+
+Sara Mannheimer  19:22
+To see what other themes emerge. But in a way, it's still structured around those themes that I created. So I'm just wondering, you know, you were both asking different questions of these respondents. Really trying to get at an underlying research question that you originally had. And I'm just wondering if there was any like difficulty. Yeah, with... even though they're talking about time, they're sort of talking about time in this context of the original research that you did. And was, did you encounter any stickiness there, any challenges? And it's okay, if you didn't, I'm just trying to double check. 
+
+QR09  20:12
+I don't really think that we did.
+
+Sara Mannheimer  20:14
+Yeah. I think that this is I'm glad that we're talking. I think this is a really interesting example, because I haven't talked to anyone else who re-analyzed their own data in collaboration with someone else. So I think this is really interesting. 
+
+QR09  20:31
+Oh, good well and the article will explain it better than I am. So definitely, you know, follow up with some questions about the article if you want.
+
+Sara Mannheimer  20:42
+And so with the consent, we already basically discussed that that you had, I am curious, like, have you heard of reconsent? Where you like, go back to the participants? And like, was that like a major consideration? Or was it just like you had said your reasoning was, ah, too long ago, and you didn't want to go back to them. But then you did end up sending the paper to them to make sure that everything looked okay is that right to respondents? 
+
+QR09  21:09
+That is the original papers, I don't think that we asked them about the time paper. 
+
+Sara Mannheimer  21:13
+Okay.
+
+QR09  21:13
+So it was so removed by that point. You know, like we were, it wasn't even like our original questions, or anything that we used.
+
+Sara Mannheimer  21:23
+Great, because it would have been a lot easier if everyone could look at everyone's data. Right?
+
+QR09  21:27
+Yeah, it would have been, um, let me look and see what [co-author 1's] paper was, it might have been [their]...fully engaged practice. Yeah, that was not [their] dissertation. Yeah, we didn't. We didn't talk about doing that. And I it might be because we don't know why we decided not to do that. And no I haven't ever gone back and gotten reconsent. I think it's kind of a that's daunting. You know what I mean? 
+
+Sara Mannheimer  22:08
+It's, it's super hard. Yeah. 
+
+QR09  22:11
+Because I just finished these interviews with somebody recently. And it's about data curation practices. 
+
+Sara Mannheimer  22:16
+Interesting. Oh, nice.
+
+QR09  22:19
+So we were interviewing data curators. And it was about open data. So we were interviewing them about open data, and didn't even get consent to put their interview... the interview transcripts into a repository. Because that wasn't in our script. And then I was like, and one person who I interviewed was like, "Are you gonna put these up into a repository?" And the crazy thing is the person I was working with works in a repository with data, [they are] s a data curator. And so we didn't put that in our script, and we didn't get permission to put them up. So I guess we're just not gonna make our data available, which is ironic given, you know.
+
+Sara Mannheimer  23:18
+Well, I experienced that too. Because, you know, you go to your IRB, and you're going through the process, and they have like the consent form like template, and you just fill it out. It's sort of like, you're not even, it's hard to think of everything ahead of time. And so I had known that I wanted to share the data, but I actually introduced the Yes/No radio button, like a third of the way through my interviews, because at first, I was just, if you were going to consent, you were going to consent to share the whole transcript too but then as I was talking to other curators, they were like, "Oh, you know, you could provide an option. And if they don't feel comfortable sharing, they can still consent to be interviewed." And so I feel like it's, that's part of why these studies that we're doing are so important is like, these practices are still so new, you know, that there's no standard way. 
+
+QR09  24:08
+You don't want somebody to refuse to do the interview, because you want to put it up either. Yeah, yeah. Sometimes people say things in interviews that they're not really, that isn't particularly sensitive, but maybe they don't want to share it with the whole world, you know, right.
+
+Sara Mannheimer  24:25
+Exactly. Yeah. I mean, I wouldn't want anyone else to see it. Going back to these transcripts and seeing the way that I speak it's like, I I'm not sure that I want to share this, right. Like, like, like, like so it's definitely like, makes you vulnerable. So I get yeah, okay, let's, let's, let's talk privacy and confidentiality. Was there a time when you were going through this that you thought about privacy, it says that you deidentified all the transcripts. So you were using deidentified transcripts. You went through it again? Did you like note any times that you hit... your deidentification wasn't perfect? Or was there any issues that you had around privacy?
+
+QR09  25:11
+Not really, because what we were talking about wasn't particularly personal. Yeah. So we weren't that concerned about it. So if we did come across that we would have, well, we didn't share it with other people anyway. So, but it was, again, it was a really small pool of people who we interviewed. So I mean, I don't think we ever we didn't say it's anonymous, you know, at any, any point. So it was just confidential. And so yeah, I don't remember worrying about that. Ever, though. Because because of the nature of the data.
+
+Sara Mannheimer  25:51
+Yeah. Okay. And then the last question is about intellectual property. Was there a time during this research where you considered intellectual property concerns like, participant intellectual property, or researcher or anything else?
+
+QR09  26:13
+In these studies, no. I mean, I definitely. It's something that I've thought about before. That wasn't an issue with this study, though. I don't, because why, because we all trusted each other, you know, yeah, we weren't sharing it with a wide variety, you know, a wide group of people, we weren't just putting it up, and feeling like somebody might steal the data and say, it's their own, you know, so I mean, it was. So that's, I think, where trust comes in and share, you know, ensuring that people do you have like, a vested reason I'd be using your data, I guess, you know, if you are putting it up to write, I put it behind some kind of a wall instead of just completely open. Because I know, with a lot of repositories, you can say, they need to consult me if they're going to use this. Or some other sort of barrier to just open access. 
+
+Sara Mannheimer  27:09
+Yeah. 
+
+QR09  27:10
+Because you're more worried. 
+
+Sara Mannheimer  27:12
+Has that? Like? Has that been a deterrent? to you about sharing data? Like, why haven't you shared data in the past?
+
+QR09  27:26
+Well, I mean, there's often a fear that your analysis is flawed. And somebody's gonna look at it and be like, what, so, um, but, um, are that, you know, your data poll was, you know, having to? Yeah, no, I mean, I never, I usually just don't put things that I mean, there have been some studies that I've put the data up into our repository. Because there wasn't any reason not to, I mean, because it was, if I was collecting some stuff that I wanted to reuse myself quite a bit, you know, because I put in a ton of effort into it into collecting it. And I knew that I wanted to continue working with this dataset, I would hold probably hold off for a bit, you know, I mean, unless unless it was grant funded, and that was required to, you know, make my data publicly available. But, I mean, I can see, you know, embargoing my data for a bit before. Um, but, but, you know, and that's because it does take a lot of your time to collect data, you know, and same thing with the qualitative data. But once you're done with it, you know, if you've, hopefully, if you've done all the right, you know, you've gotten permissions, and you've deidentified the data and everything. And you know, you're not going to keep trying to publish stuff out of it, then, you know, I think it's a good thing to go ahead and share it. And of course, you do run into the context problem, but it might just get it completely wrong. But.
+
+Sara Mannheimer  29:19
+I know, I definitely think about that, like, I see, you know, like when my papers get cited, sometimes I'll look at them and be like, what, that's not at all as I was saying, you know. So it's just like, it is hard. You know, people are trying to publish fast and... 
+
+QR09  30:01
+Yeah. 
+
+Sara Mannheimer  30:03
+I feel like there's a trust issue the other way too. It's like if I post my data, can I trust people to use it in a way that I would want? You know? 
+
+QR09  30:12
+Right. And you can't... it's kind of on them. Once you put it out there, for sure. And I guess you just have to hope that, you know, people aren't going to A) misinterpreted it or B) rip it to shreds for something, you know, because it does like you said, it does make you vulnerable when you put your data out there. 
+
+Sara Mannheimer  30:30
+Yeah. Okay, well, last question is just is there any other issue or challenge that you encountered during this research that I haven't asked about yet?
+
+QR09  30:44
+No, I don't think during this research, I mean, we did talk about all of your questions. So while we were working on the research, you know, we were thinking about context, and, you know, reuse and all these different problems, you know, because we had looked into the literature on how do you do this. And so, it was really interesting to find out how other people had addressed these concerns. But I mean, you know, like I said, since we all knew each other and trusted each other, and we were not, we were really concerned with trying to act ethically, according to our own standards, we were, like standards of what we should share and what we shouldn't share that I don't think it was a little frustrating sometimes I do remember trying to write it and wondering, wonder, you know, I wish I could read a little bit more there, you know, interview to see exactly what that means. So you just had to trust the person that you were working with reanalyzing their own data that it was represented correctly, but I mean, you know, I know that they're both really good at this. So I wasn't concerned about it. It was just, it was a little bit frustrating.
+
+Sara Mannheimer  31:58
+Right? Yeah. Yeah. I feel like it's almost like that exercise, or someone puts their arms through yours and is trying  to feed you. Right. Yeah. Okay, cool. Well, thank you so much. This was really interesting.
+
+QR09  32:19
+Good. And you know, you can probably contact either one of them and you know, if you need to add any more too.
+
+Sara Mannheimer  32:25
+Okay, sounds good.
+
+QR09  32:26
+Okay. All right.  
+

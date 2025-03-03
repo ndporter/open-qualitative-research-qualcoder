@@ -1,0 +1,222 @@
+
+BSR07_transcript_deidentified
+SUMMARY KEYWORDS
+pins, data, pinterest, misinformation, question, feel, people, research, thinking, coding, context, published, intellectual property, url, guess, qualitative, posted, issues, informed consent, study
+SPEAKERS
+Sara Mannheimer, BSR07
+
+Sara Mannheimer  00:00
+Okay. Um, and so I have I sent you the interview guide, you can look at that if you like, or we can just kind of talk through it. But I told you a little bit about my research. The main research question is how can data curators best handle qualitative and big social data to support ethical, epistemological and legal data sharing practices. And so I did a literature review and revealed six key issues that pose challenges both for qualitative reuse and for big social data. And so the interview is structured around those six issues, which are context, data quality data comparability, informed consent, privacy, and intellectual property. It will take about an hour. So yeah, there will be I have some intro questions about six common interview questions all together, one on each of those topics, and then we'll do a little wrap up. Okay, any questions before we begin? 
+
+BSR07  01:08
+Um, no, I don't think so. That sounds good.
+
+Sara Mannheimer  01:12
+Okay. So tell me about you and the type of research that you do and the type of data that you produce.
+
+BSR07  01:20
+Okay. Um, so yeah, you you identified, you know, a particular study where I used big social data [from Pinterest], but I actually use a variety of different sources of data and methodological approach approaches. So my research interests I'm, I'm a PhD student, and my research interests have to do with misinformation, news, literacy, and trust in use. So actually, a pretty a pretty broad area. And, and I think it's important to use, you know, whatever is the the tool that is most appropriate to the research question. So I'm a mixed methods researcher. So I use content analysis, surveys, experiments, focus groups, interviews. So qualitative and quantitative.
+
+Sara Mannheimer  02:18
+Yeah. Oh, interesting. I feel that will be a good viewpoint to discuss these questions.
+
+BSR07  02:24
+Oh, cool. Okay. All right. Excellent. Yeah. You know, actually, like one thing that I did want to bring up, I guess, that I found like a little. I think it might just be like a difference in, you know, like us coming from different fields that we kind of think of maybe some of these concepts and classify things a little differently. Like, when I first read what your research was about, I was, like, a little confused by the term. Like, what? I'm trying to remember what you call it now. You call it qualitative...
+
+Sara Mannheimer  02:56
+Data reuse. 
+
+BSR07  02:58
+Okay. Yeah, I guess, because to me, I think that like, at least like in journalism and communication, we talk about qualitative and quantitative methods. But a lot of times, the source material I think of is kind of agnostic, like, you know, that an interview transcript, for example, you could look at in a qualitative or quantitative way. So just I think, just to give you an idea of like, where I'm coming from, like, how I approach these issues, I sort of think of like, you know, you have your, you have your data set. And then, I mean, not all data could go either way, but some could and, and actually, in the case of this Pinterest study, we did do some, some, what could be considered, I mean, it was kind of a weird hybrid. We did some analysis, that was definitely quantitative. And then we did some that was like, we kind of deductively or inductively, rather, came up with categories for like, types of misinformation, and then and then quantified it. So it was kind of it was sort of like a mishmash of, of qualitative and quantitative approaches.
+
+Sara Mannheimer  04:05
+Yeah. From the librarian perspective, we think a lot about like, the material itself, you know, yeah, I guess. I think where we're disconnecting here is I'm thinking of the data as qualitative data, and yeah, whatever. And the big social research as using social media data. And so for my research, I'm not so much interested in how what methods you use to analyze the data, but sort of like how you find the data and how you think about the people behind the data, thinking about them. So that's why the data we use, it's like, if you when I publish these transcripts in a repository, how do the how to data curators and librarians like give, ask for the right documentation and work with the researcher to create the right information package that can allow the data to be reused and understood in the future. So I'm really coming from it from like a "stuff"—a "data" perspective. Like the data alone 
+
+BSR07  05:14
+Yeah. Yeah.
+
+Sara Mannheimer  05:15
+It's not as much of interest to me like, what research methods you use on the data. 
+
+BSR07  05:22
+Okay. Okay. 
+
+Sara Mannheimer  05:23
+So I guess, as we talk through the questions, maybe we can continue to discuss this, because that's interesting to me as I write up my results. That was really helpful to hear. 
+
+BSR07  05:35
+Okay, cool. Sure.
+
+Sara Mannheimer  05:37
+ So can you tell me about a recent time and I sent you this in an email where you either collected big social data for research or reused big social data that was shared or prepared your data, your big social data for sharing?
+
+BSR07  05:52
+Yeah. Yeah. So I think like, I think the Pinterest study is probably the best example of that. And I hope it's okay. It's not super recent, like I collected the data at the end of 2018.
+
+Sara Mannheimer  06:05
+That's okay. As long as you remember.  
+
+BSR07  06:11
+Okay. I hope so. 
+
+Sara Mannheimer  06:13
+I went all the way back to 2018. When I was doing my search, so.
+
+BSR07  06:17
+Yeah. And it well, it probably popped up also, because it's like, it was only published what last year? So you know, of course, these things take a while. But yeah, that's so that's probably the best example because I haven't, I've done a little schoolwork that involves some big social data. But that's the that's the last thing I did that was like, that I published or presented that used it. So basically, we we were interested in the incidence of misinformation about [a topic] on Pinterest, and, and also just some of the qualities of of the misinformation and you know, what sort of... what kind of topics within [the broad topic]? How did it relate to whether it was, did it relate to [related topics]. So just trying to, like get a sense of like, what, what does misinformation about [the topic] look like on Pinterest? So we used [a commercial tool], which is um, I'm trying to remember if it's free or not, I think I may have paid a nominal fee for it. It's a scraping software. So it, it allows you to put in a URL and create a script that it just like goes in and iterates. So I was able to put in like search for [the topic], and it would go in and like repeatedly search. Or sorry, it would it would search one time, but then it would like repeatedly scrape the URLs of all the resulting pins. And then I did that on three different days. So um, yeah, I don't know, what else what else would you like to know about it?
+
+Sara Mannheimer  08:21
+I think that's good. Um, so that's the data collection method. Um, was this part of grant funded research where you had a data management plan or a specific way that you were required to handle the data?
+
+BSR07  08:34
+Um, we did. So my co author was from [a different university], and we did have a small grant from the university, but I think it was I got $500. So I think it was $1000 total. And but I there wasn't any like stipulation on that. They didn't say anything about data collection or management.
+
+Sara Mannheimer  08:54
+Okay. And then did you publish any of the data from your example? Um, anything interesting...
+
+BSR07  09:02
+We did just include one kind of, I don't want to say example pin, because it was really kind of like the most egregious misinformation. So one piece of misinformation in a pin that was like an illustration in the an article that we published, but we did not like publish the data set.
+
+Sara Mannheimer  09:29
+Okay, let's move to our first question about context. So I have a little blurb to sort of help understand what we mean by context and this question. Halavais in 2015 suggested that "When we collect data from social media platforms, just like when we collect data in traditional spaces, context matters. However, the context of a social media post may be absent or difficult to understand. social media posts are by nature short pieces of text, images, videos, etc, that are taken from a larger context of personal and public life. And then the out of context effect can be compounded when data are masked at a large scale." So kind of thinking about this issue just with social media data in general. Can you tell me about a time, if any, during your research with Pinterest, when you considered the issue of maintaining and understanding the data's context? So like information about the community where the data was collected, or contextual information about the people who had pinned each of these pins? 
+
+BSR07  10:36
+Um, yeah, actually, if you don't mind, let me just I'm going to refer back to my paper to I do need a little I do need a little reminding actually, sometimes. We we kind of like we and, and just as background, like we did kind of toy for a little bit when we were coding with, like, different ways of representing the source of the information like, were we going to, were we going to, or I think we we coded... Actually, for the, let's see, the source of the... actually, let me open it up, because I don't want to get this wrong. And I think this only, yeah, I don't want to like linger on this too much because I'm, I think this kind of answers your question, but I'm not sure. So. But let me just, let's see, open up here coding. It's my coding spreadsheet. Okay. Yeah. So there was, um, there was like the main source. Actually, you know, what, it'd be better if I opened up my code book, because that would put it in context.
+
+Sara Mannheimer  12:05
+And these are supplemental materials? And you're just opening that?
+
+BSR07  12:10
+Um, yeah, actually, that's a good point. Because we did. Yeah, we did supply the codebook as a supplemental material. Let me see. Sorry, I just like, I saw your questions ahead of time. And then I just thought of this, and I was like, oh, maybe I should share this. Um, okay. Hang on a second. Okay, here we go. Okay, so we coded for the type of website that the pin linked to. And we tried to capture was it like a mainstream media website, social media site, blog, [lists several other types of websites], or other site. And then I think we had another, yes, then we had the source of the factual claim in the post. So [examples of where a factual claim would come from]. So we were trying to kind of get a sense of, you know, how that how the source of the information and the source of, and the actual website link to in the pin, how that kind of informs what people are saying in these pins. So like, that's a sense of context that we were trying to get. And in the end, I think it ended up being actually kind of, like, it's weird. I think that it was kind of, we only used, we didn't use both of those, we only used one of those in the, in the final paper, because I think it was just a little bit confusing to try and like, communicate all that information in a very short research paper. But I guess like, but I think the context has a lot of other meanings in this. So like, and I think there's a lot of ways that we didn't account for context. So we, you know, on the one hand, like, pins are kind of atomized and people post them with the expectation that they're going to be pinned to different boards. And I think that people are kind of thinking of them as individual. And so I'm less concerned about the context of the person creating it, but I'm more concerned about the context in which people see it. And that was something that we just kind of had to acknowledge as a limitation that, you know, we created fresh Pinterest accounts, because I figured like, you know, it's better, you can't, how are you going to account for the fact that when some people see it, and they've let's say, done a lot of searches about [lists several topics related to the research topic], this is going to influence the kind of results that you see, or if they've pinned those some of those things that's going to influence what they see.
+
+Sara Mannheimer  15:37
+So because of the Pinterest algorithm?
+
+BSR07  15:40
+Yeah, exactly. Right. So like I was concerned. So I couldn't really see a way around this. Like, I think the best solution was just to create a fresh account and say, like, Look, this is what you see, with a fresh account. If you've been searching for these things, you're going to see probably more things like this. But it's definitely a concern like and it was brought up by reviewers, it was brought up by [a colleague] that like people were really kind of concerned that like, it's not the whole picture of how people are, are seeing this, or the amount or type of misinformation that they're seeing. So that was like a contextual question that came up for us. Yeah.
+
+Sara Mannheimer  16:27
+Did you consult with anyone or consider other research projects or other literature when you were considering these issues of context? To try and come up with your solutions?
+
+BSR07  16:40
+You know, like, I don't I don't, I don't recall exactly consulting with anyone. I think my my approach was kind of it was actually kind of influenced by a really ad hoc research project that [another researcher] had done. It was like not published research was just like something [they] put on [their] blog, where [they] created a fresh account, and [they] saw how quickly this information populated and I guess that's kind of what made me think like, well, that's, that's a useful approach, like that kind of gives us a baseline. But, um, yeah, and then I would say, also that I was influenced by the, the peer reviewers, they kind of gave us some references that helped to helped us to explain, you know, how, how what we saw might be different if people had that context, and put some nuance on that.
+
+Sara Mannheimer  17:42
+Okay. And let me look at the journal. So was it mostly like [scholars who study the topic of the Pinterest search] who were reviewing or was it journalism and communications people? Do you know?
+
+BSR07  17:58
+It was actually it was blind. So yeah, I'm not sure. I think I'm kind of thinking from some of the references we got that they were, at least one of them was like communication. But maybe, maybe it was a mix. But yeah, I can't know. 
+
+Sara Mannheimer  18:11
+Yeah. Okay, cool. Let's move on to data quality. Can... and I guess, I feel like I should have said data quality and data, like trustworthiness, because that's kind of where I'm what I'm trying to get at here. So can you tell me about a time, if any, during this research when you considered the issue of data quality, or trustworthiness. So, for example, you know, what you were seeing on your timeline, or your Pinterest account, any missing data, or bots, or bias?
+
+BSR07  18:48
+Um, there was a little bit of an issue with missing data. So like [the scraping tool], would, would spit out all these URLs. And, you know, I think probably at the time that it did the search, those were all URLs that lead to actual pins, but then by the time, I mean, I didn't leave it that long, but like a few weeks, maybe later, I was clicking on them to download all of the posts and to code all the posts, like some of them no longer they were there broken links. And that's probably just a, I mean, I suspect that could be a function of Pinterest moderation, like maybe it actually, maybe it found some egregious misinformation and said, nope, you're going down. So maybe it wasn't a huge like, it wasn't a huge amount of data loss. There were still plenty of stuff to code. So that wasn't it. And I don't feel like it was just it really distorted the sample because again, it wasn't like it wasn't a huge amount. And then, I mean, I think the issue of bots is interesting, we didn't really consider or try to account for how much of the pins might have been posted by bots, I kind of think that it's, it doesn't really matter for our research questions that much like if, if that misinformation is up there and can be easily found in a search, and people can see it and be influenced by it, I'm not sure how much it matters that if it was posted by a bot rather than a person, so it wasn't something that we really thought about. 
+
+Sara Mannheimer  20:25
+Yeah. That makes sense. And when you were thinking about the broken links, and which of these quality issues were really important, and which maybe you could... were okay. Did you consult with anyone there? Were there any resources that you used or other studies that guided you? 
+
+BSR07  20:53
+Um, no, not really. I mean, I think that my co author and I just talked about, you know, how much of the data is this? Is it? Is it going to bias our data at all, but, again, if anything, I feel like, you know, if, if the most likely explanation for those things being taken down is that they were taken down by moderators, then that means that we are probably under estimating the amount of misinformation so I don't yeah, I think that we concluded that was not an issue.
+
+Sara Mannheimer  21:27
+Yeah. Okay. Great. Alright, data comparability. So. Um, during your example, did you compare or combine multiple datasets?
+
+BSR07  21:43
+No, we well, I mean, we just, we did collect on different days. So I'm not sure exactly what exactly you mean, by can combine it like it. So we collected on I believe it was three different days. And, and put those together. So I don't know. Does that count? Does that sort of?
+
+Sara Mannheimer  22:01
+I guess that's not quite what I'm getting at. Okay. Okay. Like, if you combined, tried to combine data from different platforms? 
+
+BSR07  22:09
+Oh, no. 
+
+Sara Mannheimer  22:10
+Yeah. Okay. And let's see, and or did you consider why.... I don't think this is really applying for your situation. But did you consider like comparability or interoperability of your data set? Like, did you think, did you save the Pinterest data that you scraped? And did you think, oh, maybe I will scrape more in the future, or I'll pull some information on Facebook to do a future study, follow up study, anything like that?
+
+BSR07  22:40
+I guess that's kind of, I guess, that was sort of in the back of my mind that I might do another study on another platform. But yeah, so that's, that's a good point, I guess, because it was in the back of my mind, and really not at the forefront. I, it's probably not something that I, I didn't really take steps really overtly to think about how, how this would, yeah, whether it would be comparable.
+
+Sara Mannheimer  23:11
+Tell me more about like the type of metadata, or you know, what comes back from the scraper? Or what do you end up with? Like, does it give you the image? And the links out? In what form does it come back? Is it like, a CSV file? Or?
+
+BSR07  23:27
+Sure, yeah, so actually, let me I'm gonna open it up. And I can also send this to you if, if it's of interest, I'm sure I'm just I'm going to open it up. Just to remind myself what, what I got. So let's see scrapes. Here we go. Raw scrapes. Um, okay. Yeah. So it gave me it's yeah, not a lot of not a lot of columns in this data set. So basically, it's a CSV file. And there's [a number of] columns, there's the URL for the pin itself. And then there's the URL for the image in the pin, which is also like, it's also a URL that starts with pinterest.com. It's just, you know, if you want to look at that, specifically, you know, it would have been great if it had given me a lot more of the things that I was coding for. But that's basically what it could do. So then I had to go in, click on each URL to do a screen grab. And then save it. So it was a lot of manual labor.
+
+Sara Mannheimer  24:38
+I see. So you use the scraper to identify the pins that were of interest to you. And yeah, and you did a manual check after that. 
+
+BSR07  24:46
+Yeah, exactly.
+
+Sara Mannheimer  24:48
+Okay. And did you end up, did you keep adding to the spreadsheet with like, the date that it was pinned or the user name or any of that or was it just it ended up just being the pin?
+
+BSR07  25:01
+Um, yeah. So I mean, the, the pins I collected as JPEGs I, and then I used the CSV that the scraper gave me to basically, basically be the start of my codebook. And then I, yeah, I had, let's see how many codes did I have? I had a whole bunch of codes. And we didn't end up using everything in the end, but it was like [a number of] different things that we coded.
+
+Sara Mannheimer  25:46
+Nice. And it's... you shared the guide for coding, but did you didn't share like your codes, like the raw codes that you had created? Is that right? 
+
+BSR07  26:03
+Yeah. 
+
+Sara Mannheimer  26:03
+Okay, just checking that I wasn't missing. Okay, cool. All right, let's move on to so I've grouped these, like the first three are, I call them epistemological issues, sort of just more about the research itself. And then the second three are about ethics and legal issues. So we have informed consent, privacy and intellectual property, the three that are remaining. So let's talk about informed consent. Can you tell me about a time, if any, during your research, when you considered the idea of informed consent for the participants, so to speak? 
+
+BSR07  26:39
+Um, I mean, I didn't, I didn't really consider it. I think that we, you know, the, how we've been trained in this program, is that when you're doing content analysis, I mean, right or wrong. Like I think, I think you can, you can ask questions about this, for sure. But I think we're sort of trained that it's like, you're not studying people, you're studying content. And, you know, therefore, there's no need to obtain informed consent. Like, I think that's a little flawed, because obviously, people created the content. And people have certain expectations of like, how they think things will be used or not used. I think that like, if I had, I mean, I think you know, what, there is one point where I probably where I did think about it a little bit, and that is in the example pin that we published in the article. And that included, it did include the website, like, so it's got it, you know, it's got a subject line, and then the, the website that, that the, that the pinner decided to link to, and then, you know, there's a little blurb and it's got the picture. So I didn't, I didn't exclude the website, but I did not include the username, like the person who who pinned it. So I think because I feel like, yeah, the people do have certain expectations, like, or, or they, it's sort of more, it could, oh, it could be a lot more unconscious than that. Maybe not that they have certain expectations. But if you had them, if you ask them to stop and think about it, like, "Hey, would you like to see is published in a journal?" like, then they would think, "Yeah, I should give my permission for that, that to occur." So I don't think it's right to publish usernames, or if it was like something else really identifying like a picture of a person, I would definitely have second thoughts about that. But you know, that it was like a picture of [harmful misinformation]. And, and a little blurb about that, I felt I felt pretty comfortable with that. So, and the fact that the rest of the data is kind of a, what's the word? You know, de-personal, I mean, it's aggregated. So I don't feel like there's a violation there. And, you know, one person representing a .1% in misinformation, and there's no identifying information about what they posted, or any or who they are or anything like that. I feel pretty comfortable with that. 
+
+Sara Mannheimer  29:25
+Yeah. Tell me more about like, how you came to that conclusion? Like, you know, again, like did you talk to your research partner, or had you seen other Pinterest research projects, use similar ideas? Or did IRB weigh in or what sort of what sort of resources informed that that assessment that you made about informed consent? 
+
+BSR07  29:50
+I think it was a lot of it was the training that I received in the in the program. So like, we talked about this in our quantitative methods class. And again, I kind of I kind of have some qualms about just saying, oh, we're studying content, we're not studying people. But that was sort of that was probably my starting point. And then, you know, I, I'd have reflected from like, there was a time, there was a poster that I had been involved in. I was like, third or fourth author, and, and it had like a picture, it was, I think it was was Instagram that we talked about. And this was some time ago, this was like, you know, previous, prior to this Pinterest project. But I remember at the time, like, so I didn't prepare the poster. And I remember seeing the poster at the at our annual conference, and sort of thinking myself, like, maybe we do need to, we should ask permission, when we're using, like actual pictures of people that they posted on Instagram thinking, you know, not even thinking who is going to see it, besides their friends not expecting that some researchers somewhere would use it. So that kind of like influenced my thinking. But it didn't really apply to this, you know, that puts that informs my sort of general mindset about informed consent, but it didn't really apply to this project. And, and just regarding IRB, like, I knew that our institution was not going to, I mean, that was something that we were told very clearly. And in quantitative methods that like, for content analysis, you do not need IRB approval. So yeah, and then do that. 
+
+Sara Mannheimer  31:37
+Yeah. Okay. Sounds good. Okay, well, closely related is privacy and confidentiality. So you talked a little bit about this was like seeing the people's images on the poster. But for your project, and really, for any project, I guess, that you would use, like content from social media. Can you tell me about a time when you have considered issues of privacy? So I guess, protecting the data during the research. And then even afterwards, like if you consider the data sensitive in any way, because it has usernames, and then also thinking about that idea of allowing people's data to be out there, it sounds like you were pretty careful about it only giving the one example that was de-identified. But what other thoughts did you have about privacy when you're doing this research or similar research?
+
+BSR07  32:35
+Um, I mean, although I didn't have or, or feel that I needed IRB approval I, I did just think about like, I-, what does IRB say about confidentiality, and, you know, the approach that I've been told is sufficient or is a good approach is basically that you are storing the data on a password protected computer. I backed things up to a external hard drive, and that's also password protected. And I know I don't, oh, and also, I shared some data with my co-author on Google Drive. And, and it was, you know, again, it was it was shared only with him. So I feel, I feel like those are sufficient steps to, to safeguard confidentiality and privacy. And I didn't have to say I didn't probably think too much beyond that. I mean, if someone raised an issue, if, if I were told that, you know, these are there's other steps I have to take, I would think about what else, you know whether I should be doing something more.
+
+Sara Mannheimer  33:47
+Yeah, that's really interesting to hear that in your program they've presented it as so cut and dry, but then you like think further, and have additional concerns. Um, and so what did you think... Like, what do you think the participants -- the people who had pinned these pins -- What did you think their expectations of privacy were? Like do you think they would be shocked to learn that you're using the pins for this study? And do you think that would be okay with them? 
+
+BSR07  34:27
+Um, I mean, I think I think Pinterest is a pretty public platform where people expect, you know, I mean, I've, I've used it a little bit myself, and I'll see, I mean, even given that I've hardly pinned anything from time to time, I'll get a notification that like, you know, random person x that I've never heard of has shared my pin to a board. So I think that most users know that their that their pins are being viewed by and also pinned by other people and, and are being kind of spread around in that way. To be honest, like I don't, you know, probably most of them haven't thought about the possibility that their pins would be used for research. And I guess like, I feel like if you told them, you know, this, that their name is not going to be published, their username is not going to be published, their, you know, their image, image or other identifying information is not to be published, I feel like, most people would probably be pretty understanding of that. But I mean, I guess some people will probably feel a little weird that just like, who I've become this, become this, like data point in this big, or maybe, you know, oh, this person doesn't understand what I was saying here. Like, no, that's not misinformation, because, you know, they've, they've misconstrued what I was saying. So, like, I could definitely feel like people could have misgivings. So there's some concern there, but I don't know, I feel like it's outweighed by the fact that, you know, we're trying to document something that might be harmful and trying to help [society]. So yeah, feel like, feel like on balance, it's the it's an acceptable practice. 
+
+Sara Mannheimer  36:30
+Nice. Okay. Great. All right, we're on to our last question of intellectual property. Was there a time during the process of this research when you considered intellectual property concerns? It could be like social media Terms of Service or participant intellectual property.
+
+BSR07  36:52
+Um, you know, the, the time that that actually, like, came up for me, the most was when I was I was thinking about using Pinterest and [the scraping tool], again, for a slightly different project for a class. And, and [the scraping tool] just wasn't working with Pinterest anymore. And I thought to myself, maybe, you know, I sort of thought we were on the right side of the Terms of Service, but maybe Pinterest got this, the idea that like, "Oh, these researchers are using [the scraping tool] to do this scraping, and we don't like what they're finding and, or it is a violation of our terms of service." So, um, yeah, it kind of did give me a little bit of pause, then. I mean, I, I think it was sort of, I think it was acceptable use because I was, you know, I was just getting the URLs and then I literally had to go in manually and, and take all those. And also, I wasn't like, you know, I wasn't... It's not like I was republishing the raw data, I think I would have had more concerns and probably thought about this more deeply if I'd been sharing the raw data or putting it somewhere a lot of people could access. And I understand that, like, open science is a lot is a desirable thing. And a lot of ways, but like, yeah, there's just so much to think through and, and intellectual property is, is definitely one of those things. So I kind of felt like I didn't, I didn't have to examine that too closely. And I guess same thing when it comes to the users like, I don't know. Yeah, it's a diff-, that's a difficult question, because I feel like, it might not if you were publishing an entire pin. Does that... is that Fair Use because that is, you know, that one of the tests of Fair Use is usually like that you're only using a small proportion. And using an entire pin does seem like a little egregious in that way. And I guess, I don't know, again, it's just like, a kind of cost benefit, ethical analysis, where I was thinking like, well, you know, this one pin that I'm publishing is, is [giving harmful misinformation] and I don't feel a whole lot of ethical obligation or compunction to, to worry about, whether that's Fair Use, I don't know that that might be a flawed, ethical approach, but.
+
+Sara Mannheimer  39:43
+It also sort of mirrors what you would do in a qualitative, you know, like, study where you interviewed people where you would put quotes and those are illustrative and they help people understand the research. So I guess I would want to do that too. Yeah, yeah. Um, and did you consult with anyone about intellectual property with Pinterest research or use any guidelines or resources?
+
+BSR07  40:10
+Um, you know, I think like the only time that question came up was probably when we were in the latter stages of the publication process, like I'm sure the journal had a question about, because they always do have those questions about intellectual property. And I wish I could, this is this is where it might be a bad thing that this was a couple of years ago. So I wish I could remember exactly what they asked about it. But I think that it sort of did cause me to, to just think and reflect for a little bit about like, okay, are we all right using this, this will just one pin. But there, there wasn't any time that I really like sought, sought advice or anything like that.
+
+Sara Mannheimer  41:04
+Yeah. And I guess like, you're using just like what you've learned in school, what you've known from being an academic, what you've learned from previous publications that you've been part of, and all that's coming together to help you make these decisions?
+
+BSR07  41:22
+Yeah, that's definitely yeah, that's true. I mean, yeah. The, like, you said: the PhD program, prior publication experience. Um, I mean, I may have had some discussions with my co-author about some of these issues, but I don't remember any of them being like, like, really a struggle or debate or anything like that, where we tussled with what to do.
+
+Sara Mannheimer  41:47
+Yeah. Okay. This is very interesting. Thank you so much. Are there any other issues or challenges that arose during your research that I haven't asked you about that you think would be of interest in terms of data curation and responsible use of social media data?
+
+BSR07  42:09
+I'm trying to think if anything else came up? I don't think so. That's, I think that covers it pretty well. I mean, if I think of anything else should do you want me to drop you an email? And? 
+
+Sara Mannheimer  42:24
+Sure, like, if you want to, yeah.
+
+BSR07  42:27
+Okay. All right. 
+
+Sara Mannheimer  42:30
+Yeah. Cool. All right. Well, that is everything I have I okay. So thank you so, so much. I really appreciate you taking the time to talk to me.
+
+BSR07  42:49
+Yes. My pleasure. Yeah. And this was really interesting. Thanks for inviting me to participate. And if there's anything I can do to help with your research, let me know.

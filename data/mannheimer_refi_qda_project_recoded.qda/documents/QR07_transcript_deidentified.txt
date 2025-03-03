@@ -1,0 +1,183 @@
+
+QR07_transcript_deidentified
+SUMMARY KEYWORDS
+data, people, research, questions, context, deidentify, qualitative research, transcripts, talk, interview, workshops, process, researcher, tools, diagrams, consent, qualitative data, publish
+SPEAKERS
+Sara Mannheimer, QR07
+
+Sara Mannheimer  00:00
+....recording, I'm going to start now. So I have already done like a pretty extensive lit review, where I have identified these six issues that are in common between social media research and qualitative data reuse. And so the interview is structured around those six issues. And so we'll have an introductory question, and then a question for each of those six issues, and then just a little wrap up, it should take about an hour. But we have 75 minutes, just in case. Any questions before we start? 
+
+QR07  00:44
+Nope. 
+
+Sara Mannheimer  00:45
+Okay. So tell me about the type of research that you do. And then the type of data that you generally produce in the course your research.
+
+QR07  00:55
+Yeah, so I've done a lot of different kinds of research, kind of in my role as [an academic librarian], and I guess I think of myself more broadly as just kind of social science, because it tends to be, you know, looking at things like classroom impact, you know, what is the kind of impact of the classes that we teach in the library? Does it actually lead to like change behaviors, things like that, as well as sort of like, what is the overall effective effectiveness of like library services? You know, are we actually, you know, improving people's research, are we improving our life experiences in school in kind of the broader area. And this this project that was [shared in a repository] was a big qualitative one. I think mostly before that, I guess I, I've done what I would call maybe like liberal arts research, or it's not like an actual research process that you kind of approach from the beginning, but more like I did a class when I evaluated it, or, you know, I, we did a program, and then we did some assessments of it. And that was more the kind of quantitative survey kind of data type of stuff. So this is definitely the biggest one -- these interviews that I've done -- that was qualitative based. 
+
+Sara Mannheimer  02:12
+Perfect, cool. So then I'm asking people to identify a specific example of a time when you prepare your data for sharing or reuse existing data. So you can use this example [that was shared in the repository], if that's the most recent one. 
+
+QR07  02:27
+Yeah. 
+
+Sara Mannheimer  02:27
+And then, if you have other things you want to talk to you throughout, we don't have to, like stick exactly to that example. But it's helpful to have just some, some specific ideas as we walk through these questions. Sure. So can you tell me about the example you had in mind? 
+
+QR07  02:45
+Yeah, so this example is kind of like the biggest thing that I worked on recently, which was basically a series of, but the overall question was, you know, we teach these [workshops on a specific topic]. And we taught them a lot like many, many workshops over the course of many years. And we always said, you know, [these workshops improve the research practices of the people who attend]. So that was something we always said, but we didn't really have any data to back that up. So the goal of this project was to see can we talk with folks who participated in these workshops and actually show a difference in their practices before and after? So I interviewed about [a dozen] people, before they took one of our workshops, and then again, three months after, and looked, and we basically talked about their workflow. So they actually drew out their workflow and then described it. And we really talked about, you know, what do you do here? Like, what tools are you using? Like, how do you approach this? And then, you know, the same thing [after the workshop], like, what's changed? What's different, like what tools you're using now that you weren't using before? How do you think about this stuff differently? And really, to try and get it like, you know, ideally, they're like, "Oh, I threw out all those tools. And I'm using all these new tools that I learned in this workshop," which didn't really happen quite to the extent that I hoped but, you know, we definitely saw some change. And I think, you know, there's always so much hindsight, but one of the things I wish I'd done was, maybe do it a little bit longer. Not at three months, but like at six months or something, because we so many of them were like, "Yeah, you know, I have some ideas, but I'm actually still in the same phase of research that I was before. So I haven't even gotten to like the [the next phase]. So I haven't had time to really think about like, how am I going to change the [next] piece." So there was the diagrams, the description, and then we also did, I also did like a, just a really short kind of questionnaire, which basically said, like, "[does your workflow align with good practice as taught in the workshops]. Do you do these things? Yes or no?" And then just compare the scores before and after. 
+
+Sara Mannheimer  05:16
+Oh, nice. So it was kind of a mixed method, you had a little bit of quantitative too.
+
+QR07  05:21
+Yeah. And I think once again, if I was going to do it again, I would give that survey to the entire group. Because, you know, there were [a number of] people in these workshops, we only interviewed [about 25%] of them. But I think it would have been interesting to see scores from a lot more people, which would have made that, you know, just more yeah, statistically significant. Basically, we couldn't really say a lot with like, here's [25% of the] people's scores. So right.
+
+Sara Mannheimer  05:47
+Okay. Cool. So did you was it like a grant? Did you have a DMP, or anything? Did you need to treat the data a certain way?
+
+QR07  06:11
+No, so no, it wasn't grant funded, it was just kind of, actually, it was a project that I started [while affiliated with a program]. So that gave me like, a lot of mentorship. [Details of the program redacted]. So there wasn't any specific funding for that, well, I guess I got a little bit of funding from my library to, like, [participate in the program] and, you know, get like software and stuff. But no, there wasn't like a grant requirement.
+
+Sara Mannheimer  06:45
+And when you published in [a repository], why did you decide to do that?
+
+QR07  06:50
+Yeah, so, you know, in addition to [job responsibility redacted], I teach a lot [about] open science. [Additional details redacted]. And so I really wanted to have more experience, like, you know, doing all of the things that I talked about, so right, I, you know, I'd published some, some data, like way back in the day in [a repository], but it was, you know, pretty messy. And, and so I was like, okay, I'm gonna do like, what is the best possible version of this, that I could imagine, like, trying to, like, you know, make the data guide and like, make sure I have all the, you know, open formats, and like, put it all together and make it really tidy and, and publish it so that I could kind of speak to that experience. And, and then also try to, you know, publish a preprint, like, publish in an open access journal, I'll try and like, hit all the components that we talked about.
+
+Sara Mannheimer  07:45
+Cool. Awesome. Okay, well, with this, that's kind of the introduction. And then we're gonna move on to these six areas, which are context, data quality, data comparability, privacy, intellectual property, and consent. And so first context, so I have a little quote, just to sort of help you see what I'm where I'm coming from here. "Qualitative research is a process that could include deep and prolonged contact and connection with research subjects, attempting to understand the subjects within their own context. And so qualitative data can be highly context dependent. And then that context is a source of data, meaning and understanding in itself. And so if you ignore the context or under use it or don't recognize your own context driven perspective, it could result in missed meaning or a misunderstanding of human phenomena." So with that sort of definition of context, can you tell me about a time, if any, during your research when you consider the issue of maintaining or communicating your data as context to future users?
+
+QR07  09:01
+So I think one one aspect of context that that kind of, I don't know that I like put a lot of thought into communicating with like, the data users, but I was trying to communicate... or something that I kind of realized was that at the end of the day, like, I was asking people to kind of critique a series of workshops that like, I kind of had put on, you know—so I wasn't the instructor. I wasn't really involved in the classroom at all, but like, it was my team who had done it. So I think there was, you know, I could definitely see like a hesitation to just say, like, "Oh, it was a super waste of time, and like, I wish I hadn't done it," you know. So that was one thing, context wise, I did kind of think about that a couple times and I wasn't really sure how to get around it besides just saying like, you know, I I'm happy to hear whatever, you know, any critiques are useful because this will help us do better in the future. I'm trying to think... I don't don't think there was anything about that in, you know, the [shared] data set, I think in the paper it might have... that might have been like one of the limitations or something as that... like, fundamentally, I was asking them to critique something that my team was doing. So I wasn't like a, like third party kind of person. So yeah, that was one thing I considered.
+
+Sara Mannheimer  10:23
+When you were making the data guide, what kind of information did you think about putting in there and ended up putting in there that could relate to the context too? 
+
+QR07  10:33
+There, I don't? 
+
+Sara Mannheimer  10:34
+Or in the review?
+
+QR07  10:35
+Yeah, I don't think there was a ton of context, really, in the data guide, I was actually just pulling it up. I think at the end of the day, it was pretty much just like a list of like, here's all the files, here's what's in those files. And when somebody had, you know, there were two people who participate in like the first interview or not the second one, making that clear, yeah, making some of the broader like, deidentification steps, clear as well.
+
+Sara Mannheimer  11:03
+Great, okay, let's move to the next one data quality. So, during your research, what did any what if any, what quality issues arose? So that could be like, and it's more about, like communicating these issues, to help future users understand that your data is trustworthy, you know? And so like, did you bring up any missing data? Or talk about the quality of your method? Or what kind of documentation or strategies did you use to communicate your data quality? 
+
+QR07  11:44
+Yeah, so once again, I think I actually went more into more detail in the actual paper, that was kind of linked to the data. And that's where I described a little bit more about like, here's how I went through and changed these transcripts. From basically like, I used online transcription service for like recordings, you know, and then those have like a bunch of random gibberish in them, [gives a specific example of a word that was difficult for the online transcription service to understand], there's lots and lots of that. So like, I read over each one and went through and had to do that. And you'll have to do that too, as we talk about [this word]. And so that's the kind of stuff that I kind of described in the paper. And you know, just about that high level, like I read over the transcripts and changed this kind of stuff. And then when I got into the de-identification, I kind of talked a little bit about that as well, like the changes I made and trying to make it really clear, like, these are the kinds of things I changed. And this is how you know that I changed something.
+
+Sara Mannheimer  12:53
+Nice. Okay. And so the paper was linked from the data set, but that wasn't necessarily included with the dataset, a discussion of that. Let's talk deidentification, since you are talking about it. 
+
+QR07  13:11
+Yeah. 
+
+Sara Mannheimer  13:13
+Tell me more about that. About your process for deidentifying—or anything about privacy and confidentiality. But you can talk about your process for deidentifying your transcripts and any challenges that you encountered during that process. 
+
+QR07  13:29
+Yeah, so one of the biggest challenges I had was like, at what level to, you know, deidentify the data. And basically, you know, I think, because these conversations were very low risk, you know, there was really nothing that I think most of the folks, I think they were kind of assuming it like would barely be deidentified at all, you know, because they were, they were pretty much saying like a bunch of stuff that they were like, this is fine. Like, I don't care if you share this information, you know. So that made me feel good, because I was like, it's not something where if I slip up, like somebody's private, you know, PII or anything gets out. So then it was really more of a question of removing direct identifiers. So any kind of like names, people say, "Oh, my PI, Dr. so and so," like, get rid of that. But because the fundamental question was "describe your research," it was very hard to, like, totally deidentify, because there's only so many people that do this, like, very specific workflow, you know, and if you knew, okay, this person works with this kind of data. They, you know, they're this level, they're a third year postdoc, you know, it's like, oh, well, they're either this person, this person, or this person at [the university]. So what I tried to do was kind of keep the integrity of the overall like research process and the kinds of questions that they had, while still broadening it a little bit. So, for example, if someone said, like, "I work with cancer cells," I would just change it to like cells. Or if "I work with like, you know, breast cancer," I would change it to like cancer or disease or something like that. So that I could still, you know, have all the names of the tools, and, you know, all of that kind of stuff without making it so specific. And really, the reason that I was, you know, the only reason that I thought, you know, people might not want to have this out there is that, well, there were two, one, some there was, you know, there were several people who talked about, you know, the reason they weren't able to implement these new tools or processes was because there was resistance from other PIs, who are like, "I [use this tool], like, you're gonna [use this tool]," like, we're all gonna [use this tool]. So I didn't want that to be like a weird tension, or where people felt like, "Oh, I'm gonna get in trouble or seem like I'm talking out of school." And then a couple times, one or two people said, "Oh, this is actually like a brand new thing we're doing. And I don't want people to know that we're doing this or like, I don't want us to get scooped." So yeah, so that's something where I really tried to, like, make it super broad. So it was kind of you couldn't tell, oh, they're, they're doing this, like brand new state of the art, you know, way of, you know, gathering this kind of data. So that was another thing that I considered. But it was still really hard. You know, I gave a couple of the transcripts to [colleagues], you know, to say like, "Okay, if you read this, like, can you figure out what this is? Like, can you get to this level?" And I think I, you know, if you, if you knew who had been in the class, you probably could have picked out I mean, based on that, but I don't think given like, you know, the number of people at [the university] that you would be able to identify at the level that we ended up deidentifying at.
+
+Sara Mannheimer  17:04
+How did you... How did you talk about this process? In your paper? Or with the data set? Did you sort of walk through your thought process here? Is this documented with your data and your paper? 
+
+QR07  17:19
+Yeah, I mean, it's pretty much... I'm looking at the guide now, it has some very high level notes, which basically just says, like, you know, what I told you, so, you know, removing all direct identifiers, and generalizing topics of research. And then the fact that I, whenever I did that, I indicated it, so I with square brackets, so I would say like, disease, or name and square bracket, so people could see like, every time something had been changed, but that's about it. Like that's what it says in the notes here. And that's pretty much a paper. 
+
+Sara Mannheimer  17:50
+Okay. And then also, how did you develop this workflow for deidentification? Was it through your program? Or the librarian research program? I can't remember. Or did you talk to colleagues?
+
+QR07  18:06
+Um, yeah, I think I, you know, I looked at some [other qualitative datasets that were shared online] and to see like, what do they talk about? And, you know, I think the stuff about, like, removing direct identifiers is like, pretty obvious. You're like, okay, I can do that. But it's the indirect identifiers. And like, how many until like, you know... Like, you know, the fact that they're a postdoc, and they're in this department, and they're, you know, they do this kind of research, it's like, how many can you keep, to still make it meaningful, but get rid of to make it vague, you know, that was kind of a balance.
+
+Sara Mannheimer  18:48
+I'm not looking forward to this when I deidentify my interview transcripts. 
+
+QR07  18:50
+I know, I know. And it's, it is a challenge, you know, and I think that that's something I struggle with is I didn't really find like a ton of really good information about that, because it's so specific to the kinds of questions you're asking and the research that you're doing. And I think for me, looking back, there was definitely stuff I asked about where I just could have not asked, you know, like, I would be like, oh, which department? Are you at your....And it's like, why did I ask that I didn't need that information. Now I have to go redact that
+
+Sara Mannheimer  19:21
+When you had your... when you were like, going through the consent process, did you think about not saying that you would keep things kind of like private or confidential like not saying you would deidentify their data?
+
+QR07  19:35
+You mean, like not over promising or just not saying that? 
+
+Sara Mannheimer  19:40
+Well, you know, you were saying some people said, "Oh, it's fine. You can just share all of the details about my research." I was wond-, like, I feel I could have done this in my consent form, but it's too late now. So I could say, must I deidentify, or are you okay being named? And then, because in some cases maybe people want credit for participating in the study or, you know, for the, their, you know, contribution to this research.
+
+QR07  20:10
+Yeah, no, I didn't really consider that. I can't remember what exactly I said, I know that I have my things in here. I remember thinking after the fact, like, I think I said, your anonymous transcripts, and I know that there's like, you can like, get into, like, anonymous versus like, you know, de-identified versus, you know, so some of that stuff. I think that I might have tweaked later. Or if I'd done it again, I, I might have said something else. But I did try to be really clear that like, I am going to share the transcripts, like the full transcript. So let me know if that's a problem. And another thing I did do as part of the process is I did send them out to everyone and say, and I said, like, this is what I'm sharing. Yeah, let me know if you have any issues. And and nobody said anything. So okay.
+
+Sara Mannheimer  21:13
+Let's go up to consent actually. Tell me about a time during this research when you considered the idea of consent, particularly the people consenting to the future use of their data. And then yeah, just talk through that idea. 
+
+QR07  21:32
+Yeah, let me see if I can just pull up the form real quick. It's been a couple years. I want to make sure. Yeah, because, you know, this, I did go through IRB and everything, I wanted to make sure my consent forms were, like, totally legit, and had that language in it....protocol....paperwork.... My schema that made so much sense to me before and now I'm okay, well, I'm not... I think it would be under IRB? But no, anyways, I just wanted to be really clear that like, it would, you know, I would be sharing the data and that, you know, they could say yes or no. And, yeah, there we go. 
+
+Sara Mannheimer  22:44
+And does your IRB has specific language for data reuse?
+
+QR07  22:52
+So, they, they kind of do. They have some, you know, approved forms that kind of talk about like, you know, this may or may be reused in the future or may be shared, you know, for research purposes. And let me see if I can find exactly the data. Yes, okay. So I said, "We will keep the, the will keep the data we collect confidential, and we will not share your personal information with anyone outside the research team. Audio recordings will be transcribed, deidentified and anonymized data may be shared in accordance with founder and publisher policies." So yeah, I probably could have left off anonymize? I don't know. But I feel like I've read that that one's like maybe like a higher bar to or that people have slightly different ideas of that. So yeah, and then I read this through and, you know, talked about with people and was like very clear that I think that I'm going to be sharing these transcripts.
+
+Sara Mannheimer  23:58
+Did anybody have questions about it? Like, how they, what that would mean?
+
+QR07  24:03
+I don't think so. No, I mean, most people were kind of like, oh, okay, like, you know, and then like I said, a couple people during the process said like, "Oh, wait, can you not include that? Or can you like, take that out or something?"
+
+Sara Mannheimer  24:17
+Yeah, that idea of sharing the transcript with the research subject. Very interesting. I don't think I'm gonna do it because I interviewed too many people but, but yeah, this is interesting. Okay, cool. Um, let's move to data comparability. This is another sort of epistemological issue that I have seen. So, during your research, did you compare or combine multiple qualitative datasets? Or did you consider the idea of comparability or combining the data set in the future or interoperability of your data with future data?
+
+QR07  25:04
+Yeah, so I didn't kind of combine this with other external or other data sets. And, you know, I did try to think a lot as I was preparing everything for [sharing in the repository], like how would somebody use this for a different kind of question? Or like, if somebody wanted to repeat it or something? And, you know, it's, this is kind of the first big like, qualitative project I did. So I think that I was also just like, oh, my goodness, like every qualitative project has so much data. Well, not every but like this one. There's just so much data. And you could do like multiple research projects, you could you could do a whole research project on just like, the PI-postdoc relationship, because that came up so often. And I had to be like, that's not relevant to my study, like, you know, there's a little bit but not like, I can't write a whole paper just on that -- one could, but I didn't want to. So there was a lot of that kind of stuff where I was like, oh, that would be interesting. Like, there's nothing about the way that I tagged things that would indicate that that's something you can do with this; you would really need to like, kind of read it over. But that was something I was considering is like, what do I think that's... I think the most likely use of this would be, you know, "I want to do something similar. So I want to see what questions you ask you're like, how did you put together the interview guide?" Or, you know, something like that?
+
+Sara Mannheimer  26:36
+Yeah, I think that's good. And then thinking about like... No, okay, I think we're done there. Let's see. I do. I guess I just have one more question. But we have an opportunity for you to tell me if there are any other issues that came up at the end. So how about intellectual property? Can you tell me about a time during the process of this research when you considered intellectual property concerns? So like, participant intellectual property, or for your organization? 
+
+QR07  27:25
+Yeah I mean, I think the only real time that came up was this question of, are we detailing specific research methods that might then be scooped, or that might, you know, lead to a patent that this will somehow get that, you know, nullify that. But I figured through the kind of broadening of the topics, slash, like, this is not going to be the world's most read paper, and the most viewed data set, like it's kind of security through obscurity, in a way, you know, I just didn't really think that like, that much was gonna go on around it. So that's kind of where I landed on that. And then other than that, not really, you know, I was, I thought about the fact that it was going to be cc zero. But I think my, my overall approach was, you know, I gathered all this data, I did write two papers out of it. And I was so sick of it by the end, I was like, please, like, do whatever you want. Like, I'm not like trying to hold on to it and like, get all these other papers out of it. So yeah, very much like, take it.
+
+Sara Mannheimer  28:43
+Okay, wonderful. Wait, let me go back to the consent idea real quick, because I'm just thinking about like, I want to... when you talk to the [participants] who you interviewed, do you think it was like the fact that their data was going to be completely deidentified that helped them feel so comfortable with consenting to basically any future use, you know, you've put the data into the public domain? Like, did you get any kind of questions, or? I don't know what, why do you think they were so open to that?
+
+QR07  29:23
+Yeah, I mean, I think it was a couple things. I think it was that the topic was pretty innocuous, you know, we're really just talking about like, oh, what tools do you like, what do you do? It's, it's not something that's like really that sensitive or revealing, you know. I think it's, it's also partly that they didn't really know what what level we were going to get to, at that point, you know, like I told them, like, this is what the project is about. And this is the kinds of stuff we're going to be talking about. But you know, I think that some of them didn't really understand until we kind of dove into it. And that's when like one or two people's like "Oh actually could even like not include that piece" or so I think in the beginning, it's kind of just like, yeah, whatever, I'm happy to talk and like, I don't care, there's nothing sensitive. But then, you know, maybe it's like, you're it's a little more like, oh, wait, that is actually something or like, you know, somebody would say something about their PI. And they'd be like, Oh, don't include that or, like, take that out or something. 
+
+Sara Mannheimer  30:19
+Yeah. Okay, that's really interesting. Cool. All right. So are there any other issues or challenges that arose as you were preparing and publishing this data that I haven't asked you about? sort of related to data curation and sharing? And. Yeah.
+
+QR07  30:42
+Yeah. Um, I don't know of like challenges, but it's just been really interesting to hear some of your like questions, too, because I don't have like a ton of qualitative training, you know, like, I didn't do theory classes in grad school, or, and this kind of all of this stuff about, like, approach and like your own, like, positionality and stuff was like, honestly, not really something I thought about a lot. I was just sort of, like, let me get that data. And then like, let me analyze that data. And, you know, as I was analyzing, and I was just like, oh, my goodness, there's like, so many different ways you could approach this and so many different questions. And I think to me, it's also helped me think about, you know, [think about what reproducibility means for qualitative data]. So, you know, the majority of [people I interact with in my position] are postdocs who are very computational people. So they're dealing with quantitative data, they're very much focused on like, "I have input data, I have code, I have some kind of analysis, and I have my like, output results" and like, so then we can talk about like, well, if somebody else had that same data, use your code, would they get the same results? Like that's the goal, you know, right. And trying to, like, bring that to a qualitative research group is like, very different. And they're like, "Well, there's no way that somebody else would, even having the same like, codes, as you did. And like reading your methods, there's like no way that somebody would go in and like, get the same results." Which I think is super true. And so for me, I've been like trying to think, okay, so with maybe more with, you know, quantitative computational stuff, it's about, like, try and get as close as you can to that same results. But for the qualitative stuff, it's more about just making it really transparent. Like, this is what I did. This is like, why I did it. And this is like what I got. And so you might get completely different results, but you at least understand kind of how I got there. And so I think that's something that I was trying to think about. And, you know, that was like, grand aspirations. You know, when you actually get to like analyzing the data I used to do... It's almost just like, oh, my God, like, what the hell am I doing? Like, why did they even ask these questions? You know, like, what did I think we were going to talk about, you know, that I did like a lot of test interviews and like test drawings and stuff. But still, at the end, I was like, oh, man, there's like, was that the best approach? And like, I don't know. So, you know, this, all of this stuff. And then I think, actually, for this one, you know, I had these diagrams. And it was like, I don't think I can really anonymize or like, deidentify these diagrams at the end of the day. So I didn't include those in the, in the data set. All I had was like the interview transcripts where people described their diagrams, because I also didn't really like analyze the diagrams, because I was just like, I don't really know how to do that. You know, with like, oh, they drew this and then they drew this, so it was more just like using those as a prompt to then write, have a conversation, and then like, okay, I'll just analyze, like, what they said, in the conversation. So, yeah, I think one of the greater issues was just like, not really knowing a lot about qualitative research and trying to figure that out, kind of as I went.
+
+Sara Mannheimer  34:02
+Well, I those are such good... I feel like I'm experiencing the same. It's like, I as an interviewer have interviewees, like say certain things, I like prompt people in certain ways. I like want to make people happy. So I like you know, like, I want to support what they're saying when I probably should ask more questions. So it's like, there's just so much that is dependent on the researcher and the interviewee. And you're right. It's like, that's the beauty of qualitative research, but also can mean that each researcher, the researcher is part of the process, you know, so I think that's part of that context thing. Like if you really want to get into it, I suppose I could talk about that, you know, like talk through how I as a researcher, my own context contributed to the way the interviewees are gonna respond. Anyway, I'm getting off track.
+
+QR07  34:58
+Yeah, well, and that that brings to mind actually a different aspect of context I didn't really think about which was that, like, fundamentally, I don't have a science or biomedical science background. And so I bet there were times when somebody was describing something, and they were forgetting steps, or they were like, not going deep enough. But I didn't know that. So I didn't know enough to say like, well, then how do you get the data from this stage to this stage or something? Like, they would just be like, um, then I take this, and then I do this. And I'd be like, great, you know, like, what tools did you use? Or, you know, people would say, a tool. And maybe it was like, well I don't know that this happened, but they could have said, like, [a specific element of a tool] or something like that, where, you know, I didn't like ask enough follow up questions, or could have asked more like, clarifying questions, because some people are describing as like, super complicated, like, RNA sequencing steps, and I'm just like, alright, you know, like, you know, sounds great, no follow up questions, because I, like, I understand what you're talking about. So that was like, also an interesting kind of exercise. I'm just trying to remember like, okay, well, I'm trying to remember where we're starting and where we're ending up and like, you know, okay, what tool do you use there and there. And that was like, an interesting aspect to where as someone who like, was very familiar with that kind of research, I'm sure could have asked like, more probing questions along the way.
+
+Sara Mannheimer  36:27
+Right? Yeah. Well, I guess that's why you publish your data, then people can do, do their own study, ask more questions, bring your data in. So yeah, your dataset looked so good. I was like, really gonna look at this. Okay, well, I think that's it. 
+
+QR07  38:39
+Yeah, that sounds good. Well, so all of this, you said you're you're kind of writing a dissertation, or are you thinking you'll have like articles that will be coming out as well?
+
+Sara Mannheimer  38:49
+I might make it into a book, depending on if I get a sabbatical. But definitely, I think there will be articles, or some kind of publication besides that dissertation. So yeah, I will let you know when it's supposed to come out in the next couple of years. 
+
+QR07  39:07
+Yeah, I think especially this, this question of like, deidentification and anonymization of qualitative data is still an area where I like struggle to find useful resources to give people and it's, it's, it's a group that I've been like working more with, it's kind of our qualitative researchers. And they're still just like, "Well, how do I do it?" And I'm like, "Well, here's the, you know, the repository is kind of guidance." But other than that, it's kind of hard to find, like, useful guides.
+
+Sara Mannheimer  39:35
+Oh, okay. That's good to know. Because I could see putting like a little guide as part of it. That's the part. I want the dissertation to be like, practice, have recommendations for practice and help us improve library practice. So yeah, yeah, I'll definitely think about that. Yeah.  All right. Well, thank you so much. This was great.
+
+QR07  39:58
+Yeah, good chatting with you and I look forward to seeing all the all the things that come out of this. 
+
+Sara Mannheimer  40:03
+Cool. All right, thank you so much, talk to you soon. Okay, bye
