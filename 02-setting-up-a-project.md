@@ -176,7 +176,7 @@ QualCoder is (as of 2025) the only free CAQDAS which supports both
 codebook and project import and export using REFI-QDA.
 :::
 
-To import a REFI-QDA project to QualCoder, use `Project-Import-?????`
+To import a REFI-QDA project to QualCoder, use `Project-Import-REFI-QDA Project import`
 and select `Mannheimer_Redacted_Interivew_Analysis.qdpx` from the data
 directory. After a brief time, you may see a warning about features that
 are not fully implemented yet, then your action log should display
