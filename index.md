@@ -16,6 +16,14 @@ No experience with qualitative software or QDR is necessary, but the lesson assu
 
 ::: 
 
+::: callout
+
+### SECTIONS IN REDEVELOPMENT
+
+**Please note that some sections of the lesson (currently the last 2 episodes) are still being actively redeveloped to apply to QualCoder instead of Taguette. This note will be removed when conversion is complete.**
+
+:::
+
 ## Acknowledgments
 
 This lesson was developed in part through grants from the [Institute of Museum and Library Services][imls], in collaboration with [QDR][qdr], the [Virginia Tech University Libraries][vt-lib], [Library Carpentry][lib-carpentry], and the [UCLA Library][ucla-lib]. We thank all contributors and reviewers.
