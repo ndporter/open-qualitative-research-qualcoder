@@ -69,7 +69,7 @@ summary of the new project.
 
 ## Importing and navigating documents
 
-Documents can be imported one at a time with the `Manage - Manage Files`
+Documents can be imported with the `Manage - Manage Files`
 command. Add the `BSR_Interview_Guide` and `BSR01_Transcript` by
 clicking on the `Page` icon with a `+` or pressing `CTRL+2` (Windows) or
 `CMD+2` (Mac). You can select multiple files by holding `CTRL` or `CMD`
@@ -87,6 +87,9 @@ importing, which removes formatting and visual elements. The
 [QualCoder](https://github.com/ccbogel/QualCoder/wiki/3.2.-Files) Wiki
 provides guidance on how to pre-convert PDFs to a text format if you
 experience readability problems.
+
+In general, the best results will come from importing text documents in text (TXT/RTF), Word (DOC/DOCX), or webpage (HTM/HTML) formats rather than PDF.
+
 :::
 
 Semi-structured interview guides often include both main questions like
@@ -134,7 +137,7 @@ context menu on a selected column.
 :::
 :::::
 
-Documents can also be created and edited in QualCoder, but it's
+Documents can also be created and edited in QualCoder, but its
 interface is not optimized for significant edits. In general, any
 changes, including the removal of [personally identifiable
 information](https://en.wikipedia.org/wiki/Personal_data) from data that
