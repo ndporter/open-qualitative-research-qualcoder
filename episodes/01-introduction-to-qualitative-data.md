@@ -1,5 +1,5 @@
 ---
-title: 'Introduction to Qualitative Data'
+title: 'Qualitative Data and QualCoder'
 teaching: 30
 exercises: 30
 ---
@@ -8,14 +8,15 @@ exercises: 30
 
 -   What can we learn from existing qualitative data?
 -   How is qualitative interview data typically structured?
+-   How can documents and projects be imported into QualCoder?
 
 :::
 
 ::: objectives
 
--   Appreciate the goals and approach of this lesson
--   Identify opportunities and barriers for qualitative data reuse
 -   Practice finding and downloading data from a qualitative data repository
+-   Create a QualCoder project
+-   Practice importing and organizing documents
 
 :::
 
@@ -72,19 +73,7 @@ Following the link in the dissertation, visit the data's [summary page](https://
 
 Essentially, QDR is a place for researchers to share qualitative and mixed methods data in a variety of forms, as well as their analysis projects. Some data are restricted and require an application or agreement before using, but other data, including what we are interested in, are openly available to any registered user.
 
-Before going to the trouble of registering, let's take a look at what is actually available in this data collection.
-
 ![](fig/qdr-project-page.png){alt="Screenshot of a webpage titled \"Interviews regarding data curation for qualitative data reuse and big social research\" within QDR"}
-
-The description, once expanded with the `Read full description` button summarizes the project, research questions, data collection process, and what is included in the collection here.
-
-::: discussion
-
-### Assessing usefulness
-
-Spend a few minutes reading the description and discuss with a partner how helpful you think this data might be for the social media privacy project and why.
-
-:::
 
 This project contains a wide variety of information, including:
 
@@ -100,7 +89,27 @@ Both the topic and the range of data available seem promising, and the QDR Stand
 
 ### Create a QDR Account
 
-If you don't already have one, you'll need to create an account at QDR for the next step. To do so, click [Register](https://qdr.syr.edu/user/register). in the top right of the summary page. Fill out the registration form and click `Create new account`, performing any necessary verification before proceeding.
+If you don't already have one, you'll need to create an account at QDR for the next step. To do so with your email, click [Register](https://qdr.syr.edu/user/register). in the top right of the summary page. Alternatively, you can use an ORCID or Google account to register by clicking `Login` and finding the appropriate option. Fill out the registration form and click `Create new account`, performing any necessary verification before proceeding.
+
+:::
+
+::: instructor
+
+QDR or your local internet network may be overwhelmed if larger groups download the full project simultaneously. For this workshop, you may choose to have learners instead exclude the NVPX (NVivo) file, which will reduce the download size by around 95%. To do this:
+1. Check the box at the top-left of the file list (below the project description).
+2. Click `select all 42 files in this data project`.
+3. Scroll to the bottom of the list, navigate to the last page, and uncheck the NVPX file
+4. Click `Download`
+
+Alternatively, learners can select only the files that will be used in the workshop. This is the most efficient but least like common data reuse patterns, where researchers won't necessarily know which raw datafiles have the information of interest to them.
+
+List of files for workshop:
+
+- README_Mannheimer.txt
+- Mannheimer_BSR01_Transcript.pdf
+- Mannheimer_BSR02_Transcript.pdf
+- Mannheimer_BSR05_Transcript.pdf
+- Mannheimer_Redacted_Interview_Analysis.qdpx
 
 :::
 
@@ -116,7 +125,7 @@ Open the folder using `Finder` (Mac) or `Explorer` (Windows) and inspect the fil
 
 ::: hint
 
-Don't worry if you don't recognize all of the file types. Just identify what you know. If you have time during the exercise, you can use a web search like `open pdf file` to search for information.
+Don't worry if you don't recognize all of the file types. Just identify what you know. If you have time during the exercise, you can use a web search like `txt extension` to search for information.
 
 :::
 
@@ -134,9 +143,51 @@ In this project, the `txt` files provide *metadata*, or information about the pr
 :::
 :::
 
-## Methodologies and Instruments
+## Creating a QualCoder Project
 
-Maybe you noticed something interesting about the interview topics in the description when we first looked at the data on QDR. Let's look again, either on the [project page](https://doi.org/10.5064/F6GWMU4O) or by opening the `README_Mannheimer.txt` in a text editor.
+Once we have a general sense of the data we'll be using and what format it needs to be in, the next step is generally to create a project in a qualitative software package and import the de-identified raw data.
+
+[QualCoder](https://qualcoder.wordpress.com/) is an open-source and cross-platform tool for coding and analysis of textual data. It is capable of working with a variety of data formats and has tools for both qualitative and mixed methods analysis.
+
+
+::: spoiler
+### Qualitative software
+
+Qualitative software is sometimes called **CAQDAS** or **QDAS**, an acronym for *Coding and Qualitative Data Analysis Software* to recognize the two essential functions of qualitative research software:
+
+1.  Apply codes or tags systematically to a collection of data sources
+2.  Analyze codes (and sometimes raw data or secondary sources) to draw conclusions
+
+CAQDAS have various features that may be useful for particular types of data or methodologies. This lesson includes an [alternative software options page](../learners/alternative-software-options.html) for those interested in learning about other CAQDAS.
+:::
+
+## Starting QualCoder
+
+If you haven't already installed QualCoder, please follow the instructions in [Summary and Setup][../index.html] before proceeding.
+
+When you first open QualCoder, it will display the `Action Log` tab with some information about project settings and any currently-open projects, like the example below.
+
+![](fig/qualcoder-launch-screen.png){alt="Image of the Action Log tab of QualCoder immediately after the program is launched"}
+
+## Creating a project
+
+Work in QualCoder is organized in projects, each of which contain their
+own sets of *files*, *codes* and other information. Click
+`Project - Create New Project` and, after choosing a location where you
+can easily find it later (like your `Desktop`) give the project a clear
+name like `Social_media_privacy_project_planning`. This creates a new
+folder whose name ends in `.qda` so QualCoder can identify it easily as
+a project.
+
+Clicking `Save` returns us to the action log, which now displays a
+summary of the new project.
+
+
+## Importing and navigating files
+
+Now that we have a QualCoder project, let's take a look at what the original data contains. QDAS projects store copies of sources within their directory. To see the project description, we'll first need to import `README_Mannheimer.txt` into our project.
+
+Documents can be imported with the `Manage - Manage Files` command. Add `README_Mannheimer.txt` by clicking on the `Page` icon with a `+` or pressing `CTRL/CMD+2`.
 
 ::: spoiler
 
@@ -146,35 +197,11 @@ In collections of data or other multi-file downloads, there is often a file name
 
 :::
 
-Let's zero in on the first paragraph under `Data Description and Collection Overview`:
+To view the contents of the file, open `Code text` from the `Coding` menu at the top-left then click on the name of the file you just imported at the left. Zero in on the first paragraph under `Data Description and Collection Overview`:
 
 > The data in this study was collected using semi-structured interviews that centered around specific incidents of qualitative data archiving or reuse, big social research, or data curation. The participants for the interviews were therefore drawn from three categories: researchers who have used big social data, qualitative researchers who have published or reused qualitative data, and data curators who have worked with one or both types of data. Six key issues were identified in a literature review, and were then used to structure three interview guides for the semi-structured interviews. The six issues are context, data quality and trustworthiness, data comparability, informed consent, privacy and confidentiality, and intellectual property and data ownership.
 
-This short paragraph packs a great deal of information about the interview topics and questions. Our topic of social media privacy may share a good deal with some of the issues the original interviews focused on. Let's look a little deeper into what we can learn to help in our own study.
-
-::: challenge
-
-### Reviewing study materials
-
-Study materials from previous studies, like interview schedules or participant observation memos, provide a window into what might work for other related studies, including both what to ask and how to approach asking. Moreover, if the research dealt with a similar study population and the final product addressed topics of interest in your study as well, it also provides some evidence that a similar study design can be effective not just in theory but in practice.
-
-Use the information in `README_Mannheimer.txt` to locate the 3 interview guides and use the readme and guides to answer the following questions:
-
-1.  Which of the six issues the researchers identified seem most relevant to planning your study? Why?
-2.  Is one of the original study populations more relevant to understanding shared issues with your study? Which one and why?
-3.  Read through the questions in the interview guide for the most relevant population you identified above. Are there questions that might be adapted or borrowed for your own interviews about social media privacy decisions?
-
-:::
-
-::: instructor
-
-### Challenge tips
-
-The activity above is most effective when participants are able to debrief for about 5 minutes either with small groups of 3-5 learners or as a larger group. When used independently, the learner may want to write down some notes instead.
-
-Alternatively, this activity may be moved to after the project is created, in which case learners can import the files into their project and annotate them using journals.
-
-:::
+This short paragraph packs a great deal of information about the interview topics and questions. Our topic of social media privacy may share a good deal with some of the issues the original interviews focused on.
 
 For now, we're going to focus on the Big Social Research group, because the type of data they were interviewed about their work with is the most similar to what our participants may be sharing. You may have drawn a different conclusion, and likewise, each group might provide unique insights.
 
@@ -182,13 +209,13 @@ If we can adapt questions and anticipate concerns and challenges relevant to our
 
 ## Raw Data
 
-Interview schedules and study plans provide insight into **the research team's** expectations and approaches. The power of raw data, such as interview transcripts, is that it shows (much more directly) how **the study participants** construct their own views of the study topics and respond to the questions. Context and constructivism are core concerns of most qualitative researchers, leading the raw data to be possibly the most critical aspect of data for faithful and effective reuse.
+Interview schedules and study plans provide insight into **the research team's** expectations and approaches. The power of raw data, such as interview transcripts, is that it shows (much more directly) how **the study participants** construct their own views of the study topics and respond to the questions. Context and constructivism are core concerns of most qualitative researchers, lending the raw data possibly the most critical aspect of data for faithful and effective reuse.
 
 It's possible to conduct entirely secondary studies if enough raw data are available in relevant context that address relevant topics. Often, however, existing data serves as a type of pilot study - providing initial evidence as to where to begin and what to ask while still allowing the new research team to explore aspects of the data that were less relevant or highlighted in the original study.
 
 One of the most commonly-analyzed types of raw qualitative data is interview transcripts, like we have in our project. QualCoder provides support for working directly with audio and video files. Text, however, is often preferred because it simplifies the process of removing potentially identifying information and enables both rapid scanning of content and accessibility technology.
 
-Let's open one of the Big Social transcripts, `Mannheimer_BSR01_Transcript.pdf`, in your default `PDF` reader and look at how transcripts are structured in this project.
+Let's open one of the Big Social transcripts, `Mannheimer_BSR01_Transcript.pdf`, in your default `PDF` reader (not QualCoder) and look at how transcripts are structured in this project.
 
 ![](fig/big-social-transcript-image.png){alt="Upper portion of the first page of an interview transcript"}
 
@@ -206,57 +233,37 @@ Reading even this first section in the image, we can get some insight into decis
 
 The respondent may not have read all the questions but did identify a project that the rest of the interview will revolve around.
 
-::: callout
-
-### Critical incident technique
-
-Framing a qualitative interview around one specific event or project is a technique known as a [Critical Incident Interview](https://en.wikipedia.org/wiki/Critical_incident_technique) and often elicits a wider variety of reflection than abstract questions alone.
-
-:::
-
 ::: challenge
 
-### Reading interviews
+## Import additional files
 
-Read the following excerpt from `BSR01`s interview and consider the questions below:
+Import the following three files into QualCoder, then open the `BSR_01` transcript and compare the formatting in the preview to what it looked like in the original PDF.
 
-> **Sara Mannheimer**
->
-> All right on to privacy and confidentiality. Can you tell me about a time if any during your research process when you considered issues of privacy, protecting the data during your research or protecting the people on the platform.
->
-> **BSR01 25:03**
->
-> Yeah, so a good example of that would be my previous project where I was looking at biases in the language of peer review. I was looking at gender bias, what are the biases looking with gender bias. For that we had an external annotator annotate gender for the authors on the platform of these papers. And the protocol we followed was semi automatic. So we use the US Social Security data to infer genders with some confidence probability. For example, if there was a certain name, let's say Jack, that was reported as male 99% of the time, we would tag it as male. And same thing if it was reported as female and 99% time we would tag it as female or non male rather. But if it was less confident, we had the human annotator, search for the name search for their Google profile and make a guess as to what this person's gender is. So we were, so we were trying to mimic the reviewers perception of the author's agenda. And because bias, the bias would be driven based on that perception, and not the self reported gender of the author. We did not release these gender annotations, because we didn't, we thought it would cause issues if we mislabeled an author's gender. And these authors are a part of the community that we publish. Yeah. So we opted to not release identities. And we actually at the end of the paper, we actually have an ethics statement where we talk about why we're not doing that. But the data, the data itself is public.
->
-> **Sara Mannheimer 27:08**
->
-> And I guess sometimes with social media, there are like considerations of move it, like moving the data out, out of its context, in Reddit, you know, and you're letting it be downloaded. I think in your situation, since all of the users were anonymous, that changes things a little.
->
-> **BSR01 27:33**
->
-> So they were anonymous in the sense that I couldn't tie it to their real identity. But some people use this same username on all these online platforms. And that is that that is a concern. So let's say there's a user in my data who said something they regret, and they delete their post or their comment. It's still going to be there in my data set.
+**Files to import**
 
-Your study, again, is focused on the decisions individual social media users make about the privacy of their posts. This excerpt is primarily focused on how researchers protect (or fail to protect) the privacy of online users.
+- Mannheimer_BSR01_Transcript.pdf
+- Mannheimer_BSR02_Transcript.pdf
+- Mannheimer_BSR05_Transcript.pdf
 
-1.  What direct discussion, if any, is there of user privacy decision processes here?
-2.  How might the example of name matching processes used by `BRS01` inform how your team asks about privacy concerns with your study participants?
+::: hint
+
+QualCoder converts all text and PDF documents to plain text when importing, which removes formatting and visual elements. The [QualCoder](https://github.com/ccbogel/QualCoder/wiki/3.2.-Files) Wiki provides guidance on how to pre-convert PDFs to a text format if you experience readability problems.
+
+In general, the best results will come from importing text documents in text (TXT/RTF), Word (DOC/DOCX), or webpage (HTM/HTML) formats rather than PDF.
 
 :::
 
-::: instructor
-
-### Challenge tips
-
-The activity above is most effective when participants are able to debrief for about 3 minutes either with small groups of 2-3 learners or as a larger group. When used independently, the learner may want to write down some notes instead.
-
-Alternatively, if this activity is moved to after the project is created, learners can import the files into their project and annotate them using journals.
 :::
+
+Documents can also be created and edited in QualCoder, but its interface is not optimized for significant edits. In general, any changes, including the removal of [personally identifiable information](https://en.wikipedia.org/wiki/Personal_data) from data that will be shared, should take place before they are added to the project.
+
+In the next section of the workshop, we will develop multiple kinds of qualitative codes and apply them to the interviews you just imported in QualCoder.
 
 ::: keypoints
 
 - Qualitative data can take many forms, but text or transcribed audio-visual data are among the most common
 - Reusing existing qualitative data can help plan studies more efficiently and effectively
-- Qualitative coding and data analysis tools are each compatible with different formats of data
 - The Qualitative Data Repository is a source for vetted qualitative and mixed methods data
+- QualCoder's interface has sections for managing various aspects of projects and uses a mix of icons, menus, and pop-up windows to perform actions
 
 :::
