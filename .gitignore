@@ -3,6 +3,9 @@ episodes/*html
 site/*
 !site/README.md
 
+#personal dev notes doc
+parking*
+
 # History files
 .Rhistory
 .Rapp.history
