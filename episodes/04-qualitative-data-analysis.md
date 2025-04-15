@@ -4,12 +4,6 @@ teaching: 30
 exercises: 30
 ---
 
-::: callout
-### SECTION IN REDEVELOPMENT
-
-**Please note that this section of the lesson is still being actively redeveloped to apply to QualCoder instead of Taguette. This note will be removed when conversion is complete.**
-:::
-
 ::: questions
 -   How can QualCoder help analyze coded data?
 -   What are some common approaches to analyzing qualitative data?
