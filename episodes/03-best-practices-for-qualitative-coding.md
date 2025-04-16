@@ -250,7 +250,7 @@ The report shows all three text chunks coded to any of the selected privacy code
 
 ::: callout
 
-## Categories with codes
+### Categories with codes
 
 Other major QDAS, unlike QualCoder, allows coding directly to categories. This project was originally created in NVivo and had text coded to both codes and categories. When importing a QDPX project, QualCoder creates codes with identical names when it encounters a category with codes.
 
@@ -272,7 +272,7 @@ There is no authoritative right or wrong answer here. Whether to combine or spli
 
 :::
 
-We won't make any changes at this time, but if you did want to merge 2 codes, you would use the `Code organizer` or `Code text` screen, right-click one, and select `Merge code into code`. Now both will be a single code by the `into` name, which you can rename if needed.
+We won't make any changes at this time, but if you did want to merge two codes, you would use the `Code organizer` or `Code text` screen, right-click one, and select `Merge code into code`. Now both will be a single code by the `into` name, which you can rename if needed.
 
 QualCoder's coding tools (specifically `Code text`, `Code organizer` and `Coding report`) comprise the core suite for the coding process itself. In the next section, we will build on that foundation and explore qualitative and mixed methods analysis methods that can be used in QualCoder.
 
