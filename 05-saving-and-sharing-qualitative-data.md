@@ -4,17 +4,9 @@ teaching: 30
 exercises: 30
 ---
 
-::: callout
-
-### SECTION IN REDEVELOPMENT
-
-**Please note that this section of the lesson is still being actively redeveloped to apply to QualCoder instead of Taguette. This note will be removed when conversion is complete.**
-
-:::
-
 ::: questions
 
--   How can Taguette projects be shared or archived in common data formats?
+-   How can QualCoder projects be shared or archived in common data formats?
 -   What are the advantages of sharing qualitative data?
 -   What can I do to continue learning?
 
@@ -23,53 +15,69 @@ exercises: 30
 ::: objectives
 
 -   Recognize reasons to consider archiving or sharing qualitative data
--   Practice import/export of various parts of Taguette projects
+-   Practice import/export of various parts of QualCoder projects
 
 :::
 
 Many qualitative researchers prefer not to share or archive their data and analysis. In large part, this is because of the amount of interpretive labor they invest, along with frequent direct trusted connections with groups and individuals being studied. This trust can take time to develop before and during data collection, whether as participants or observers.
 
-There are important advantages to archiving and sharing data, however, even for qualitative data. Each researcher ultimately must make their own decisions, but this final section will outline potential values and risks of archiving or sharing data, as well as how to go about doing so in Taguette.
+There are important advantages to archiving and sharing data, however, even for qualitative data. Each researcher ultimately must make their own decisions, but this final section will outline potential values and risks of archiving or sharing data, as well as how to go about doing so in QualCoder.
 
 ::: callout
 
-Data sharing and interchangeable data formats have only recently become someone widespread in qualitative research. Be aware that information in this section may rapidly become out of date, and if in doubt, consult with a human subjects protection board, archivist, or librarian at your institution or the [Qualitative Data Repository][qdr] before sharing data.
+Data sharing and interchangeable data formats have only recently become somewhat widespread in qualitative research. Be aware that information in this section may rapidly become out of date, and if in doubt, consult with a human subjects protection board, archivist, or librarian at your institution or the [Qualitative Data Repository][qdr] before sharing data.
 
-## Import and export in Taguette
+## Import and export in QualCoder
 
-Taguette projects are automatically saved either to the cloud or your local computer, depending on whether you use the local `Single-user mode` or sign into [Taguette Cloud][[taguette_cloud].
+QualCoder projects are automatically saved to your local computer as you make changes to them.We previously used the `REFI-QDA Project import` functionality (in the `Project - Import` menu) to import Dr. Mannheimer's analyzed project.
 
-Projects and codebooks can both be exported and imported in Taguette. Projects exported from the `Project info` tab are saved as `sqlite3` databases. They're designed primarily for personal archiving and sharing or moving between cloud and local versions, so they work best if opened in Taguette. There is no tool currently available to automatically convert a Taguette project to a format compatible with other CAQDAS, although `sqlite3` is an open database format. This means the data can be accessed using other compatible software even if Taguette is no longer usable, although databases are not designed for qualitative analysis off the shelf.
+To share a project with another QualCoder user only requires copying the directory you set up when you created the project. To share with users of other CAQDAS, however, you need to export the project with the `Project - Export - REFI-QDA Project export` dialog. Choose an option on the warning screen; if you're not sure, choose the default option. Choose or create a directory for the project and click `Open`. This will create a file ending in `QDPX`.
 
-To import a previously-exported project in Taguette, click `Home` at the top to exit to the projects list. From there, click `Import a project file`, find the file you saved, and import. All documents, highlights, and tags should be intact.
+`QDPX` files use the [`REFI-QDA Project` standard](https://www.qdasoftware.org/project), an XML-based archive format that stores both source files and core components of qualitative projects in a way that most major CAQDAS packages can recognize and import. The components that can be included are below (* indicates a feature is not fully supported in imports/exports as of QualCoder 3.6).
+
+- sources (text, PDF, image and multimedia formats)*
+- segments (specified chunks of materials/data identified as meaningful by the user)
+- codes (labelled ‘tags’ attached to segments)
+- annotations (comments attached to segments, codes, sources or links)
+- memos (writing spaces for analytical notes, either standalone or attached to sources and/or codes)
+- links between codes, segments or memos
+- cases
+- sets/groups of entities*
+- visual representations of linked entities in the project*
+- user information
+
+You can also export only the codebook (`REFI-QDA Codebook export`) if you only want to share the names of codes and structure of the coding tree. This can be used by researchers with similar data to create a parallel coding structure, without the potential risks of sharing raw data. Codebook export files end in `QDC` instead of `QDPX`.
+
+For more information on imports and exports, see the [QualCoder Manual](https://github.com/ccbogel/QualCoder/wiki/6.1.-Imports-and-Exports).
 
 ::: callout
 
 ### Other qualitative data formats
 
-Each major CAQDAS package has its own proprietary data format, specialized to its features. In most cases, projects cannot be moved between software in these formats, Taguette's included. Data files in some software may also be restricted to specific platforms (Windows or Mac) or software versions.
-
-The [REFI-QDA standard](https://www.qdasoftware.org/) offers an alternative, the `QDPX` format. `QDPX` was developed in collaboration between researchers and major package developers, that provides the ability to move projects in a standard format between every major package. It is an open standard which anyone can use and adapt. Because packages structure data differently and have distinct advanced feature sets, some data may fail to import into the target tool. For [more information about REFI-QDA see here](understanding-refi-qda.md).
-
-Taguette currently only implements the codebook portion of the `QDPX` standard, and only for export. To export a codebook that can be imported in other software, choose `Export codebook` from the `Project info` tab and select `QDC (XML)`.
+Each major CAQDAS package has its own proprietary data format, specialized to its features. In most cases, projects cannot be moved between software in these formats, although QualCoder does provide direct import for [`RQDA`](http://rqda.r-forge.r-project.org/) data. Data files in some software may also be restricted to specific platforms (Windows or Mac) or software versions. In general, we recommend keeping a copy of your final project in both the original format and in `QDPX` format.
 
 :::
 
 ## Data sharing for collaboration
 
-Working with collaborators is one of the most common reasons for sharing qualitative projects. The most direct option for sharing Taguette projects with collaborators is to use [Taguette Cloud][taguette_cloud]. From the `Project info` tab, `Manage collaborators` allows you to add other users (they need to sign up first) and select the level of permissions they have to view, change, or even delete the project.
+Working with collaborators is one of the most common reasons for sharing qualitative projects. QualCoder doesn't offer a cloud storage service that would enable real-time sharing, but projects can be stored on a secure shared storage platform (such as Google Drive or Microsoft OneDrive) and used by multiple users.
 
-Sometimes, however, you only want to share a specific portion of the project with collaborators. The document or highlight view can be exported with the dropdown at the top right in `HTML` (webpage), `DOCX` (Word), or `PDF` (Adobe) format. Unlike sharing the original document, exporting this view, will show highlights and add tags in brackets so collaborators can see what codes have been applied.
+Here are a few tips to keep in mind to improve the collaborative QualCoder experience:
 
-Highlight view behaves similarly, with the addition of a `CSV` format that can be opened in Excel or other spreadsheet or data analysis software.
+1. Plan ahead to ensure only one collaborator at a time is using the data. Making changes to a project on multiple computers simultaneously may lead to data loss, and you may not even realize anything is missing or corrupted immediately.
+2. When working collaboratively, make sure to change the active user in `Project - Settings` every time you open the project. This ensures coding and other changes can be tracked by user, and also allows for later comparison of coding or *inter-rater reliability* calculations with `Coding comparison` reports.
+3. If multiple people are coding the same text, it may be easier to agree on a single coding scheme and create the code tree before starting the coding process.
+4. If adding codes after initial tree creation in a collaborative project, consider placing them under a `Draft codes` category and using journals or code memos to document your reasoning until you are able to discuss them with your team.
 
-Finally, a codebook can be automatically generated from the `Project info` tab that lists code labels, the number of highlights they have been applied to, and any description added to the codes. Formats include all those listed above, as well as `QDC` XML format (see "Other qualitative data formats" above).
+## Exporting project elements
+
+Sometimes, however, you only want to share a specific portion of the project with collaborators. Most views and reports in QualCoder can be exported in a variety of formats, including `XLS` or `CSV` (spreadsheet), `HTML` (webpage), and `TXT` (plain text). Unlike sharing a whole project, exporting individual project elements gives fine-grained control over the setup of the exported file.
 
 ## Transparency and reuse
 
 Certain scientific disciplines have called for research transparency, including sharing data and analytic procedures, with momentum growing in many social sciences. Until recently, that effort was primarily applied to quantitative data, such as surveys, experiments, and "big data" gathered from the internet.
 
-A small number of projects are working to change that perception and promote the thoughtful, informed, careful sharing of qualitative and mixed methods data as well, led in part by the [Qualitative Data Repository][qdr] and enabled by improvements in sharing like the `REFI-QDA` standard.
+A small number of initiatives are working to change that perception and promote the thoughtful, informed, careful sharing of qualitative and mixed methods data as well, led in part by the [Qualitative Data Repository][qdr] and enabled by improvements in sharing like `REFI-QDA`.
 
 ## Helping future you
 
@@ -77,7 +85,7 @@ If the arguments above don't convince you that it's good and worth the effort to
 
 Archiving your data in an open and interchangeable format that is backed up in multiple locations can help future you. If your only copy of your project is on your laptop and it is lost or destroyed before analysis and review are complete, or if you decide you want to do additional analysis later, there isn't much that can be done short of repeating a large amount of work.
 
-Taguette's single-user mode only stores data on your computer, and Taguette Cloud only saves it to the Taguette servers, which could go down at any time. Whether or not you plan to share or reuse your data, consider exporting your project from Taguette at key points, such as after you've completed initial or axial coding.
+QualCoder only stores data on your computer. Whether or not you plan to share or reuse your data, consider exporting your project at key points, such as after you've completed initial or axial coding.
 
 ## Next steps
 
@@ -90,7 +98,7 @@ In addition to the Qualitative Data Repository (used and discussed here), some o
 ::: keypoints
 
 - Archiving and sharing qualitative data can help you, your collaborators, and other researchers
-- Taguette's import and export options can help you share key components of your work
+- QualCoder's import and export options can help you share key components of your work
 - There are many resources available to continue learning about qualitative research and finding, reusing and sharing qualitative data
 
 :::
