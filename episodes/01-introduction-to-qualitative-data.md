@@ -36,8 +36,8 @@ The data we will work with are real data, although the scenario we use is somewh
 
 The first step to reuse is to understand what elements might be reused and why. Historically, research products like articles and books have been the primary shared output of qualitative research. However, there are at least four other common research products that may be valuable for reuse or adaptation:
 
--   methodologies and instruments
--   raw data
+-   methodologies and data collection instruments
+-   raw or processed (i.e. transcribed or summarized) data
 -   codebooks
 -   analysis
 
