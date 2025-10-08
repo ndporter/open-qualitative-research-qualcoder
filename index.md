@@ -16,13 +16,6 @@ No experience with qualitative software or QDR is necessary, but the lesson assu
 
 ::: 
 
-::: callout
-
-### SECTIONS IN REDEVELOPMENT
-
-**Please note that some sections of the lesson (currently the last 2 episodes) are still being actively redeveloped to apply to QualCoder instead of Taguette. This note will be removed when conversion is complete.**
-
-:::
 
 ## Acknowledgments
 
