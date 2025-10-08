@@ -11,5 +11,5 @@
 "instructors/instructor-notes.md" "cae72b6712578d74a49fea7513099f8c" "site/built/instructor-notes.md" "2023-03-16"
 "learners/alternative-software-options.md" "889d5f0f84abdff67b0daf83d26c22b3" "site/built/alternative-software-options.md" "2024-06-21"
 "learners/understanding-refi-qda.md" "7123f1b5d610b17614b23036c8f8bfea" "site/built/understanding-refi-qda.md" "2025-03-03"
-"learners/setup.md" "94d93120adf832ab4a89d698fd5b9359" "site/built/setup.md" "2025-03-01"
+"learners/setup.md" "e7a9828065e49daddd9cce7bbdc5b00e" "site/built/setup.md" "2025-10-08"
 "profiles/learner-profiles.md" "60b93493cf1da06dfd63255d73854461" "site/built/learner-profiles.md" "2022-04-22"
