@@ -15,7 +15,7 @@ Pilot work for this project was supported by grants from the IMLS in collaborati
 
 ## Contributing
 
-This curriculum is in early development. If you'd like to contribute, you can open an issue or pull request or contact the creator, [Nathaniel Porter](mailto:ndporter@vt.edu): @ndporter
+This curriculum is in beta development. If you'd like to contribute, you can open an issue or pull request or contact the creator, [Nathaniel Porter](mailto:ndporter@vt.edu): @ndporter
 
 ## License
 
